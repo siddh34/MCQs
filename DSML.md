@@ -82,9 +82,8 @@ https://www.google.com/search?q=Which+of+the+following+can+be+generally+used+to+
 
 **Answer :**  Option 1
 
-<img src="./images/sample.jpg">
+<img src="./Images/sample.jpg">
 
-<br>
 
 > Q8. The process of quantifying data is referred to as?
 
@@ -95,7 +94,7 @@ https://www.google.com/search?q=Which+of+the+following+can+be+generally+used+to+
 
 **Answer :**  Option 3
 
-<img src="./images/enumeration.jpg">
+<img src="./Images/enumeration.jpg">
 
 <br>
 
