@@ -329,9 +329,9 @@ Strategies : <br>
     3. It is a univariate analysis
     4. Bivariate analysis and univariate analysis
 
-**Answer :**  Option 1
+**Answer :**  Option 3
 
-*Explanation : It investigates the relationship between two data sets, with a pair of observations taken from a single sample or individual. Can be both bivariate and univariate*
+*Explanation : It investigates the relationship between two data sets, with a pair of observations taken from a single sample or individual. Can be univariate*
 
 > Q12. Choose the least likely assumption of a classic normal linear regression model
 
