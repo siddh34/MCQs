@@ -105,9 +105,9 @@ https://www.google.com/search?q=Which+of+the+following+can+be+generally+used+to+
     3. Prescriptive analytics
     4. None
 
-**Answer :**  Option 3
+**Answer :**  Option 1
 
-*Explanation : Prescription is done on past data to predict the future* 
+*Explanation : Descriptive analytics describes what has happened* 
 
 > Q10. what answers the question "What will happen?"?
 
@@ -174,6 +174,295 @@ https://www.google.com/search?q=Which+of+the+following+can+be+generally+used+to+
 **Answer :** Option 2
 
 *Explanation : A smart data analytics solution incorporates self-service data wrangling and data preparation features so that data may be simply and quickly gathered from a range of incomplete, difficult, or messy data sources and cleansed for mashup and analysis.*
+
+> Q16. Choose the primary characteristics of big data among the following
+
+    1. Velocity
+    2. Volume
+    3. Velocity
+    4. All of the above
+
+**Answer :** Option 4
+
+*Explanation :*
+
+<img src="./Images/question 16 unit dsml .jpg">
+
+<br>
+
+> Q17. Which of the following is not a part of the data science process.
+
+    1. Communication Building
+    2. Discovery
+    3. Operationalize
+    4. Model Building
+
+**Answer :** Option 1
+
+*Explanation : Data science process = Discovery-->DataPreparation-->model Planning & building-->communicating result->operationalize*
+
+
+> Q18. Which of the following is wrong attribute regarding with BIG Data characteristics 
+
+    1. Huge volume of data
+    2. complexity of data types and structures
+    3. less amount of data handling
+    4. high speed generation of data
+
+**Answer :** Option 3
+
+*Explanation : There is always large amount of data handling in case of Big Data*
+
+> Q19. In which way, we can not represent the data?
+
+    1. Structured data
+    2. Heavy-structured data
+    3. Quasi-structured Data
+    4. unstructured data
+
+**Answer :** Option 2
+
+*Explanation : only heavy structured data cannot be read represented*
+
+> Q20. Transaction of data of the bank is a type of.
+
+    1. Structured data
+    2. Unstructured data
+    3. semi structured data
+    4. hybrid 
+
+**Answer :**  Option 1
+
+*Explanation : Transaction data is well structured to begin with*
+
+> Q21. Which of the following can be generally used to clean and prepare big data.
+
+    1. pandas
+    2. data lakes
+    3. u-sql
+    4. Data Warehouse
+
+**Answer :** Option 4
+
+*Explanation : Data Warehouses are used for big data where data is cleaned and stored*
+
+> Q22. What are the roles which are important in New Data Ecosystem?
+
+    1. Deep analytical talent
+    2. Data Savvy Professionals
+    3. Technology and data enablers
+    4. All of the above 
+
+**Answer :** Option 4
+
+*Explanation :*
+
+<img src="./Images/roles.jpg">
+
+<br>
+
+> Q23. Hadoop , Alpine Miner and Data Wrangler are common tools used in which part of the data science process
+
+    1. Model Planning
+    2. Model Building
+    3. Communicate Results 
+    4. Data Preperation
+
+**Answer :**  Option 4
+
+*Explanation :*
+
+<img src="./Images/datapreptools.jpg">
+
+<br>
+
+> Q24 Machine learning is a subset of which of the following 
+
+    1. AI
+    2. Deep learning
+    3. Data mining
+    4. None
+
+**Answer :** Option 1
+
+*Explanation : Machine learning (ML) is the subset of artificial intelligence (AI) that focuses on building systems that learn—or improve performance—based on the data they consume.*
+
+> Q25. Identify the operation which can be performed in the data warehouse.
+
+    1. alter 
+    2. modify
+    3. scan
+    4. read/write
+
+**Answer :**  Option C
+
+*Explanation Data Loading is the operation that happens in data warehouses and in order to load data we have to scan it!*
+
+> Q26.Which of the following platform provides the parallel ingestion and analysis
+
+    1. Hadoop
+    2. Alpine miner
+    3. Open Refine
+    4. Data Wrangler
+
+**Answer :** Option 1
+
+*Explanation : Hadoop can perform parallel ingest and analysis. you can also see the screenshot of question 23*
+
+> Q27. Alpine miner, a free software tool is used for___
+
+    1. Data cleaning 
+    2. Data generation 
+    3. Data transformation 
+    4. both A and C
+
+**Answer :** Option D
+
+*Explanation :*
+
+<img src="./Images/datapreptools.jpg">
+<br>
+<img src="./Images/modelbuildingtools.jpg">
+
+<br>
+> Q28. DSS in data warehouse stands for
+
+    1. data support system
+    2. decision support system
+    3. data storable system
+    4. decision sible system
+
+**Answer :**  Option 2
+
+*Explanation : A decision support system (DSS) is a computerized program used to support determinations, judgments, and courses of action in an organization or a business.*
+
+> Q29. Which of the following is not one of the main players in big data ecosystem?
+
+    1. Data Devices
+    2. Data Collectors 
+    3. Data Users
+    4. None of the above  
+
+**Answer :** Option D
+
+*Explanation :*
+
+<img src="./Images/mainplayerofbigdata.jpg">
+
+> Q30. Which of the following is  a required skillset for a data scientist?
+
+    1. Quantitaive Skills
+    2. Technical Aptitude
+    3. Curious and Creative 
+    4. All of the above
+
+**Answer :** Option D
+
+*Explanation : A data scientist should have following ability to play the role of data scientist: Understanding of domain,Business strategy,Problem solving, Communication,Presentation,Keenness*
+
+> Q31. Big data is measured in ___bytes.
+
+    1. Mega
+    2. Giga
+    3. Tera
+    4. Peta
+
+**Answer :**  Option 4
+
+*Explanation : Big data is measured in Peta bytes*
+
+> Q32. Which of the following is a common tool used in model planning phase?
+
+    1. R 
+    2. Hadoop
+    3. Java
+    4. None
+
+**Answer :**  Option 1
+
+*Explanation : All the ML models can be made using R*
+
+> Q33. Which of the following is performed by Data Scientist?
+
+    1. Define the question
+    2. Create reproducible code
+    3. Challenge results
+    4. All of the mentioned
+
+**Answer:** option 4
+
+*Explanation: A data scientist is a job title for an employee or business intelligence (BI) consultant who excels at analyzing data, particularly large amounts of data.*
+
+> Q34. Raw data should be processed only one time.
+
+    1. True
+    2. False
+
+**Answer:** 2
+
+*Explanation: Raw data may only need to be processed once.*
+
+> Q35. 3V’s are not sufficient to describe big data.
+
+    1. True
+    2. False
+
+Answer: option 1
+
+*Explanation: IBM data scientists break big data into four dimensions: volume, variety, velocity and veracity.*
+
+> Q36. Velocity is the speed at which the data is processed -
+
+    1.True
+    2.False
+
+Answer: option 1
+
+*Explanation:The rate at which data is generated, distributed, and gathered is referred to as data velocity. High data velocity is created at such a rapid rate that it necessitates the use of specialized processing techniques. The faster data can be captured and processed, the more valuable the data collected will be and the longer it will hold its worth.*
+
+> Q39. ___ refers to the ability to turn your data useful for business.
+
+    1.Value
+    2.Variety
+    3.Velocity
+    4.None of the mentioned above
+
+**Answer:** option 1 
+
+*Explanation: The ability to turn our data into business value is referred to as value. The usefulness of obtained data for our business is referred to as data value. Data, regardless of its magnitude, is rarely useful on its own; to be useful, it must be transformed into insights or knowledge, which is where data processing comes in.*
+
+> Q40. To glean insights from the data, many analysts and data scientists rely on ___.
+
+    1.Data mining
+    2.Data visualization
+    3.Data warehouse
+    4.All of the mentioned above
+
+Answer: option 2
+
+*Explanation:Many analysts and data scientists use data visualization, or the graphical depiction of data, to assist individuals visually explores and finds patterns and outliers in the data in order to get insights.Data visualization features are included in a good data analytics system, making data exploration easier and faster.*
+
+> Q41. Data Modeling is the process of analyzing the data objects -
+
+    1.True
+    2.False
+
+Answer: option 1
+
+*Explanation:The practice of evaluating data items and their relationships with other things is known as data modeling. It's utilized to look into thedata requirements for various business activities. The data models are constructed in order to store the information in a database.*
+
+> Q42. The Process of describing the data that is huge and complex to store and process is known as ___.
+
+    1.Analytics mining
+    2.Data cleaning
+    3.Big data
+    4.None of the mentioned above
+
+Answer: option 3 
+
+*Explanation:Big data is a term used to describe the process of describing data that is large and difficult to store and interpret. Big data analytics is the use of advanced analytic techniques to very large, heterogeneous big data sets,which can contain structured, semi-structured, and unstructured data, as well as data from many sources and sizes ranging from terabytes to zettabytes.*
+
+
 
 ## Unit 2  Preprocessing and Extracting meaning from Data 
 
