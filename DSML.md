@@ -440,7 +440,7 @@ Answer: option 1
 
 Answer: option 2
 
-*Explanation:Many analysts and data scientists use data visualization, or the graphical depiction of data, to assist individuals visually explores and finds patterns and outliers in the data in order to get insights.Data visualization features are included in a good data analytics system, making data exploration easier and faster.*
+*Explanation: Many analysts and data scientists use data visualization, or the graphical depiction of data, to assist individuals visually explores and finds patterns and outliers in the data in order to get insights.Data visualization features are included in a good data analytics system, making data exploration easier and faster.*
 
 > Q41. Data Modeling is the process of analyzing the data objects -
 
@@ -449,7 +449,7 @@ Answer: option 2
 
 Answer: option 1
 
-*Explanation:The practice of evaluating data items and their relationships with other things is known as data modeling. It's utilized to look into thedata requirements for various business activities. The data models are constructed in order to store the information in a database.*
+*Explanation: The practice of evaluating data items and their relationships with other things is known as data modeling. It's utilized to look into thedata requirements for various business activities. The data models are constructed in order to store the information in a database.*
 
 > Q42. The Process of describing the data that is huge and complex to store and process is known as ___.
 
@@ -460,7 +460,7 @@ Answer: option 1
 
 Answer: option 3 
 
-*Explanation:Big data is a term used to describe the process of describing data that is large and difficult to store and interpret. Big data analytics is the use of advanced analytic techniques to very large, heterogeneous big data sets,which can contain structured, semi-structured, and unstructured data, as well as data from many sources and sizes ranging from terabytes to zettabytes.*
+*Explanation: Big data is a term used to describe the process of describing data that is large and difficult to store and interpret. Big data analytics is the use of advanced analytic techniques to very large, heterogeneous big data sets,which can contain structured, semi-structured, and unstructured data, as well as data from many sources and sizes ranging from terabytes to zettabytes.*
 
 
 
@@ -921,4 +921,220 @@ D. Suitable for large volume of data (Scalable)
 
 *Explanation : There are two types of hierarchical clustering, Divisive and Agglomerative.*
 
+> Q16 Which of the following algorithm is most sensitive to outliers?
 
+    1. K-means clustering algorithm
+    2. K-medians clustering algorithm
+    3. K-modes clustering algorithm
+    4. K-medoids clustering algorithm
+
+**Answer :**  Option 1
+
+*Explanation : k-means has lack of robustness to outliers*
+
+> Q17. Which learning Requires Self Assessment to identify patterns within data?
+
+    1. supervised learning
+    2. unsupervised learning
+    3. semi supervised learning
+    4. reinforced learning
+
+**Answer :** Option 2
+
+*Explanation : Unsupervised learning is a type of machine learning in which models are trained using unlabeled dataset and are allowed to act on that data without any supervision.*
+
+> Q18. Point out the wrong statement.
+
+    1. k-means clustering aims to partition n observations into k clusters
+    2. k-means clustering is a method of vector quantization
+    3. k-nearest neighbor is same as k-means
+    4. none of the mentioned
+
+**Answer :** Option 3
+
+*Explanation : While K-Means is a unsupervised learning algorithm or more simply a clustering algorithm, KNN is a supervised learning algorithm.*
+
+> Q19. Which of the  clustering requires merging approach?
+
+    1. Partitional
+    2. Hierarchical
+    3. Naive Bayes
+    4. All of the above
+
+**Answer :** Option B
+
+*Explanation : The Agglomerative Hierarchical Clustering is the most common type of hierarchical clustering used to group objects in clusters based on their similarity.*
+
+> Q20. K-Means is which type of learning algorithm?
+
+    1. unsupervised learning
+    2. supervised learning
+    3. semi supervised learning 
+    4. reinforced learning
+
+**Answer :** Option 1
+
+*Explanation : K-Means is a unsupervised learning algorithm*
+
+> Q21. K-Means squared error function is related with which of the following?
+
+    1. Manhattan distance
+    2. Hamming distance
+    3. Euclidean distance
+    4. Minkowski distance
+
+**Answer :** Option 3
+
+*Explanation : K-means clustering uses the sum of squared errors  i.e euclidean distance*
+
+> Q22. What is the advantage of hierarchical clustering over K-means clustering?
+
+    1. advantage of hierarchical clustering
+    2. You don't have to assign the number of clusters from the beginning in the case of hierarchical clustering. 
+    3. Hierarchical clustering is computationally faster than K-means clustering.
+    4. None of the above.
+
+**Answer :** Option 2
+
+*Explanation : Rest for other clustering we need to provide number of cluster*
+
+> Q23. Which is conclusively produced by Hierarchical Clustering?
+
+    1. final estimation of cluster centroids
+    2. tree showing how nearby things are to each other
+    3. assignment of each point to clusters
+    4. All of the mentioned
+
+**Answer :** Option
+
+*Explanation : A tree is produced consisting of clusters*
+
+> Q24. Which of the following is centroid-based clustering algorithm
+
+    1. k-Medoids clustering algorithm
+    2. k-Means clustering algorithm
+    3. K-Modes clustering algorithm
+    4. None of the mentioned
+
+**Answer :** Option 2
+
+*Explanation : k-Means clustering is centriod based*
+
+> Q25. Movie Recommendation systems are an example of:
+
+    1. classification
+    2. clustering
+    3. regression
+    4. all of the above
+
+**Answer :** Option 4
+
+*Explanation : movie recommendation systems cluster the users in a finite number of similargroups   based   on   their   previous   activities and   profile.  Then, at a  fundamental   level,people in the same cluster are made similar recommendations.In some scenarios, this can also be approached as a classification problem for assigningthe most appropriate movie class to the user of a specific group of users. Also, a movierecommendation system can be viewed as a reinforcement learning problem where itlearns by its previous recommendations and improves the future recommendations*
+
+> Q26. Which of the following approaches can be used in Hierarchical Clustering?
+
+    1. Agglomerative Clustering
+    2. Divisive Clustering
+    3. Both
+    4. None
+
+**Answer :** Option 3
+
+*Explanation : Hierarchical Clustering has two parts Agglomerative Clustering and Divisive Clustering*
+
+> Q27. which is true about KNN
+
+    1. It can be used for filling missing data values.      
+    2. It is used for clustering based on differences. 
+    3. KNN is best for large datasets
+    4. All of the above
+
+**Answer :** Option 1
+
+*Explanation : KNN can be classifier as well as regressor* 
+
+> Q28. Which of the following is required by K-means clustering?
+
+    1. defined distance metric
+    2. number of clusters
+    3. initial guess as to cluster centroids
+    4. all of the mentioned
+
+**Answer :** Option 4
+ 
+*Explanation : It needs all the above conditions to begin with*
+
+> Q29. Hierarchical clustering should be primarily used for exploration.
+
+    1. TRUE
+    2. FALSE
+
+**Answer :** Option 1
+
+*Explanation : The hierarchical clustering technique can be used for exploration because it is the deterministic technique of clustering*
+
+> Q30. What is a dendrogram?
+
+    1. Hierarchical structure
+    2. diagram structurediagram structure
+    3. graph structure
+    4. none
+
+**Answer :** Option A
+
+*Explanation : dendrogram is a hierarchical structure*
+
+> Q31. Which algorithm does not require a dendrogram?
+
+    1. Divisible
+    2. K-means
+    3. Agglomerative
+    4. All of the above
+
+**Answer :** Option 2
+
+*Explanation : A dendrogram is not possible for K-Means clustering analysis.*
+
+> Q32. Which of the following clustering algorithm follows a top to bottom approach?
+
+    1. Divisible
+    2. K-means
+    3. Agglomerative
+    4. All of the above
+
+**Answer :** Option 1
+
+*Explanation : Divisible goes from top to down as from cluster of all elements to cluster of single element*
+
+> Q33. Which of the following is a method of choosing the optimal number of clusters for k-means?
+
+    1. cross-validation
+    2. the silhouette method 
+    3. the elbow method
+    4. All of the above
+
+**Answer :** Option 4
+
+*Explanation : clusters can be choosen randomly*
+
+> Q34. which of the following is correct regarding Knn algorithm
+
+    1. The algorithm does more computation on train time. 
+    2. The algorithm does more computation on test time. 
+    3. Computation time is equal for both. 
+    4. Depends on the nature of the problem. 
+
+**Answer :**  Option 2
+
+*Explanation : The k-NN algorithm does more computation on test time rather than train time. That is absolutely true. The idea of the kNN algorithm is to find a k-long list of samples that are close to a sample we want to classify.*
+
+> Q35  Which of the following uses merging approach?
+
+    1. Hierarchical clustering
+    2. Partitional clustering
+    3. Density-based clustering
+    4. None of the above 
+
+**Answer :**  Option 1
+
+*Explanation : bottom to top hierarchical cluster has merging approach*
