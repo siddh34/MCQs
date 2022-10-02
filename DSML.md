@@ -1005,7 +1005,7 @@ D. Suitable for large volume of data (Scalable)
     3. assignment of each point to clusters
     4. All of the mentioned
 
-**Answer :** Option
+**Answer :** Option 2
 
 *Explanation : A tree is produced consisting of clusters*
 
