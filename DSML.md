@@ -726,6 +726,176 @@ Strategies : <br>
 
 *Explanation : Correlation coefficient is not affected by change of origin it is only affected by change of scale* 
 
+>Q21.Data compression involves
+
+    1.Compression only
+    2.Reconstruction only
+    3.Both compression and reconstruction
+    4.None of the above 
+
+**Answer** : option 3
+
+*Explanation : Normally it's compression but for Audio and video file we also use reconstruction*
+
+>Q22. _______ compression is the method which eliminates the data which is not noticeable and ------- compression does not eliminate the data which is not
+
+    1.Lossless, lossy
+    2.Lossy, lossless
+    3.None of these 
+
+**Answer :** option 2
+
+*Explanation : lossless is where there are no losses so it is not noticed and lossy is where loss takes place*
+
+> Q23.Why data compressed?
+
+    A)To optimise the data
+    B)To reduce secondary storage space
+    C)To reduce packet congestion on networks
+    D)Both (B) and (C) 
+
+**Answer :**  option D
+
+*Explanation : To reduce size and as size is reduced there is no packet congestion on networks*
+
+> Q24.Data transformation includes which of the following?
+
+    A. A process to change data from a detailed level to a summary level
+    B. A process to change data from a summary level to a detailed level
+    C. Joining data from one source into various sources of data
+    D. Separating data from one source into various sources of data
+
+**Answer: Option A**
+
+*Explaination: Data transformation is the process of changing the format, structure, or values of data. For data analytics projects, data may be transformed at two stages of the data pipeline. Organizations that use on-premises data warehouses generally use an ETL*
+
+> Q25. A correct way to preprocess the data When performing regression or classification is 
+
+    A)Normalize the data → PCA → training
+    B)Normalize the data → PCA → normalize PCA output → training
+    C)PCA → normalize PCA output → training
+    D)None of the above
+
+**Answer: Option A**
+
+*Explaination: we generally go Normalize the data then PCA and then training*
+
+> Q26. What is noise or error in data in data mining?
+
+    A)Large amount of very useful information
+    B)Large amount of meaningless information
+    C)Low amount of very useful information
+    D)Low amount of meaningless information
+
+**Ans. 2. Large amount of meaningless information**
+
+*Explaination: Noise means large amount ofg useless data*
+
+>Q27. Impact of having noise in data / noisy data?
+
+    A)Increases amount of storage space required
+    B)Decreases amount of storage space required
+    C)No impact on amount of storage space required
+    D)None of the above
+
+**Ans. 1. Increases amount of storage space required**
+
+*Explaination: Obivo as useless data increases so do the space needed to save it has to increased*
+
+> Q28.  ETL stands for ____________
+
+    A)Effect,transform,load
+    B)Explain,transfer ,load
+    C)Extract ,transfer,load
+    D)Extract ,transorm,load
+
+
+**Answer - D** 
+
+*Explanation : ETL stands for Extract, transform and load.*
+
+>Q29. To remove noise and inconsistent data ____ is needed.
+
+    (a)	Data Cleaning
+    (b)	Data Transformation
+    (c)	Data Reduction
+    (d)	Data Integration
+
+**Answer: Option (a)**
+
+*Explanation: We have to clean the data to remove noise it's a part of data cleaning*
+
+>Q30. The values of a _____ attribute are symbols or names of things.
+
+    (a)	Ordinal
+
+    (b)	Nominal
+
+    (c)	Ratio
+
+    (d)	Interval
+
+**Answer: Option (b)**
+
+*Explaination: related to names: The values of a Nominal attribute are names of things, some kind of symbols. Values of Nominal attributes represents some category or state and that’s why nominal attribute also referred as categorical attributes*
+
+>Q31. "Data about data” is referred to as _____
+
+    (a)	Information
+
+    (b)	Database
+
+    (c)	Metadata
+
+    (d)	File
+
+**Answer: Option (c)**
+
+*Explaination: data of data is metadata*
+
+
+> Q32. In _____, the attribute data are scaled so as to fall within a smaller range, such as -1.0 to 1.0, or 0.0 to 1.0.
+
+    (a)	Aggregation
+
+    (b)	Binning
+
+    (c)	Clustering
+
+    (d)	Normalization
+
+**Answer: Option (d)**
+
+*Explaination: Normalization reduces the range of data*
+
+> Q33. Normalization by ______ normalizes by moving the decimal point of values of attributes.
+
+    (a)	Z-Score
+
+    (b)	Z-Index
+
+    (c)	Decimal Scaling
+
+    (d)	Min-Max Normalization
+
+Answer: Option (c)
+
+*Explanation: In decimal scaling we divide by 10^j*
+
+> Q34.	_______ is a top-down splitting technique based on a specified number of bins.
+
+(a)	Normalization
+
+(b)	Binning
+
+(c)	Clustering
+
+(d)	Classification
+
+**Answer: Option (b)**
+
+*Explaination: bins means binning*
+
 ## Unit 3 Unsupervised Modelling
 
 > Q1. For two runs of k-Mean clustering is it expected to get same clustering results?
