@@ -1,5 +1,619 @@
 # COMPUTER NETWORKING MCQ’s
+
+
+# VERY IMPORTANT (Visit the drive at least once)
+
+<span style="color: red">See some solve examples in drive first!</span>
+
+https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sharing
+
+# CCNA MCQS (For UNIT 2 and 3)
+
+## Unit 2 FROM CCNA
+
+>Q1.Which OSI layer is associated with bits?
+
+    a.	Physical
+    b.	Network
+    c.	Binary
+    d.	Data link
+
+**Answer : Option a**
+
+> Q2. Which OSI layer establishes, maintains and terminates session between hosts?
+
+    A.	RARP
+    B.	ARP
+    C.	ICMP
+    D.	IP
+    E.	TCP
+
+**Answer :  Option a**
+
+> Q3. Which OSI layer performs code conversion, code formatting and encryption?
+
+    a.	Physical
+    b.	Session
+    c.	Application
+    d.	Presentation
+
+**Answer :  Option d**
+
+> Q4. Which of the following are the functions of the network layer of the OSI model?
+
+    a.	Encryption and Compression
+    b.	Error detection and correction
+    c.	Delivery of packet from source to destination.
+    d.	All of the above
+
+**Answer :  Option c**
+
+*Explanation : Explanation: The main function of the network layer in the OSI model is to deliver IP packet from source to destination.Encryption and compression occur in the presentation layer.Error detection and correction is done data link layer.*
+
+> Q5. ___________ layer of the OSI model is responsible for the exchange of data frames between the hosts through communication media.
+
+    a.	Physical layer
+    b.	Network layer
+    c.	Transport layer
+    d.	Application layer
+
+**Answer : Option a**
+
+> Q6.	The PDU formed at the network layer of the OSI model is called ______.
+
+    a.	Segment
+    b.	Packet
+    c.	Frame
+    d.	Bits
+
+**Answer: Option B.**
+
+>Q7.	The PDU formed at the Transport layer of the OSI model is called _______.
+
+    a.	Segment
+    b.	Packet
+    c.	Frame
+    d.	Bits
+
+**Answer: Option A.**
+
+>Q8.	The PDU formed at the data link layer of the OSI model is called _______.
+
+    a.	Segment
+    b.	Bits
+    c.	Packet
+    d.	Frame
+
+**Answer: Option D.**
+
+>Q9._______ is also termed as a logical address.
+
+    a.	Port address
+    b.	IP address
+    c.	MAC address
+    d.	None of the above
+
+**Answer: Option B.**
+
+>Q10.	The transport layer of the OSI model is responsible for the host to host communication. In addition to that, It is also responsible for _____, ________ and _________. ( Choose any three)
+
+    a.	Logical addressing
+    b.	Segmentation
+    c.	Flow control
+    d.	Port addressing
+    e.	Physical Addressing
+
+**Answer: Option B,C and D.**
+
+>Q11.	_________ is a network device that works at layer 3 of the OSI model.
+
+    a.	Bridge
+    b.	Router
+    c.	Ethernet hub
+    d.	Ethernet switch
+
+**Answer: Option B.**
+
+>Q12. Which of the following is the transport layer protocol of the TCP/IP protocol suite? (Choose any two)
+
+    a.	SMTP
+    b.	TCP
+    c.	FTP
+    d.	HTTP
+    e.	UDP
+
+**Answer: Option B and E.**
+
+>Q13.	Which of the following are the Application layer protocols of the TCP/IP protocol suite? (Choose any three)
+
+    a.	TCP
+    b.	HTTP
+    c.	TFTP
+    d.	IP
+    e.	DHCP
+
+**Answer: Option B,Cand E.**
+
+### Network Components
+
+>Q14.	Which of the following device is used to segment a LAN?
+
+    a.	Hub
+    b.	Bridge
+    c.	Repeater
+    d.	All of the above
+
+**Answer: Option B.**
+
+>Q15.	Which of the following network devices work at the data link layer of the OSI Model ( Choose any two)?
+
+    a.	Hub
+    b.	Repeater
+    c.	Bridge
+    d.	Ethernet switch
+
+**Answer: Option C and D.**
+
+> Q16. Router works at ______________ layer of the OSI Model.
+
+    a.	Datalink
+    b.	Network
+    c.	Transport
+    d.	All of the above
+
+**Answer: Option B.**
+
+>Q17.	_______ is also known as a multiport bridge.
+
+    a.	Hub
+    b.	Switch
+    c.	Repeater
+    d.	Network interface card
+
+**Answer: Option B.**
+
+>Q18.	The Ethernet switch forwards data signals from one port to the other on the basis of ________ address.
+
+    a.	Hardware
+    b.	Software
+    c.	IP
+    d.	All of the above
+
+**Answer: Option A.**
+
+>Q19.	Which of the following is true about MAC address ( Choose any two)?
+
+    a.	It is a 128-bit address
+    b.	It is also called physical address
+    c.	Layer 3 device uses MAC address for frame forwarding
+    d.	MAC address is denoted by hexadecimal format
+
+**Answer: Option B and D**
+
+> Q20.	Which of the following network devices connect one LAN to another LAN using the same protocol?
+
+    a.	Modem
+    b.	Hub
+    c.	Switch
+    d.	Router
+
+**Answer: Option C.**
+
+>Q21.	Which of the following protocol of the OSI model helps resolve the IP address into MAC address?
+
+    a.	SMTP
+    b.	TCP
+    c.	ICMP
+    d.	ARP
+
+**Answer: Option D.**
+
+>Q22.	Which of the following device connects networks with different protocols?
+
+    a.	Switch
+    b.	Gateway
+    c.	Hub
+    d.	None of the above
+
+**Answer: Option B.**
+
+>Q23.	What is the function of a NIC card?
+
+    a.	allows you to segment a large network into smaller, efficient networks.
+    b.	connects networks with different protocols like TCP/IP.
+    c.	connects the different endpoint devices like servers, workstations, printers, etc. to the network through ports.
+    d.	boost the signal between two cables segment or wireless access points.
+
+**Answer: Option C.**
+
+>Q24.	Which of the following device enhances network performance by breaking a single large broadcast domain into multiple broadcast domains?
+
+    a.	Hub
+    b.	Repeater
+    c.	Ethernet switch
+    d.	all of the above
+
+**Answer: Option C.**
+
+>Q25.	The following network device amplifies and regenerates the received signal in order to transmit the signal over a greater distance.
+
+    a.	Passive Hub
+    b.	Repeater
+    c.	Patch Panel
+    d.	Multiplexer
+
+**Answer: Option B.**
+
+
+###  Introduction to TCP/IP
+
+>Q1. TCP/IP suite was created by whom
+
+    A) DOD.
+    B) ISO.
+    C) Both of above.
+    D) None of the above.
+
+**Ans - A**
+
+> Q2.	The Host-to-Host layer parallels the functions of the OSI’s
+
+    A) Network Layer.
+    B) Data link Layer.
+    C) Transport Layer.
+    D) Internet Layer.  
+
+**Ans - C**
+
+>Q3.	In (TCP/IP)suite UDP protocol lie in which layer?
+
+    A) Transport Layer.
+    B) Network Access Layer.
+    C) Internet Layer.
+    D) Host to Host Layer.
+
+**Ans - D**
+
+>Q4.	In OSI model ICMP belongs to which layer ?
+
+    A) Transport Layer.
+    B) Data Link Layer.
+    C) Internet Layer.
+    D) Network Layer.
+
+**Ans - D**
+>Q5.Which protocol used for e-mail ?
+
+    A) ICMP.
+    B) SNMP.
+    C) SMTP.
+    D) RIP.
+
+**Ans - C**
+
+>Q6.	Which is not a TCP/IP layer ?
+
+    A) Network Layer.
+
+    B) Internet Layer.
+
+    C) Network Access Layer.
+
+    D) All of the above.
+
+**Ans - A**
+
+>Q7.	The Network Access layer monitors the data exchange between ?
+
+    A) The Hosts only.
+
+    B) The Networks only.
+
+    C) The Host and The Network
+
+    D) None of the above.
+
+**Ans - C**
+>Q8.	POP3 is used to ?
+
+    A) Send a mail.
+
+    B) Both send and receive a mail.
+
+    C) Sometime send and sometime receive a mail.
+
+    D) Receive a mail.
+
+**Ans - D**
+
+>Q9.	DNS stands for ?
+
+    A) Domain Name Services.
+
+    B) Domain Name System.
+
+    C) Domain Name Service.
+
+    D) Domain Naming Service.
+
+**Ans - C**
+
+>Q10.	DNS is used to resolve a ?
+
+    A) CIDR.
+
+    B) FQDN.
+
+    C) VLSM.
+
+    D) none of the above
+
+**Ans - B**
+
+
+
+
+### Network Topologies
+(Answers are marked in red color)
+
+
+>Q1. Which topology is employed to connect different distribution layer switches in Cisco layer 3 architecture?
+
+    1.ring topology
+    2.star topology
+    3.full mesh topology
+    4.partial mesh topology
+
+**Answer : Option 4**
+
+>Q2.	A company has its branches at  4 different locations with 500 computers in each location. each edge switches will have 20 to 30 computers. Which network design will be best for this model?
+
+    1.access model
+    2.DOD model
+    3.three-tier model
+    4.collapsed core model
+
+**Answer : Option 3**
+
+>Q3	Which of the following layer is termed as the backbone network in the Cisco 3 tier architecture model?
+
+    1.access layer
+    2.core layer
+    3.distribution layer
+    4.aggregation layer
+
+**Answer : Option 2**
+
+>Q4.	Which one of the following topologies describes the way computers connect with the help of cables?
+
+    1.Physical
+    2.Logical
+    3.Both a and b
+    4.None of the above
+
+**Answer : Option 2**
+
+>Q5.	In which topology the network consists direct link between two computers?
+
+    1.Star
+    2.Bus
+    3.Ring
+    4.P2P
+
+**Answer : Option 4**
+
+>Q6.	 Which topology uses a single cable which connects all the including nodes?
+
+    1.Star
+    2.Bus
+    3.Ring
+    4.P2P
+
+**Answer : Option 2**
+
+>Q7.	What are the advantages of hybrid topology?
+
+    1.Scalable
+    2.Flexible networking topology
+    3.Highly efficient
+    4.All of the above
+
+**Answer : Option 4**
+
+>Q8.	Which one of the following topologies describes the way the data flow from one computer to another within a computer network?
+
+    1.Physical
+    2.Logical
+    3.Both a and b
+    4.None of the above
+
+**Answer : Option 1**
+
+>Q9.	What are the advantages of tree topology?
+
+    1.Easy to maintain
+    2.Easy to manage
+    3.Node expansion is easy and fast
+    4.All of the above
+
+**Answer : Option 4**
+
+>Q10.	 The local area network has __________ main topologies?
+
+    1.One
+    2.Two
+    3.Three
+    4.Seven
+
+**Answer : Option 3**
+
+## Unit 3 FROM CCNA
+
+>Q1.	If a host broadcasts a frame that includes a source and destination hardware address, and its purpose is to assign IP addresses to itself, which protocol at the Network layer does the host use?
+
+    A.	RARP
+    B.	ARPA
+    C.	ICMP
+    D.	TCP
+    E.	IPX
+
+**Answer: A**
+
+>Q2.	If a router interface is congested, which protocol in the IP suite is used to tell neighbor routers?
+
+    A.	RARP
+    B.	ARP
+    C.	ICMP
+    D.	IP
+    E.	TCP
+
+**Answer: C**
+
+>Q3.	What is the valid host range the IP address 172.16.10.22 255.255.255.240 is a part of?
+
+    A.	172.16.10.20 through 172.16.10.22
+    B.	172.16.10.1 through 172.16.10.255
+    C.	172.16.10.16 through 172.16.10.23
+    D.	172.16.10.17 through 172.16.10.31
+    E.	172.16.10.17 through 172.16.10.30
+
+**Answer: E**
+
+>Q4.	What range of addresses can be used in the first octet of a Class B network address?
+
+    A.	1–126
+    B.	1–127
+    C.	128–190
+    D.	128–191
+    E.	129–192
+    F.	192–220
+
+**Answer: D**
+
+>Q5.	What range of addresses can be used in the first octet of a Class C address?
+
+    A.	1-127
+    B.	129-192
+    C.	203-234
+    D.	192-223
+
+**Answer: D**
+
+>Q6.	How many bytes is an Ethernet(MAC) address?
+
+    A.	3
+    B.	4
+    C.	5
+    D.	6
+    E.	7
+    F.	8
+    G.	16
+
+**Answer: D**
+
+>Q7.	What protocol is used to find the hardware address of a local device?
+
+    A.	RARP
+    B.	ARP
+    C.	IP
+    D.	ICMP
+    E.	BootP
+
+**Answer: B**
+
+>Q8.	Which of the following is the broadcast address for a Class B network ID using the default subnet mask?
+
+    A.	172.16.10.255
+    B.	172.16.255.255
+    C.	172.255.255.255
+    D.	255.255.255.255
+
+**Answer: B**
+
+>Q9.	Which class of IP address provides a maximum of only 254 host addresses per network ID?
+
+    A.	A
+    B.	B
+    C.	C
+    D.	D
+    E.	E
+
+**Answer: C**
+
+>Q10.	What is the broadcast address of the subnet address 10.254.255.19 255.255.255.248?
+
+    A.	10.254.255.23
+    B.	10.254.255.24
+    C.	10.254.255.255
+    D.	10.255.255.255
+
+**Answer: A**
+*Explanation: First start with 256 mask or in this case, 256–248=8. The first subnet is 8. The second subnet is 16, then 24. This host is in the 16 subnet, the broadcast address is 23, and the valid host range is 17–22*
+
+>Q11.	What is the port number range that a transmitting host can use to set up a session with another host?
+
+    A.	1–1023
+    B.	1024 and above
+    C.	1–256
+    D.	1–65534
+
+**Answer: B**
+*Explanation : Source hosts can use any port number starting at 1024.*
+
+>Q12.	Which of the following ranges are considered well-known port numbers?
+
+    A.	1–1023
+    B.	1024 and above
+    C.	1–256
+    D.	1–65534
+
+**Answer: A**
+
+>Q13.	If you wanted to have 12 subnets with a Class C network ID, which subnet mask would you use?
+
+    A.	255.255.255.252
+    B.	255.255.255.248
+    C.	255.255.255.240
+    D.	255.255.255.255
+
+**Answer: C**
+
+*Explanation: Take a look at the answers and see which subnet mask will give you what you need for subnetting. 252 gives you 62 subnets, 248 gives you 30 subnets, 240 gives you 14 subnets, and 255 is invalid. Only answer C (240) gives you what you need.*
+
+>Q14.	Which protocol is used to look up an IP address from a known Ethernet address?
+
+    A.	IP
+    B.	ARP
+    C.	RARP
+    D.	TCP
+
+**Answer: C**
+
+*Explanation :The protocol at the Network layer that finds an IP address from a known Ethernet address is Reverse ARP (RARP). See Chapter 3 for more information on IP protocols.*
+
+
+<span style="color: red">Images</span>
+
+<span style="color: blue">Note : Answers are in blue</span>
+
+<img src="./images/CCNA u3 q1.jpg">
+
+<br>
+<img src="./images/CCNA u3 q2.jpg">
+
+<br>
+<img src="./images/CCNA u3 q3.jpg">
+
+<br>
+<img src="./images/CCNA u3 q4.jpg">
+
+<br>
+<img src="./images/CCNA u3 q5.jpg">
+
+<br>
+
 ## Unit I : Introduction to Computer Networks
+
 >Q1. The structure or format of data is called ___________
 <br>
 
@@ -498,6 +1112,277 @@ Answer: c
 View Answer
 Answer: e
 
+### Extras ;)
+
+>Q1. Physical or logical arrangement of network is __________
+
+    a) Topology
+    b) Routing
+    c) Networking
+    d) Control
+
+**Answer: a**
+
+*Explanation: Topology in networks is the structure or pattern in which each and every node in the network is connected. There are many topologies in networking like bus, tree, ring, star, mesh, and hybrid topology. There is no particular best topology and a suitable topology can be chosen based on the kind of application of the network .*
+
+>Q2. Which network topology requires a central controller or hub?
+
+    a) Star
+    b) Mesh
+    c) Ring
+    d) Bus
+
+**Answer: a**
+
+*Explanation: In star topology, no computer is connected to another computer directly but all the computers are connected to a central hub. Every message sent from a source computer goes through the hub and the hub then forwards the message only to the intended destination computer.*
+
+>Q3. _______ topology requires a multipoint connection.
+
+    a) Star
+    b) Mesh
+    c) Ring
+    d) Bus
+
+**Answer: d**
+
+*Explanation: In bus topology, there is a single cable to which all the network nodes are connected. So whenever a node tries to send a message or data to other nodes, this data passes through all other nodes in the network through the cable. It is really simple to install but it’s not secure enough to be used in most of the computer network applications.*
+
+>Q4. A topology that involves Tokens.
+
+    a) Star
+    b) Ring
+    c) Bus
+    d) Daisy Chaining
+
+**Answer: b**
+
+*Explanation: Ring topology involves sending and receiving of data with the help of tokens. Ring started out as a simple peer-to-peer LAN topology.*
+
+>Q5. A piece of information which is sent along with the data to the source computer.
+
+    a) data
+    b) module
+    c) token
+    d) element
+
+**Answer: c**
+
+*Explanation: Token is the information that is sent to the source computer along with the data. This token is then passed to the next node.*
+
+
+>Q6.Causes of Transmission Impairment.
+
+    a) Noise
+    b) Attenution
+    c) Distortion
+    d) ALl of the above
+
+**Answer : d**
+
+>Q7. Guided transmission media __________
+
+    a. Local area network
+
+    b. Wide area network
+
+    c. Twisted pair, coaxial cable and optical fiber
+
+    d. Telephone network
+
+**Answer : Option c**
+
+
+>Q8. High frequency gives higher data rates in ?
+
+    a. fiber optic
+
+    b. wireless transmission
+
+    c. Microwave
+
+    d. Frequency rang
+
+**Answer : Option c**
+
+> Q9. In twisted pair which of the following is false
+
+    a. telephone network
+
+    b. use for LAN
+
+    c. analog
+
+    d. least expensive
+
+**Answer : Option c**
+
+
+>Q10. More expensive twisted pair is?
+
+    a. Shielded twisted pair
+
+    b. unshielded twisted pair
+
+    c. Twisted pair
+
+    d. none of mentioned
+
+**Answer : Option a**
+
+>Q11. Most common & least expensive medium is.?
+
+    a. coaxial
+
+    b. switch
+
+    c. shielded pair
+
+    d. Twisted pair
+
+**Answer : Option d**
+
+> Q12. Transmission media is determined by
+
+    a. Medium & Signal
+
+    b. Medium
+
+    c. Signal
+
+    d. None of these
+
+**Answer Option a**
+
+>Q13. Transmit a signal encoded beam of light by means pf total internal reflection
+
+    a. coaxial cable
+
+    b. optical fiber
+
+    c. LED
+
+    d. WDM
+
+**Answer : Option b**
+
+>Q15. Twisted pair is used for:
+
+    a. LAN
+
+    b. WAN
+
+    c. MAN
+
+    d. All of these
+
+**Answer : Option a**
+
+>Q16. Which transmission media has the highest transmission speed in a network?
+
+    a.	coaxial cable
+    b.	twisted pair cable
+    c.	optical fiber
+    d.	electrical cable
+   
+**Answer: (c)optical fiber**
+
+>Q17. Bits can be send over guided and unguided media as analog signal by
+
+    a.	digital modulation
+    b.	amplitude modulation
+    c.	frequency modulation
+    d.	phase modulation
+
+   
+**Answer: (a) digital modulation**
+
+
+>Q18. Which data communication method is used to transmit the data over a serial communication link?
+
+    a.	Simplex
+    b.	Half-duplex
+    c.	Full duplex
+    d.	All of above
+   
+**Answer: (c) Full duplex**
+
+>Q19. The method of communication in which transaction takes place in both directions,but only in one direction at a time, is called ?
+
+    a.	Simplex
+    b.	Four wire circuit
+    c.	Full duplex
+    d.	Half-duplex
+   
+**Answer: (d) Half-duplex**
+
+>Q20. Which of the following is not a medium of transmission?
+
+    a) Microwave system
+    b) Wire
+    c) Free space
+    d) Fiber optic cable
+
+**Answer: a**
+
+*Explanation: Microwave System is not a transmission medium. Instead, it is used for the transmission of data over a cable as well as lines. All the others are commonly used transmission media. Coaxial cable is a widely used wire medium, which offers a bandwidth of approximately 750 MHz.*
+
+>Q21. The range of radio frequencies for communication through free space is which of the following?
+
+    a) Few hundreds of Hz to a few kHz
+    b) Few hundreds of MHz to a few GHz
+    c) Few hundreds of kHz to a few GHz
+    d) Few hundreds of Hz to a few thousands kHz
+
+**Answer: c**
+
+*Explanation: Communication through free space using radio waves takes place over a very wide range of frequencies, i.e. from a few hundreds of Hz to a few kHz. This range of frequencies is further subdivided and allocated for various services.*
+
+>Q22. The bandwidth of optic fiber is high.
+
+    a) True
+    b) False
+
+**Answer: a**
+
+*Explanation: Yes, this is a true statement. The bandwidth of optic fiber is high due to the speed with which data can be transmitted and also the range of frequencies over which the data can travel without any attenuation. An optical fiber can offer a transmission bandwidth in excess of 100 GHz.*
+
+>Q23. BNC stands for…
+
+    A. Bayonet network connector
+    B. Bayonet network cable
+    C. Barrel network cable
+    D. nono of the above
+
+**Answer A. Bayonet network connector**
+
+>Q24. Electromagnetic waves having frequencies from 300GHz to 400THz are called_____.
+
+    A. microwave
+    B. infrared wave
+    C. laser
+    D. radio wave
+
+***Answer B. infrared wave***
+
+>Q25. The core of an optical fiber is_____.
+
+    A. glass
+    B. plastic
+    C. metal
+    D. A and B
+
+***Answer D. A and B***
+
+>Q26. The most frequently used UTP connector is_____.
+
+    A. category 5 connector
+    B. EIA 232
+    C. RJ45
+    D. JR45
+
+***Answer C. RJ45***
+
+
 ## UNIT-II : Physical Layer
 >Q1. The physical layer is concerned with ___________
 
@@ -764,7 +1649,7 @@ Answer: a.
     c) optical service implementation
     d) open service Internet
 Answer: a
->38. The number of layers in ISO OSI reference model is __________
+>Q38. The number of layers in ISO OSI reference model is __________
 
     a) 4
     b) 5
