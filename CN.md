@@ -3,7 +3,7 @@
 
 # VERY IMPORTANT (Visit the drive at least once)
 
-<span style="color: red">See some solve examples in drive first!</span>
+<font style="color: red">See some solve examples in drive first!</font>
 
 https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sharing
 
@@ -592,9 +592,9 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 *Explanation :The protocol at the Network layer that finds an IP address from a known Ethernet address is Reverse ARP (RARP). See Chapter 3 for more information on IP protocols.*
 
 
-<span style="color: red">Images</span>
+<font style="color: red">Images</font>
 
-<span style="color: blue">Note : Answers are in blue</span>
+<font style="color: blue">Note : Answers are in blue</font>
 
 <img src="./images/CCNA u3 q1.jpg">
 
