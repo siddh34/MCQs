@@ -282,7 +282,7 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
     C) Internet Layer.
     D) Network Layer.
 
-**Ans - for OSI MODEL D  For TCP model A**
+**Ans - for OSI MODEL D,  For TCP model A**
 >Q5.Which protocol used for e-mail ?
 
     A) ICMP.
