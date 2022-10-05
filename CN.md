@@ -20,22 +20,23 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 **Answer : For OSI Option a, For TCP Option b**
 
-> Q2. Which OSI layer establishes, maintains and terminates session between hosts?
+> Q2. Which OSI/TCP layer establishes, maintains and terminates session between hosts?
 
     a.	Session
     b.	Physical
     c.	Network
     d.	Presentation
+    e.  Application
 
 
-**Answer :  Option a**
+**Answer : For OSI Option a, For TCP Opetion e**
 
-> Q3. Which OSI layer performs code conversion, code formatting and encryption?
+> Q3. Which TCP/OSI layer performs code conversion, code formatting and encryption?
 
     a.	Physical
     b.	Session
     c.	Application
-    d.	Presentation
+    d.	Presentation (aka. application for TCP Model)
 
 **Answer :  Option d**
 
