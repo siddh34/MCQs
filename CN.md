@@ -1037,7 +1037,7 @@ Answer e
     c.None of Above
     d.Both a and b
     e.Single and multiple links
-answer a
+answer b
 >Q7.Which topology has the highest reliability?
 
     a.Mesh topology
