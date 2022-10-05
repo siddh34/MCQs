@@ -22,11 +22,11 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 > Q2. Which OSI layer establishes, maintains and terminates session between hosts?
 
-    A.	RARP
-    B.	ARP
-    C.	ICMP
-    D.	IP
-    E.	TCP
+    a.	Session
+    b.	Physical
+    c.	Network
+    d.	Presentation
+
 
 **Answer :  Option a**
 
@@ -50,7 +50,7 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 *Explanation : Explanation: The main function of the network layer in the OSI model is to deliver IP packet from source to destination.Encryption and compression occur in the presentation layer.Error detection and correction is done data link layer.*
 
-> Q5. ___________ layer of the OSI model is responsible for the exchange of data frames between the hosts through communication media.
+> Q5. ___________ layer of the tcp model is responsible for the exchange of data frames between the hosts through communication media.
 
     a.	Physical layer
     b.	Network layer
@@ -59,16 +59,16 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 **Answer : Option a**
 
-> Q6.	The PDU formed at the network layer of the OSI model is called ______.
+> Q6.	The PDU (Protocol data unit) formed at the network layer of the TCP model is called ______.
 
     a.	Segment
     b.	Packet
     c.	Frame
     d.	Bits
 
-**Answer: Option B.**
+**Answer: Option a.**
 
->Q7.	The PDU formed at the Transport layer of the OSI model is called _______.
+>Q7. The PDU (Protocol data unit) formed at the Transport layer of the OSI/TCP model is called _______.
 
     a.	Segment
     b.	Packet
@@ -77,7 +77,7 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 **Answer: Option A.**
 
->Q8.	The PDU formed at the data link layer of the OSI model is called _______.
+>Q8.	The PDU formed at the data link layer of the OSI/TCP model is called _______.
 
     a.	Segment
     b.	Bits
@@ -105,7 +105,7 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 **Answer: Option B,C and D.**
 
->Q11.	_________ is a network device that works at layer 3 of the OSI model.
+>Q11.	_________ is a network device that works at layer 3 of the tcp model.
 
     a.	Bridge
     b.	Router
@@ -145,7 +145,7 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 **Answer: Option B.**
 
->Q15.	Which of the following network devices work at the data link layer of the OSI Model ( Choose any two)?
+>Q15.	Which of the following network devices work at the data link layer of the OSI/TCP Model (Choose any two)?
 
     a.	Hub
     b.	Repeater
@@ -154,7 +154,7 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 **Answer: Option C and D.**
 
-> Q16. Router works at ______________ layer of the OSI Model.
+> Q16. Router works at ______________ layer of the OSI/TCP Model.
 
     a.	Datalink
     b.	Network
@@ -199,7 +199,7 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 **Answer: Option C.**
 
->Q21.	Which of the following protocol of the OSI model helps resolve the IP address into MAC address?
+>Q21.	Which of the following protocol of the OSI/TCP model helps resolve the IP address into MAC address?
 
     a.	SMTP
     b.	TCP
@@ -208,7 +208,7 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 **Answer: Option D.**
 
->Q22.	Which of the following device connects networks with different protocols?
+>Q22. Which of the following device connects networks with different protocols?
 
     a.	Switch
     b.	Gateway
@@ -249,8 +249,8 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 >Q1. TCP/IP suite was created by whom
 
-    A) DOD.
-    B) ISO.
+    A) DOD (Department of defence).
+    B) ISO. (International Standardization organization)
     C) Both of above.
     D) None of the above.
 
@@ -267,21 +267,21 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 >Q3.	In (TCP/IP)suite UDP protocol lie in which layer?
 
-    A) Transport Layer.
+    A) Network Layer.
     B) Network Access Layer.
     C) Internet Layer.
     D) Host to Host Layer.
 
 **Ans - D**
 
->Q4.	In OSI model ICMP belongs to which layer ?
+>Q4.	In OSI/TCP model ICMP belongs to which layer ?
 
     A) Transport Layer.
     B) Data Link Layer.
     C) Internet Layer.
     D) Network Layer.
 
-**Ans - D**
+**Ans - for OSI MODEL D  For TCP model A**
 >Q5.Which protocol used for e-mail ?
 
     A) ICMP.
@@ -299,9 +299,9 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
     C) Network Access Layer.
 
-    D) All of the above.
+    D) Session Layer.
 
-**Ans - A**
+**Ans - D**
 
 >Q7.	The Network Access layer monitors the data exchange between ?
 
@@ -314,7 +314,7 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
     D) None of the above.
 
 **Ans - C**
->Q8.	POP3 is used to ?
+>Q8.	POP3 (Post Office Protocol 3) is used to ? (Not in syllabus)
 
     A) Send a mail.
 
@@ -340,11 +340,11 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 >Q10.	DNS is used to resolve a ?
 
-    A) CIDR.
+    A) CIDR. (Classless inter-domain routing)
+ 
+    B) FQDN. (Fully Qualified Domain Name)
 
-    B) FQDN.
-
-    C) VLSM.
+    C) VLSM. (Variable Length Subnet Mask)
 
     D) none of the above
 
@@ -353,7 +353,7 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 
 
-### Network Topologies
+### Network Topologies (Unit 1's part)
 (Answers are marked in red color)
 
 
@@ -391,7 +391,7 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
     3.Both a and b
     4.None of the above
 
-**Answer : Option 2**
+**Answer : Option 1**
 
 >Q5.	In which topology the network consists direct link between two computers?
 
@@ -596,21 +596,22 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 <font color="blue">Note : Answers are in blue</font>
 
-<img src="./images/CCNA u3 q1.jpg">
+<img src="./Images/CCNA u3 q1.jpg">
 
 <br>
-<img src="./images/CCNA u3 q2.jpg">
+<img src="./Images/CCNA u3 q2.jpg">
 
 <br>
-<img src="./images/CCNA u3 q3.jpg">
+<img src="./Images/CCNA u3 q3.jpg">
 
 <br>
-<img src="./images/CCNA u3 q4.jpg">
+<img src="./Images/CCNA u3 q4.jpg">
 
 <br>
-<img src="./images/CCNA u3 q5.jpg">
+<img src="./Images/CCNA u3 q5.jpg">
 
 <br>
+
 
 ## Unit I : Introduction to Computer Networks
 
