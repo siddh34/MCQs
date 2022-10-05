@@ -1981,13 +1981,6 @@ Answer: d
     c. link
     d. None of the above
 Answer: a
->Q25. frames issued by the secondary station of High-level data link control is known as?
-
-    a. response
-    b. Command
-    c. link
-    d. None of the above
-Answer: a
 
 >Q26. Category of High-level data link control frames undergoes error&flow control techniques by comprising send and receive sequence numbers?
 
