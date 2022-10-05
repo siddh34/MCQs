@@ -337,7 +337,7 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
     D) Domain Naming Service.
 
-**Ans - C**
+**Ans - B**
 
 >Q10.	DNS is used to resolve a ?
 
@@ -353,7 +353,7 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 
 
-### Network Topologies (Unit 1's part)
+### Network Topologies (Unit 1's part from CCNA)
 
 
 >Q1. Which topology is employed to connect different distribution layer switches in Cisco layer 3 architecture?
