@@ -1021,7 +1021,7 @@ answer b
     c)star
     d)both of these
     e)None of these
-answer d
+answer c
 >Q5.Which topologies have two or more Combination:
 
     a) multigrid
