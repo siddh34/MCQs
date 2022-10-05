@@ -2034,11 +2034,13 @@ Answer : c
     d) error control
 Answer : d
 >Q3. A 4 byte IP address consists of ____
+
     a) only network address
     b) only host address
     c) network address & host address
     d) network address & MAC address
 Answer : c
+
 >Q4. In virtual circuit network each packet contains ___________
 
     a) full source and destination address
@@ -2046,6 +2048,7 @@ Answer : c
     c) only source address
     d) only destination address
 Answer : b
+
 >Q5. Which of the following routing algorithms can be used for network layer design?
 
     a) shortest path algorithm
