@@ -11,14 +11,14 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 ## Unit 2 FROM CCNA
 
->Q1.Which OSI layer is associated with bits?
+>Q1.Which OSI/TCP layer is associated with bits?
 
     a.	Physical
     b.	Network
     c.	Binary
     d.	Data link
 
-**Answer : Option a**
+**Answer : For OSI Option a, For TCP Option b**
 
 > Q2. Which OSI layer establishes, maintains and terminates session between hosts?
 
