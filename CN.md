@@ -1866,6 +1866,8 @@ Answer: a
     b) point to point protocol
     c) hdlc
     d) all of the mentioned
+
+Answer: d
 >Q9. Which of the following is the multiple access protocol for channel access control?
 
     a) CSMA/CD
