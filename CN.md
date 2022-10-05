@@ -352,9 +352,7 @@ https://drive.google.com/drive/folders/1EP-hkYbutxTriM3Vf0RSg-AsqrGpKwbi?usp=sha
 
 
 
-
 ### Network Topologies (Unit 1's part)
-(Answers are marked in red color)
 
 
 >Q1. Which topology is employed to connect different distribution layer switches in Cisco layer 3 architecture?
