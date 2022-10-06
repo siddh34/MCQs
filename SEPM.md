@@ -1,5 +1,193 @@
 # Subject:  Software Engineering and Project Management
 
+# Very Important 
+
+### Please visit the drive link first
+
+https://drive.google.com/drive/folders/1GtMPpTVDMWp2_Tvtv_adkhpNkwj7mJr_?usp=sharing
+
+# Some PPT Questions 
+
+## Unit 1
+
+> Q1. Which of the following is not contained by software?
+
+    1. Data
+    2. Documents
+    3. Program 
+    4. Files
+
+**Answers:** Option 4
+
+> Q2. Computer Science deals with ...
+
+    1. Concerns with theory of computers
+    2. concerned with the practicalities of developing and delivering useful software
+    3. concerned with all aspects of computer-based systems developmen including hardware, software
+    4. None
+
+**Answers:** Option 1
+
+> Q3. Legacy software should be ....
+
+    1. Rebuild
+    2. Adapted to meet the needs of new computing environments 
+    3. Scrapped
+    4. None
+
+**Answers:** Option 2
+
+> Q4. Software engineering will make us create voluminous and unnecessary documentation and will invariably slow us down. This is a ______ myth.
+
+    1. Practitioner Myths
+    2. Consumer Myths
+    3. Management Myths
+    4. None
+
+**Answer :**  Option 1
+
+> Q5. Which of the following is not a Framework activity.
+
+    1. Formal technical reviews/ Risk management
+    2. work products 
+    3. Modeling
+    4. Planning
+
+**Answer :** Option 1
+
+### Note questions on umbrella activities can also be there!
+
+> Q6. In waterfall model ______
+
+    1. Consumer is more involved
+    2. Customer has difficulty expressing requirements in their entirely
+    3. Working model is built late
+    4. None of the above
+
+**Answer** Option 2 and 3
+
+> Q7 Evolutionary model is a combination of _____
+
+    1. Iterative and prototyping
+    2. Waterfall and Incremental
+    3. Iterative and Incremental
+    4. None
+
+**Answer :**  Option 3
+
+> Q8. Which is not a specialized model?
+
+    1. Aspect oriented software development
+    2. The Formal Methods Model
+    3. Components based development 
+    4. Incremental
+
+**Answer :** Option 4
+
+## Unit 2
+
+> Q1. <<"includes">> relationship represents ___
+
+    1. behavior that is factored out of the use case
+    2. behavior is factored out for reuse
+    3. behaviour which is expectional
+    4. behaviour which is useless
+
+**Answer : Option 1 and 2**
+
+>Q2. Association is denoted by ___
+
+    1. solid line
+    2. a line with a triangular arrow head 
+    3. dotted line
+    4. None
+
+**Answer : Option 1**
+
+> Q3. Match the following option with
+
+a. +<br>
+b. #<br>
+c. -<br>
+d. /<br>
+
+e. derived<br>
+f. public<br>
+g. protected<br>
+h. private<br>
+
+    1. a - g, b - h, d - f, c - e  
+    2. b - e, a - h, d - f, c - g
+    3. a - f, b - g, c - h, d - e
+    4. None
+
+**Answer** Option 3
+
+> Q4. Generalization's shape ___
+
+    1. Square
+    2. Circle
+    3. Triange
+    4. Hollow Triangle
+
+Answer Option 4
+
+> Q5. Which is not a event in state chart diagram
+
+    1. Break
+    2. send request
+    3. confirm request
+    4. dispatch order
+
+Answer Option 1
+
+## Unit 3
+
+> Q1. Which is not a UI error?
+
+    1. More interactive elements
+    2. lack of consistency
+    3. Arcane
+    4. inconsistent
+
+Answer  Option 1
+
+> Q2. Which is a golden rule for ui/ux?
+
+    1. Make user memorize 
+    2. Reduce the user’s memory load
+    3. Make the interface inconsistent
+    4. Make user feel safe
+
+Answer Option 2
+
+> Q3. Why Partitioned Software Architecture?
+
+    1. Leads to software that is easier to maintain 
+    2. Results in propagation of more side effects
+    3. Make software hard to maintain
+    4. None
+
+Answer Option 1
+
+> Q4. Which is not a Architecture data style?
+
+    1. Data Cantered  
+    2. Data Flow Architecture
+    3. Layered Architecture
+    4. Non layered Architecture
+
+Answer Option 4 
+
+> Q5. Which of the following is a design class?
+
+    1. Boundary class
+    2. Data class
+    3. Object class
+    4. None
+
+Answer Option 1
+
 ## Unit I : Introduction to Software Engineering
 
 
@@ -241,7 +429,7 @@ Ans: d.all
     c.Linear Model & Prototyping
     d.Waterfall Model & RAD
 
-Ans: c.Linear Model & Prototyping
+Ans: c. Linear Model & Prototyping
 
 
 >Q24.The main difference between Incremental Model and Spiral Model is
