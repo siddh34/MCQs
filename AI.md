@@ -109,6 +109,127 @@
 **Answer**  : Option 4
 
 *Explanation: Environment is not a part of agent architecture.*
+
+> Q10. Which action sequences are used to achieve the agent’s goal?
+
+    1) Search
+    2) Planning
+    3) Retrieve
+    4) Both 1 and 2
+
+**Answer**  : Option 4
+
+*Explanation:  When the environment becomes more tricky means, the agent needs plan and search action sequence to achieve the goal.*
+
+> Q11. When do we call the states are safely explorable?
+
+    a) A goal state is unreachable from any state
+    b) A goal state is denied access
+    c) A goal state is reachable from every state
+    d) None of the mentioned
+
+**Answer**  : Option c
+
+*Explanation: A goal state is reachable from every state.*
+
+> Q12. What is the main task of a problem-solving agent?
+
+    a) Solve the given problem and reach to goal
+    b) To find out which sequence of action will get it to the goal state
+    c) All of the mentioned
+    d) None of the mentioned
+
+**Answer**  : Option c
+
+*Explanation: The problem-solving agents are one of the goal-based agents.*
+
+> Q13. What is state space?
+
+    a) The whole problem
+    b) Your Definition to a problem
+    c) Problem you design
+    d) Representing your problem with variable and parameter
+
+**Answer**  : Option d
+
+*Explanation: State space is a set of all possible states of the problem.*
+
+> Q14. A solution to a problem is a path from the initial state to a goal state. Solution quality is measured by the path cost function, and an optimal solution has the highest path cost among all solutions.
+
+    a) True
+    b) False
+
+**Answer**  : Option b
+
+*Explanation: A solution to a problem is a path from the initial state to a goal state. Solution quality is measured by the path cost function, and an optimal solution has the lowest path cost among all solutions.*
+
+> Q15. What is the major component/components for measuring the performance of problem solving?
+
+    a) Completeness
+    b) Optimality
+    c) Time and Space complexity
+    d) All of the mentioned
+
+**Answer**  : Option d
+
+*Explanation: Completeness, Optimality, Time and Space complexity are the major components for measuring the performance of problem solving.*
+
+> Q16. Which search method takes less memory?
+
+    a) Depth-First Search
+    b) Breadth-First search
+    c) Linear Search
+    d) Optimal search
+
+**Answer**  : Option a
+
+*Explanation: Depth-First Search takes less memory since only the nodes on the current path are stored, but in Breadth First Search, all of the tree that has generated must be stored.*
+
+> Q17. The process of removing detail from a given state representation is called ______
+
+    a) Extraction
+    b) Abstraction
+    c) Information Retrieval
+    d) Mining of data
+
+**Answer**  : Option b
+
+*Explanation: The process of removing detail from a given state representation is called abstraction.*
+
+> Q18. The Set of actions for a problem in a state space is formulated by a ___________
+
+    a) Intermediate states
+    b) Initial state
+    c) Successor function, which takes current action and returns next immediate state
+    d) None of the mentioned
+
+**Answer**  : Option c
+
+*Explanation: The most common formulation for actions uses a successor function. Given a particular state x, SUCCESSOR-FN(x) returns a set of (action, successor) ordered pairs, where each action is one of the legal actions in state x and each successor is a state that can be reached from x by applying the action.*
+
+> Q19. Which is the best way to go for Game playing problem?
+
+    a) Linear approach
+    b) Heuristic approach (Some knowledge is stored)
+    c) Random approach
+    d) An Optimal approach
+
+**Answer**  : Option b
+
+*Explanation: We use a Heuristic approach, as it will find out brute force computation, looking at hundreds of thousands of positions. e.g Chess competition between Human and AI based Computer.*
+
+> Q20. Web Crawler is a/an ____________
+
+    a) Intelligent goal-based agent
+    b) Problem-solving agent
+    c) Simple reflex agent
+    d) Model based agent
+
+**Answer**  : Option a
+
+*Explanation: Web Crawling is type of search for a relevant document from given seed documents. Focused crawlers exists, helps to improvise the search efficiency.*
+
+
 ## Unit 2
 
 
