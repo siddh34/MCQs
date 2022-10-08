@@ -39,8 +39,8 @@
 
     1) Artificial Intelligence is a subset of Natural Intelligence
     2) Artificial Intelligence is a superset of Natural Intelligence
-    3) Artificial Intelligence is a subset of Natural Intelligence
-    4) Artificial Intelligence is a superset of Natural Intelligence
+    3) There is no difference between Artificial Intelligence and Natural Intelligence
+    4) None of the mentioned
 
 **Answer**  : Option 2
 
