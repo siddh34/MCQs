@@ -10,6 +10,42 @@
     4) All of the mentioned
 
 **Answer**  : All of the mentioned (Option 4)
+*Explanation: All sectors require intelligence and automation for its working.*
+
+> Q2. The following are the examples of Artificial Intelligence except
+
+    1) Expert Systems
+    2) Robotics
+    3) Natural Language Processing
+    4) None of the mentioned
+
+**Answer**  : None of the mentioned (Option 4)
+*Explanation: All of the above are the examples of Artificial Intelligence.*
+
+> Q2. What is an ‘agent’?
+
+    1) Perceives its environment through sensors and acting upon that environment through actuators
+    2) Takes input from the surroundings and uses its intelligence and performs the desired operations
+    3) A embedded program controlling line following robot
+    4) All of the mentioned
+
+**Answer**  : Option 4
+*Explanation: An agent is anything that can be viewed as perceiving and acting upon the environment through the sensors and actuators. Mean it takes input from its environment through sensors, performs operation and gives output through actuators.*
+
+> Q3. What is the difference between Artificial Intelligence and Natural Intelligence?
+
+    1) Artificial Intelligence is a subset of Natural Intelligence
+    2) Artificial Intelligence is a superset of Natural Intelligence
+    3) Artificial Intelligence is a subset of Natural Intelligence
+    4) Artificial Intelligence is a superset of Natural Intelligence
+
+**Answer**  : Option 2
+*Explanation: Artificial Intelligence is a superset of Natural Intelligence. Natural Intelligence is a subset of Artificial Intelligence.*
+
+
+
+
+
 
 ## Unit 2
 
