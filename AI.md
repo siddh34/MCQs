@@ -13,6 +13,8 @@
 
 *Explanation: All sectors require intelligence and automation for its working.*
 
+
+
 > Q2. The following are the examples of Artificial Intelligence except
 
     1) Expert Systems
@@ -23,6 +25,8 @@
 **Answer**  : None of the mentioned (Option 4)
 
 *Explanation: All of the above are the examples of Artificial Intelligence.*
+
+
 
 > Q2. What is an ‘agent’?
 
@@ -35,6 +39,8 @@
 
 *Explanation: An agent is anything that can be viewed as perceiving and acting upon the environment through the sensors and actuators. Mean it takes input from its environment through sensors, performs operation and gives output through actuators.*
 
+
+
 > Q3. What is the difference between Artificial Intelligence and Natural Intelligence?
 
     1) Artificial Intelligence is a subset of Natural Intelligence
@@ -45,6 +51,8 @@
 **Answer**  : Option 2
 
 *Explanation: Artificial Intelligence is a superset of Natural Intelligence. Natural Intelligence is a subset of Artificial Intelligence.*
+
+
 
 > Q4. The field that investigates the mechanics of human intelligence is?
 
@@ -57,6 +65,8 @@
 
 *Explanation: Cognitive science is the field that investigates the mechanics of human intelligence.*
 
+
+
 > Q5. Performance Measures are fixed for all agents.
 
     a) True
@@ -65,6 +75,8 @@
 **Answer**  : (b) False
 
 *Explanation: Performance Measures are not fixed for all agents.*
+
+
 
 > Q6. Agents behavior can be best described by ____________
 
@@ -77,6 +89,8 @@
 
 *Explanation: An agent’s behavior is described by the agent function that maps any given percept sequence to an action, which can be implemented by agent program. The agent function is an abstract mathematical description; the agent program is a concrete implementation, running on the agent architecture.*
 
+
+
 > Q7. Categorize Crossword puzzle in Fully Observable / Partially Observable
 
     1) Fully Observable
@@ -87,6 +101,8 @@
 **Answer**  : Option 1
 
 *Explanation: In crossword puzzle an agent knows the complete state of the environment through its sensors.*
+
+
 
 > Q8. Which instruments are used for perceiving and acting upon the environment?
 
@@ -99,6 +115,8 @@
 
 *Explanation: Sensors and Actuators are used for perceiving and acting upon the environment.*
 
+
+
 > Q9. Which of the following is not a part of agent architecture?
 
     1) Sensors
@@ -109,6 +127,8 @@
 **Answer**  : Option 4
 
 *Explanation: Environment is not a part of agent architecture.*
+
+
 
 > Q10. Which action sequences are used to achieve the agent’s goal?
 
@@ -121,6 +141,8 @@
 
 *Explanation:  When the environment becomes more tricky means, the agent needs plan and search action sequence to achieve the goal.*
 
+
+
 > Q11. When do we call the states are safely explorable?
 
     a) A goal state is unreachable from any state
@@ -131,6 +153,8 @@
 **Answer**  : Option c
 
 *Explanation: A goal state is reachable from every state.*
+
+
 
 > Q12. What is the main task of a problem-solving agent?
 
@@ -143,6 +167,8 @@
 
 *Explanation: The problem-solving agents are one of the goal-based agents.*
 
+
+
 > Q13. What is state space?
 
     a) The whole problem
@@ -154,6 +180,8 @@
 
 *Explanation: State space is a set of all possible states of the problem.*
 
+
+
 > Q14. A solution to a problem is a path from the initial state to a goal state. Solution quality is measured by the path cost function, and an optimal solution has the highest path cost among all solutions.
 
     a) True
@@ -162,6 +190,8 @@
 **Answer**  : Option b
 
 *Explanation: A solution to a problem is a path from the initial state to a goal state. Solution quality is measured by the path cost function, and an optimal solution has the lowest path cost among all solutions.*
+
+
 
 > Q15. What is the major component/components for measuring the performance of problem solving?
 
@@ -174,6 +204,8 @@
 
 *Explanation: Completeness, Optimality, Time and Space complexity are the major components for measuring the performance of problem solving.*
 
+
+
 > Q16. Which search method takes less memory?
 
     a) Depth-First Search
@@ -184,6 +216,8 @@
 **Answer**  : Option a
 
 *Explanation: Depth-First Search takes less memory since only the nodes on the current path are stored, but in Breadth First Search, all of the tree that has generated must be stored.*
+
+
 
 > Q17. The process of removing detail from a given state representation is called ______
 
@@ -196,6 +230,8 @@
 
 *Explanation: The process of removing detail from a given state representation is called abstraction.*
 
+
+
 > Q18. The Set of actions for a problem in a state space is formulated by a ___________
 
     a) Intermediate states
@@ -207,6 +243,8 @@
 
 *Explanation: The most common formulation for actions uses a successor function. Given a particular state x, SUCCESSOR-FN(x) returns a set of (action, successor) ordered pairs, where each action is one of the legal actions in state x and each successor is a state that can be reached from x by applying the action.*
 
+
+
 > Q19. Which is the best way to go for Game playing problem?
 
     a) Linear approach
@@ -217,6 +255,8 @@
 **Answer**  : Option b
 
 *Explanation: We use a Heuristic approach, as it will find out brute force computation, looking at hundreds of thousands of positions. e.g Chess competition between Human and AI based Computer.*
+
+
 
 > Q20. Web Crawler is a/an ____________
 
