@@ -46,12 +46,23 @@
 
 *Explanation: Artificial Intelligence is a superset of Natural Intelligence. Natural Intelligence is a subset of Artificial Intelligence.*
 
+> Q4. The field that investigates the mechanics of human intelligence is?
+
+    1) History
+    2) Cognitive science
+    3) Psychology
+    4) Sociology
+
+**Answer**  : Option 2
+
+*Explanation: Cognitive science is the field that investigates the mechanics of human intelligence.*
 
 
 
 
 
 ## Unit 2
+
 
 
 ## Unit 3
