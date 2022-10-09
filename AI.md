@@ -563,6 +563,7 @@ execution.
 *Explanation: ∀ a philosopher(a) scholar(a)*
 
 > Q2. Which is created by using single propositional symbol?
+
     a) Complex sentences
     b) Atomic sentences
     c) Composition sentences
