@@ -380,3 +380,104 @@ Explanation: If there is any loop in the chain means, It will lead to incomplete
 
 **Answer**  : Option b
 
+> Q11. Which of the following are the advantages of procedural knowledge?
+
+>i. Here the heuristic or domain-specific knowledge can be represented.
+
+>ii. The extended logical inferences, such as default reasoning are facilitated.
+
+>iii. There is guaranteed correctness.
+
+
+    a) i and ii only
+    b) ii and iii only
+    c) i and iii only
+    d) All i, ii and iii
+
+**Answer**  : Option a
+
+> Q12. Inference algorithm is complete only if _____________
+
+    a) It can derive any sentence
+    b) It can derive any sentence that is an entailed version
+    c) It is truth preserving
+    d) It can derive any sentence that is an entailed version & It is truth preserving
+
+
+**Answer**  : Option d
+
+> Q13.  An inference algorithm that derives only entailed sentences is called sound or truth-preserving.
+
+    a) True
+    b) False
+
+**Answer**  : Option a
+
+> Q14. Knowledge and reasoning also play a crucial role in dealing with __________________ environment.
+
+    a) Completely Observable
+    b) Partially Observable
+    c) Neither Completely nor Partially Observable
+    d) Only Completely and Partially Observable
+
+**Answer**  : Option b
+
+*Explanation: Knowledge and reasoning could aid to reveal other factors that could complete environment*
+
+> Q15. There are primarily two modes for an inference engine: forward chaining and backward chaining.
+ 
+    a) True
+    b) False
+
+**Answer**  : Option a
+
+> Q16. Translate the given statement into FOL.
+
+>“For each a, if a is a student of masters, then a has a bachelors degree”
+
+    a) ∀ a Masters(a) -> Bachelors(a)
+    b) ∃ a Masters(a) -> Bachelors(a)
+    c) A is true, B is true
+    d) A is false, B is false
+
+**Answer**  : Option a
+
+> Q17. Lifted inference rules need discovering the substitutions that make dissimilar logical expressions that have a similar appearance.
+
+    a) True
+    b) False
+
+**Answer**  : Option a
+
+> Q18. Which of the following is not the style of inference?
+
+    (a). Forward Chaining
+    (b). Backward Chaining
+    (c). Modus Ponen
+    (d). None of these
+
+**Answer**  : Option c
+
+> Q19. Which of the following are the two elementary types of inferences?
+
+    (a). Reduction to propositional logic, Manipulate rules directly
+    (b). Reduction to propositional logic, Apply modus ponen
+    (c). Apply modus ponen, Manipulate rules directly
+    (d). Convert each rule to Horn Clause, Reduction to propositional logic
+
+**Answer**  : Option a
+
+> Q20. Inference algorithm is complete only if It
+
+    (a). It can derive any sentence
+    (b). It can derive any sentence that is an entailed version
+    (c). It is truth preserving
+    (d). It can derive any sentence that is an entailed version & It is truth preserving
+
+**Answer**  : Option d
+
+
+
+
+
+
