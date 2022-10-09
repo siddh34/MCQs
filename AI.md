@@ -275,3 +275,108 @@
 
 
 ## Unit 3
+
+> Q1. Translate the following statement into FOL. “For every a, if a is a philosopher, then a is a scholar”
+
+    a) ∀ a philosopher(a) scholar(a)
+    b) ∃ a philosopher(a) scholar(a)
+    c) All of the mentioned
+    d) None of the mentioned
+
+
+**Answer**  : Option a
+
+*Explanation: ∀ a philosopher(a) scholar(a)*
+
+> Q2. Which is created by using single propositional symbol?
+    a) Complex sentences
+    b) Atomic sentences
+    c) Composition sentences
+    d) None of the mentioned
+
+**Answer**  : Option b
+
+*Explanation: Atomic sentences are indivisible syntactic elements consisting of single propositional symbol.*
+
+> Q3. Which algorithm are in more similar to backward chaining algorithm?
+
+    a) Depth-first search algorithm
+    b) Breadth-first search algorithm
+    c) Hill-climbing search algorithm
+    d) All of the mentioned
+
+**Answer**  : Option a
+
+*Explanation: It is depth-first search algorithm because its space requirements are linear in the size of the proof*
+
+> Q4. Which problem can frequently occur in backward chaining algorithm?
+
+    a) Repeated states
+    b) Incompleteness
+    c) Complexity
+    d) Both Repeated states & Incompleteness
+
+**Answer**  : Option d
+
+Explanation: If there is any loop in the chain means, It will lead to incompleteness and repeated states.
+
+> Q5. Wumpus World is a classic problem, best example of _______
+
+    a) Single player Game
+    b) Two player Game
+    c) Reasoning with Knowledge
+    d) Knowledge based Game
+
+**Answer**  : Option c
+
+*Explanation: Wumpus World is a classic problem, best example of reasoning with knowledge.*
+
+> Q6. What among the following could the universal instantiation of ___________
+>    For all x King(x) ^ Greedy(x) => Evil(x)
+
+    a) King(John) ^ Greedy(John) => Evil(John)
+    b) King(y) ^ Greedy(y) => Evil(y)
+    c) King(Richard) ^ Greedy(Richard) => Evil(Richard)
+    d) All of the mentioned
+
+**Answer**  : Option d
+
+*Explanation: King(John) ^ Greedy(John) => Evil(John) King(y) ^ Greedy(y) => Evil(y) King(Richard) ^ Greedy(Richard) => Evil(Richard)*
+
+> Q7. Which among the following could the Existential instantiation of ∃x Crown(x) ^ OnHead(x, Johnny)?
+
+    a) Crown(John) ^ OnHead(John, Jonny)
+    b) Crown(y) ^ OnHead(y, y, x)
+    c) Crown(x) ^ OnHead(x, Jonny)
+    d) None of the mentioned
+
+**Answer**  : Option a
+
+
+> Q8. Translate the following statement into FOL.
+>“For every a, if a is a PhD student, then a has a master degree”
+
+    a) ∀ a PhD(a) -> Master(a)
+    b) ∃ a PhD(a) -> Master(a)
+    c) A is true, B is true
+    d) A is false, B is false
+
+**Answer**  : Option a
+
+
+> Q9. In a backward chaining system, you start with some hypothesis (or goal) you are trying to prove, and keep looking for rules that would allow you to conclude that hypothesis, perhaps setting new sub-goals to prove as you go.
+
+    a) True
+    b) False
+
+**Answer**  : Option a
+
+> Q10. Forward chaining systems are _____________ where as backward chaining systems are ___________
+  
+    a) Goal-driven, goal-driven
+    b) Goal-driven, data-driven
+    c) Data-driven, goal-driven
+    d) Data-driven, data-driven
+
+**Answer**  : Option b
+
