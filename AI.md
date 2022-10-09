@@ -607,7 +607,8 @@ Explanation: If there is any loop in the chain means, It will lead to incomplete
 *Explanation: Wumpus World is a classic problem, best example of reasoning with knowledge.*
 
 > Q6. What among the following could the universal instantiation of ___________
->    For all x King(x) ^ Greedy(x) => Evil(x)
+
+For all x King(x) ^ Greedy(x) => Evil(x)
 
     a) King(John) ^ Greedy(John) => Evil(John)
     b) King(y) ^ Greedy(y) => Evil(y)
@@ -618,7 +619,9 @@ Explanation: If there is any loop in the chain means, It will lead to incomplete
 
 *Explanation: King(John) ^ Greedy(John) => Evil(John) King(y) ^ Greedy(y) => Evil(y) King(Richard) ^ Greedy(Richard) => Evil(Richard)*
 
-> Q7. Which among the following could the Existential instantiation of ∃x Crown(x) ^ OnHead(x, Johnny)?
+> Q7. Which among the following could the Existential instantiation of 
+
+∃x Crown(x) ^ OnHead(x, Johnny)?
 
     a) Crown(John) ^ OnHead(John, Jonny)
     b) Crown(y) ^ OnHead(y, y, x)
@@ -629,7 +632,8 @@ Explanation: If there is any loop in the chain means, It will lead to incomplete
 
 
 > Q8. Translate the following statement into FOL.
->“For every a, if a is a PhD student, then a has a master degree”
+
+“For every a, if a is a PhD student, then a has a master degree”
 
     a) ∀ a PhD(a) -> Master(a)
     b) ∃ a PhD(a) -> Master(a)
