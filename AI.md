@@ -662,7 +662,9 @@ For all x King(x) ^ Greedy(x) => Evil(x)
 > Q11. Which of the following are the advantages of procedural knowledge?
 
 i. Here the heuristic or domain-specific knowledge can be represented.
+
 ii. The extended logical inferences, such as default reasoning are facilitated.
+
 iii. There is guaranteed correctness.
 
 
