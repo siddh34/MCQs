@@ -316,15 +316,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 *Explanation: In crossword puzzle an agent knows the complete state of the environment through its sensors*
 
-> Q25.  Performance Measures are fixed for all agents.
-
-    1. True 
-    2. False
-
-**Answer** : Option 1
-
-*Explanation : As a general rule, it is better to design performance measures according to what one actually wants in the environment, rather than according to how one thinks the agent should behave*
-
 ## Unit 2
 
 > Q1. What is the other name of informed search strategy?
