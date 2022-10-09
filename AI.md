@@ -1,5 +1,9 @@
 # Artifical Intelligence
 
+# Very Important to vist the drive below
+
+https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sharing
+
 ## Unit 1
 
 >  Q1. Artificial Intelligence has its expansion in the following application.
@@ -270,9 +274,298 @@
 *Explanation: Web Crawling is type of search for a relevant document from given seed documents. Focused crawlers exists, helps to improvise the search efficiency.*
 
 
+> Q21. What is Artificial intelligence?
+
+    1. Putting your intelligence into Computer
+    2. Programming with your own intelligence
+    3. Making a Machine intelligent
+    4. Playing a Game
+
+**Answer** : Option 3
+
+*Explanation: Because AI is to make things work automatically through machine without using human effort. Machine will give the result with just giving input from human. That means the system or machine will act as per the requirement.*
+
+> Q22. The Task Environment of an agent consists of ____________
+
+    1. Sensors
+    2. Actuators
+    3. Performance Measures
+    4. All of the mentioned
+
+**Answer** : Option 4
+
+*Explanation : The task environment of an agent is described by four parts performance measures, sensors, actuators and environment, generally known as the PEAS descriptions*
+
+> Q23. An omniscient agent knows the actual outcome of its actions and can act accordingly; but omniscience is impossible in reality. Rational Agent always does the right thing; but Rationality is possible in reality.
+
+    1. True
+    2. False
+
+**Answer** : Option 1
+
+*Explanation : A rational agent chooses whichever action maximizes the expected value of the performance measure given the percept sequence. Rationality: omniscience, learning, and autonomy An omniscient(perfect) agent knows the actual outcome of its actions and can act accordingly; but perfection is impossible in reality.*
+
+> Q24. Categorize Crossword puzzle in Fully Observable / Partially Observable.
+
+    1. Fully Observable
+    2. partially Observable
+    3. All of the mentioned
+    4. None of the mentioned
+
+**Answer** : Option 1 
+
+*Explanation: In crossword puzzle an agent knows the complete state of the environment through its sensors*
+
+> Q25.  Performance Measures are fixed for all agents.
+
+    1. True 
+    2. False
+
+**Answer** : Option 1
+
+*Explanation : As a general rule, it is better to design performance measures according to what one actually wants in the environment, rather than according to how one thinks the agent should behave*
+
 ## Unit 2
 
+> Q1. What is the other name of informed search strategy?
 
+    1. Simple search
+    2. Heuristic search
+    3. Online search
+    4. NONE
+
+**Answer:** Option 2
+
+*Explanation :  A key point of informed search strategy is heuristic function, So it is called as heuristic function.*
+
+> Q2.  How many types of informed search method are in artificial intelligence?
+
+    1. 1
+    2. 2
+    3. 3 
+    4. 4
+
+**Answer:** Option 4
+
+*Explanation : The four types of informed search method are best-first search, Greedy best-first search, A star search and memory bounded heuristic search*
+
+> Q3. Which is used to improve the performance of heuristic search?
+
+    a) Quality of nodes
+    b) Quality of heuristic function
+    c) Simple form of nodes
+    d) None of the mentioned
+
+**Answer:** Option b
+
+*Explanation :  Good heuristic can be constructed by relaxing the problem, So the performance of heuristic search can be improved.*
+
+> Q4. Which search method will expand the node that is closest to the goal?
+
+    a) Best-first search
+    b) Greedy best-first search
+    c) A" search
+    d) None of the mentioned
+
+**Answer:** Option b
+
+*Explanation : Because of using greedy best-first search, It will quickly lead to the solution of the problem.*
+
+> Q5.  Which algorithm is used to solve any kind of problem?
+
+    a) Breadth-first algorithm
+    b) Tree algorithm
+    c) Bidirectional search algorithm
+    d) None of the mentioned
+
+**Answer:** Option b
+
+*Explanation : Tree algorithm is used because specific variants of the algorithm embed different strategies.*
+
+> Q6. Which search algorithm imposes a fixed depth limit on nodes?
+
+    a) Depth-limited search
+    b) Depth-first search
+    c) Iterative deepening search
+    d) Bidirectional search
+
+**Answer:** Option a
+
+*Explanation : As we are not searching the infinite depth in Depth-limited search*
+
+> Q7. Which search implements stack operation for searching the states?
+
+    a) Depth-limited search
+    b) Depth-first search
+    c) Breadth-first search
+    d) None of the mentioned
+
+**Answer:** Option b
+
+*Explanation : It implements stack operation because it always expands the deepest node in the current tree.*
+
+> Q8. How many successors are generated in backtracking search?
+
+    a) 1
+    b) 2
+    c) 3
+    d) 4
+
+
+**Answer**  : Option a
+
+*Explanation: Each partially expanded node remembers which successor to generate next because of these conditions, it uses less memory.*
+
+> Q9. When is breadth-first search is optimal?
+
+    a) When there is less number of nodes
+    b) When all step costs are equal
+    c) When all step costs are unequal
+    d) None of the mentioned
+
+**Answers:** Option b
+
+*Explanation: Because it always expands the shallowest unexpanded node*
+
+> Q.10  How many parts does a problem consists of?
+
+    a) 1
+    b) 2
+    c) 3
+    d) 4
+
+**Answer**  : Option 4
+
+*Explanation : The four parts of the problem are initial state, set of actions, goal test and path cost.* 
+
+> Q11. Given below are two statements 
+
+Statement I: A genetic algorithm is a stochastic hill-climbing search in which a large
+population of states is maintained.
+
+Statement II: In nondeterministic environments, agents can apply AND-OR search to generate contingent plans that reach the goal regardless of which outcomes occur during
+execution.
+
+    1. Both Statement I and Statement II are true
+    2. Both Statement I and Statement II are false
+    3. Statement I is correct but Statement II is false
+    4. Statement I is incorrect but Statement II is true
+
+**Answer**  : Option 1
+
+*Explanation : A genetic algorithm is a stochastic hill-climbing algorithm that maintains a wide populationof states. Mutation and crossover, which blends pairs of states from the population, create new states. Hence Statement I is correct. Agents may use AND-OR search in non-deterministic environments to produce contingent plans that achieve the target regardless of which outcomes occur during execution. Hence Statement II is correct*
+
+> Q12. A loop that constantly moves in the direction of growing value that is uphill, ……. is an algorithm.
+
+    (A). Up-Hill Search
+
+    (B). Hill-Climbing
+
+    (C). Hill algorithm
+
+    (D). Reverse-Down-Hill search
+
+    (E). None of these
+
+**Answer** : Option b
+
+> Q13. Hill-Climbing technique stuck for which of the following reasons?
+
+    (A). Local maxima
+
+    (B). Ridges
+
+    (C). Plateaux
+
+    (D). All of these
+
+    (E). None of these
+
+**Answer** : Option d
+
+> Q14. To overcome the need to backtrack in constraint satisfaction problem can be eliminated by
+
+    a) Forward Searching
+    b) Constraint Propagation
+    c) Backtrack after a forward search
+    d) Omitting the constraints and focusing only on goals
+
+**Answer** : Option 1
+
+*Explanation : Forward Searching is technique in which a forward check till k steps is made to analyze that the goal can be achieved satiating all constraints. With constraint propagation, constraints on a variable can be propagated to next level/hierarchy and satisfied at that level, eliminating need to backtrack*
+
+> Q15. Constraint satisfaction problems on finite domains are typically solved using a form of
+
+    a) Search Algorithms
+    b) Heuristic Search Algorithms
+    c) Greedy Search Algorithms
+    d) All of the mentioned
+
+**Answer**  : Option 4
+
+*Explanation : Any Search techniques can be used*
+
+> Q16.  When do we call the states are safely explored?
+
+    a) A goal state is unreachable from any state
+    b) A goal state is denied access
+    c) A goal state is reachable from every state
+    d) None of the mentioned
+
+**Answer:** Option c
+
+> Q17. Which of the following algorithm is generally used CSP search algorithm?
+
+    a) Breadth-first search algorithm
+    b) Depth-first search algorithm
+    c) Hill-climbing search algorithm
+    d) None of the mentioned
+
+**Answer:** Option b
+
+*Explanation : Provides backtrack facility*
+
+> Q18. With alpha-beta pruning the time complexity of minimax algorithm can be
+
+    1. O(b^(m/2))
+    2. O(bm)
+    3. O(b^m)
+    4. O(b*m)
+
+**Answer:** Option 1
+
+*Explanation: Pruning does not affect final result it makes minimax efficient*
+
+> Q19. Solving a constraint satisfaction problem on a finite domain is an/a. to the domain size.
+
+    a) P complete
+    b) NP complete
+    c) NP hard
+    d) Domain dependent 
+
+**Answer :** Option b
+
+> Q20. The difference between games and search problems
+
+    1. Goal state is uncertain in games
+    2. Goal state is certain
+    3. Starting state is different
+    4. None 
+
+**Answer :** Option 1
+
+*Explanation : Search problems mostly have a clear goal state*
+
+> Q21. typically because the set of constraints to consider evolves because of the environment.
+
+    a) Static CSPs
+    b) Dynamic CSPs
+    c) Flexible CSPs
+    d) None of the mentioned
+
+**Answer:** b
+
+*Explanation : Dynamic CSPs (DCSP s) are useful when the original formulation of a problem is altered in some way, typically because the set of constraints to consider evolves because of the environment*
 
 ## Unit 3
 
