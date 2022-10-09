@@ -305,16 +305,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 *Explanation : A rational agent chooses whichever action maximizes the expected value of the performance measure given the percept sequence. Rationality: omniscience, learning, and autonomy An omniscient(perfect) agent knows the actual outcome of its actions and can act accordingly; but perfection is impossible in reality.*
 
-> Q24. Categorize Crossword puzzle in Fully Observable / Partially Observable.
-
-    1. Fully Observable
-    2. partially Observable
-    3. All of the mentioned
-    4. None of the mentioned
-
-**Answer** : Option 1 
-
-*Explanation: In crossword puzzle an agent knows the complete state of the environment through its sensors*
 
 ## Unit 2
 
