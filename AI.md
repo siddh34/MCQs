@@ -76,9 +76,9 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
     a) True
     b) False
 
-**Answer**  : (b) False
+**Answer**  : (a) True
 
-*Explanation: Performance Measures are not fixed for all agents.*
+*Explanation: Performance Measures are according to how one wants it.*
 
 
 
