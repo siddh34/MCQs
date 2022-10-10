@@ -114,6 +114,115 @@ https://drive.google.com/drive/folders/11CcPlX-VAKegRTCOT1SPGGLyPHQuC8oO?usp=sha
 
 *Explanation : Two pass assembler also does the same work but doesn't provide ability to load quickly and run the code*
 
+
+> Q10. Difference between Compiler and Interpreter?
+
+      1. Compiled code runs slower
+      2. Interpreter is beased on linking-loading model
+      3. Interpreted code runs slower.
+      4. Interpreter coverts high-level program into machine code
+
+**Answer :** Option 3
+
+> Q11. Each line in assembly lang cannot be ....
+
+      1. an instruction 
+      2. an assembler directive
+      3. a comment
+      4. Opcode
+
+**Answer :** Option 4
+
+> Q12. Final address of Symbol L
+
+<img src="./Images/lpccprog1.jpg">
+
+
+      1. 100
+      2. 102
+      3. 109
+      4. 107
+
+**Answer :** Option 4
+
+> Q13. How many pools are there
+
+<img src="./Images/lpccprog2.jpg">
+
+      1. 1
+      2. 2 
+      3. 4
+      4. 3
+
+**Answer :** Option 1
+
+> Q14. Which of the following is not mandatory in assemblt program?
+
+      1. Opcode
+      2. Operands
+      3. Label
+      4. None
+
+**Answer :** Option 3
+
+> Q15. Which of the following is not an assembly directive? 
+
+      1. START
+      2. EQU
+      3. AREG
+      4. END
+
+**Answer :** Option 3
+
+> Q16. Which statement assigns addresses to literal after it comes?
+
+      1. START
+      2. END
+      3. LTORG
+      4. EQU
+
+**Answer :** Option 3
+
+> Q17. Address of literal 1?
+
+<img src="./Images/lpccprog3.jpg">
+
+      1. 205
+      2. 206
+      3. 211
+      4. 203
+
+**Answer :** Option 1
+
+> Q18. Address of BACK?
+
+<img src="./Images/lpccprog3.jpg">
+
+      1. 202
+      2. 210
+      3. 203
+      4. 204
+
+**Answer :** Option 1
+
+> Q19. START is a ___
+
+      1. Imperative Statement
+      2. Declarative Statement
+      3. Assembly Director
+      4. None
+
+**Answer :** Option 3
+
+> Q20. What happens in phases of assembler?
+
+      1. Analysis
+      2. Syntax
+      3. Both
+      4. None
+
+**Answer :** Option 3
+
 ## Unit 2 Macroprocessors
 
 >Q1. In which way(s) can a macro processor for assembly language be implemented ?
@@ -165,29 +274,184 @@ https://drive.google.com/drive/folders/11CcPlX-VAKegRTCOT1SPGGLyPHQuC8oO?usp=sha
 
 *Explanation : The program performs its own relocation and does not require a linker is called as self-relocating program*
 
-> Q4 fill in the blanks
+> Q4. Subroutine linkage is a method where ...
 
-<img src="./Images/lppccode1.jpg">
+      1. A way in which computer call and return the 
+      Subroutine
+      2. Uses of multiple entry points
+      3. Both
+      4. None
 
-    1. READ X, MOVEM, MEND, #2
-    2. ONE Y, MOVER, THREE, ='1' 
-    3. lc = 100, MOVER, MEND, #2
-    4. ONE X, MOVEM, THREE, #1'+
+**Answer :** Option 3
 
-**Answer :**  Option 1
+> Q5. The advantage(s) of incorporating the macro processor into pass 1 is/ are:
 
-*Explanation : It is clear that at third position there should MEND,\ and one next element is #1 then two's next element will be #2*
+      1. The advantage(s) of incorporating the macro processor into pass 1 is/ are:
+      2. Functions are combined and it is not necessary to create intermediate files as output from the macro processor and input to the assembler
+      3. more flexibility is available to the programmer in which he/she may use all the features of the assembler in conjunction with macros
+      4. All the above
 
-> Q5 Select the correct options with respect to statements i) 2 modules cannot have the same load address ii) Overlays are used to reduce memory usage
+**Answer :** Option 4
 
-      1. Only (i) are correct
-      2. Both (i) and (ii) are correct
-      3. Both (i) and (ii) are incorrect
-      4. Only (ii) is correct
+> Q6. A system program that combines the separately compiled modules of a program into a form suitable
+
+      1. Assembler
+      2. Linking loader
+      3. Cross compiler
+      4. Load and go
 
 **Answer :** Option 2
 
-*Explanation : Programmers have to see that no same address is allocated to 2 modules. The concept of overlays is that whenever a process is running it will not use the complete program at the same time, it will use only some part of it. Then overlays concept says that whatever part you required, you load it and once the part is done, then you just unload it, means just pull it back and get the new part you required and run it.*
+*Explanation : A loader which combines the functions of a relocating loader with the ability to combine a number of program segments that have been independently compiled into an executable program*
+
+> Q7. Absolute loader demands that the programmer needs to know the
+
+      1. Start address of the available main memory
+      2. Total size of the program
+      3. Actual address of the data location
+      4. Absolute values of the operands used
+
+**Answer** : Option 1
+
+*Explanation : An absolute loader is a kind of loader in which relocated object files are created*
+
+> Q8. Which of the following statement(s) regarding a linker software is/are true ?
+
+a) A function of a linker is to combine several object modules into a single load module.
+<br>
+b) A function of a linker is to replace absolute references in an object module by symbolic references to
+ocations in other modules.
+
+      1. a 
+      2. b
+      3. a and b
+      4. None
+
+**Answer** : Option 1
+
+> Q9. The translator which perform macro expansion is called a
+
+      1. Macro processor
+      2. Macro pre-processor
+      3. Micro pre-processor
+      4. Assembler
+
+**Answer** : Option 2
+
+> Q10. Dynamic linking loader, Loading and linking of external references are postponed until ...
+
+      1. Runtime (Execution)
+      2. Just before runtime
+      3. after runtime
+      4. None of the following
+
+**Answer** : Option 1
+
+> Q11. Macro processor is an inbuilt function of ?
+
+      1. Loader
+      2. Editor
+      3. Linker
+      4. Assembler
+
+**Answer** : Option 4
+
+> Q13. A macro within a macro is called
+
+      1. Macro-within-macro
+      2. Nested macro
+      3. Macro-in-macro
+      4. None
+
+**Answer** : Option 2
+
+> Q14. There are total ____  types of Macros?
+
+      1. 5
+      2. 3
+      3. 2
+      4. 6
+
+
+**Answer** : Option 1
+
+> Q15. Macros can be defined at ___
+
+      1. Anywhere
+      2. At start
+      3. At end
+      4. None of the above
+
+**Answer** : Option 1
+
+> Q16. Which of the following are the principles tasks of the linker?
+
+1. Resolve external references among separately compiled program units <br>
+2. Translate assembly language to machine code.<br>
+3.  Relocate code and data relative to the beginning of the program<br>
+4. Enforce access-control restrictions on system libraries<br>
+
+      1. I and II
+      2. I and Ill 
+      3. II and Ill
+      4. I and IV
+
+**Answer** : Option 2
+
+*Explanation:The linker is a computer program that takes one or more object files generated by a compiler and combines them into one executable program*
+
+> Q17. The linker
+
+      1. Is similar to interpreter
+      2. Uses source code as its input
+      3. Is required to create a load module
+      4. None of the above
+
+**Answer** : Option 2
+
+*Explanation: In assembly language the pieces of a big application program can be written as separate source files and assembled into separate object modules*
+
+> Q18. What is the Expanded code for the Following
+
+<img src="./Images/lpccprog4.jpg">
+
+      1. LOAD A 
+         ADD B
+         MULT C
+         MULT B
+         END
+
+
+      2.LOAD A 
+         ADD B
+         MULT C
+         MULT B
+
+      3. None
+
+      4. Both are correct
+
+**Answer** : Option 1
+
+> Q19. Identify the following macro __
+
+<img src="./Images/lpccprog5.jpg">
+
+      1. Nested macro
+      2. Macro with parameters
+      3. Simple macro
+      4. None
+
+**Answer** : Option 1
+
+> Q20. Which pass of macro processes the definition of macro?
+
+      1. Definition mode
+      2. Expansion mode 
+      3. Both
+      4. None
+
+**Answer** : Option 1
 
 ## Unit 3
 
@@ -369,3 +633,39 @@ Syntax analysis or parser accepts the tokens produced by the lexical analysis an
 **ANS: 4. None of the mentioned**
 
 *Explaination: No Logical errors can’t be detected.*
+
+> Q17. In analyzing the compilation of PL/I program, the description "resolving symbolic address (labels) and generating machine language" is associated with
+
+      1. Assembly and output
+      2. Code generation
+      3. Storage assignment
+      4. Syntax analysis
+
+**Answer** : Option 1
+
+> Q18. Compilers can generate ____ type of code 
+
+      1. Pure Machine Code 
+      2. Augmented Machine Code
+      3. Virtual Machine Code
+      4. Object Code
+
+**Answer** : Option 4
+
+> Q19. Parsing generates a ___
+
+      1. Tree 
+      2. Abstract Syntax Trees
+      3. Syntax Trees
+      4. None
+
+**Answer** : Option 4
+
+> Q20. There are total __ phases of compiler
+
+      1. 7
+      2. 8
+      3. 6
+      4. 2
+
+**Answer** : Option 1
