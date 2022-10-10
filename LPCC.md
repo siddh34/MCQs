@@ -1,3 +1,9 @@
+# Very Important 
+
+## Please see the drive
+
+https://drive.google.com/drive/folders/11CcPlX-VAKegRTCOT1SPGGLyPHQuC8oO?usp=sharing
+
 ## Unit 1 Assembler 
 
 > Q1. An interpreter is ................
@@ -83,11 +89,21 @@
 
 **Answer :** Option 2
 
-*Explanation :*
+*Explanation : First pass generate object code*
 
-<img src="./Images/passofassembler.jpg">
+> Q8. What is the result of complier?
 
-> Q8. Which of the following system program foregoes the production of object code to generate absolute machine code and load it into the physical main storage location from which it will be executed immediately upon completion of the assembly?
+      1. Assembly Code
+      2. Machine Code
+      3. Result
+      4. None 
+
+**Answer** : Option 1 
+
+*Explanation : Result of complier is Assembly Code*
+
+
+> Q9. Which of the following system program foregoes the production of object code to generate absolute machine code and load it into the physical main storage location from which it will be executed immediately upon completion of the assembly?
 
       1. Macro processor
       2. load and go assembler
@@ -97,79 +113,6 @@
 **Answer :**  Option 2
 
 *Explanation : Two pass assembler also does the same work but doesn't provide ability to load quickly and run the code*
-
-> Q9. The instructions like MOV and ADD are called as?
-
-      1. Op-code
-      2. Operators
-      3. Command
-      4. None
-
-**Answer :** Option 1
-
-*Explanation : ADD and MOVE belong to Memonic  opcode table*
-
-> Q10. Which of the following is not a system program?
-
-      1. Editor 
-      2. Banking Software
-      3. Operating System
-      4. Assembler
-
-**Answer :** Option 2
-
-*Explanation : Banking software is a external application*
-
-> Q11. Which data structure is not required for assembler?
-
-      1. Symbol table
-      2. Literals table
-      3. All data structures mentioned 
-         are required for assembler
-      4. Pool table
-
-**Answer :**  Option 3
-
-*Explanation : Assembler contains 1. 2. 4. options for it's first phase*
-
-> Q12. What is the address of the ABC 
-
-<img src="./Images/question12.jpg">
-
-      1. 504
-      2. 501
-      3. 503
-      4. 500
-
-**Answer :**  Option 1
-
-*Explanation : ABC EQU XYZ. Address of ABC equals XYZ which is 504*
-
-> Q13. What is the address of literal 19
-
-<img src="./Images/program13.jpg">
-
-      1. 524
-      2. 530
-      3. 528
-      4. 527
-
-**Answer :**  Option 1
-
-*Explanation : The address of literal 19 should be around 525 which is 524 we can count from ORIGIN XYZ+4 which equals 525*
-
-> Q14. Given two statements below related to language processors 1) LP are system software that convert source code to machine readable code 2) Assembler and intepreters are example of LP
-
-      1. Only (i) are correct
-      2. Both (i) and (ii) are correct
-      3. Both (i) and (ii) are incorrect
-      4. Only (ii) is correct
-
-**Answer :** Option 2
-
-*Explanation : Language processor are there to convert code to machine readable code*
-<br>
-*https://www.geeksforgeeks.org/language-processors-assembler-compiler-and-interpreter/*
 
 ## Unit 2 Macroprocessors
 
