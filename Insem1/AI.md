@@ -1,12 +1,12 @@
 # Artifical Intelligence
 
-# Very Important to vist the drive below
+## Very Important to vist the drive below
 
-https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sharing
+<https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sharing>
 
 ## Unit 1
 
->  Q1. Artificial Intelligence has its expansion in the following application.
+Q1. Artificial Intelligence has its expansion in the following application.
 
     1) Planning and Scheduling
     2) Game Playing
@@ -16,8 +16,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 **Answer**  : All of the mentioned (Option 4)
 
 *Explanation: All sectors require intelligence and automation for its working.*
-
-
 
 > Q2. The following are the examples of Artificial Intelligence except
 
@@ -30,8 +28,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 *Explanation: All of the above are the examples of Artificial Intelligence.*
 
-
-
 > Q2. What is an ‘agent’?
 
     1) Perceives its environment through sensors and acting upon that environment through actuators
@@ -42,8 +38,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 **Answer**  : Option 4
 
 *Explanation: An agent is anything that can be viewed as perceiving and acting upon the environment through the sensors and actuators. Mean it takes input from its environment through sensors, performs operation and gives output through actuators.*
-
-
 
 > Q3. What is the difference between Artificial Intelligence and Natural Intelligence?
 
@@ -56,8 +50,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 *Explanation: Artificial Intelligence is a superset of Natural Intelligence. Natural Intelligence is a subset of Artificial Intelligence.*
 
-
-
 > Q4. The field that investigates the mechanics of human intelligence is?
 
     1) History
@@ -69,8 +61,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 *Explanation: Cognitive science is the field that investigates the mechanics of human intelligence.*
 
-
-
 > Q5. Performance Measures are fixed for all agents.
 
     a) True
@@ -79,8 +69,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 **Answer**  : (a) True
 
 *Explanation: Performance Measures are according to how one wants it.*
-
-
 
 > Q6. Agents behavior can be best described by ____________
 
@@ -93,8 +81,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 *Explanation: An agent’s behavior is described by the agent function that maps any given percept sequence to an action, which can be implemented by agent program. The agent function is an abstract mathematical description; the agent program is a concrete implementation, running on the agent architecture.*
 
-
-
 > Q7. Categorize Crossword puzzle in Fully Observable / Partially Observable
 
     1) Fully Observable
@@ -105,8 +91,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 **Answer**  : Option 1
 
 *Explanation: In crossword puzzle an agent knows the complete state of the environment through its sensors.*
-
-
 
 > Q8. Which instruments are used for perceiving and acting upon the environment?
 
@@ -119,8 +103,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 *Explanation: Sensors and Actuators are used for perceiving and acting upon the environment.*
 
-
-
 > Q9. Which of the following is not a part of agent architecture?
 
     1) Sensors
@@ -131,8 +113,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 **Answer**  : Option 4
 
 *Explanation: Environment is not a part of agent architecture.*
-
-
 
 > Q10. Which action sequences are used to achieve the agent’s goal?
 
@@ -145,8 +125,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 *Explanation:  When the environment becomes more tricky means, the agent needs plan and search action sequence to achieve the goal.*
 
-
-
 > Q11. When do we call the states are safely explorable?
 
     a) A goal state is unreachable from any state
@@ -157,8 +135,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 **Answer**  : Option c
 
 *Explanation: A goal state is reachable from every state.*
-
-
 
 > Q12. What is the main task of a problem-solving agent?
 
@@ -171,8 +147,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 *Explanation: The problem-solving agents are one of the goal-based agents.*
 
-
-
 > Q13. What is state space?
 
     a) The whole problem
@@ -184,8 +158,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 *Explanation: State space is a set of all possible states of the problem.*
 
-
-
 > Q14. A solution to a problem is a path from the initial state to a goal state. Solution quality is measured by the path cost function, and an optimal solution has the highest path cost among all solutions.
 
     a) True
@@ -194,8 +166,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 **Answer**  : Option b
 
 *Explanation: A solution to a problem is a path from the initial state to a goal state. Solution quality is measured by the path cost function, and an optimal solution has the lowest path cost among all solutions.*
-
-
 
 > Q15. What is the major component/components for measuring the performance of problem solving?
 
@@ -208,8 +178,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 *Explanation: Completeness, Optimality, Time and Space complexity are the major components for measuring the performance of problem solving.*
 
-
-
 > Q16. Which search method takes less memory?
 
     a) Depth-First Search
@@ -220,8 +188,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 **Answer**  : Option a
 
 *Explanation: Depth-First Search takes less memory since only the nodes on the current path are stored, but in Breadth First Search, all of the tree that has generated must be stored.*
-
-
 
 > Q17. The process of removing detail from a given state representation is called ______
 
@@ -234,8 +200,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 *Explanation: The process of removing detail from a given state representation is called abstraction.*
 
-
-
 > Q18. The Set of actions for a problem in a state space is formulated by a ___________
 
     a) Intermediate states
@@ -246,8 +210,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 **Answer**  : Option c
 
 *Explanation: The most common formulation for actions uses a successor function. Given a particular state x, SUCCESSOR-FN(x) returns a set of (action, successor) ordered pairs, where each action is one of the legal actions in state x and each successor is a state that can be reached from x by applying the action.*
-
-
 
 > Q19. Which is the best way to go for Game playing problem?
 
@@ -260,8 +222,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 *Explanation: We use a Heuristic approach, as it will find out brute force computation, looking at hundreds of thousands of positions. e.g Chess competition between Human and AI based Computer.*
 
-
-
 > Q20. Web Crawler is a/an ____________
 
     a) Intelligent goal-based agent
@@ -272,7 +232,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 **Answer**  : Option a
 
 *Explanation: Web Crawling is type of search for a relevant document from given seed documents. Focused crawlers exists, helps to improvise the search efficiency.*
-
 
 > Q21. What is Artificial intelligence?
 
@@ -294,7 +253,7 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 **Answer** : Option 4
 
-*Explanation : The task environment of an agent is described by four parts performance measures, sensors, actuators and environment, generally known as the PEAS descriptions*
+Explanation : The task environment of an agent is described by four parts performance measures, sensors, actuators and environment, generally known as the PEAS descriptions
 
 > Q23. An omniscient agent knows the actual outcome of its actions and can act accordingly; but omniscience is impossible in reality. Rational Agent always does the right thing; but Rationality is possible in reality.
 
@@ -304,7 +263,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 **Answer** : Option 1
 
 *Explanation : A rational agent chooses whichever action maximizes the expected value of the performance measure given the percept sequence. Rationality: omniscience, learning, and autonomy An omniscient(perfect) agent knows the actual outcome of its actions and can act accordingly; but perfection is impossible in reality.*
-
 
 ## Unit 2
 
@@ -328,7 +286,7 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 **Answer:** Option 4
 
-*Explanation : The four types of informed search method are best-first search, Greedy best-first search, A star search and memory bounded heuristic search*
+Explanation : The four types of informed search method are best-first search, Greedy best-first search, A star search and memory bounded heuristic search
 
 > Q3. Which is used to improve the performance of heuristic search?
 
@@ -372,7 +330,7 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 **Answer:** Option a
 
-*Explanation : As we are not searching the infinite depth in Depth-limited search*
+Explanation : As we are not searching the infinite depth in Depth-limited search
 
 > Q7. Which search implements stack operation for searching the states?
 
@@ -392,7 +350,6 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
     c) 3
     d) 4
 
-
 **Answer**  : Option a
 
 *Explanation: Each partially expanded node remembers which successor to generate next because of these conditions, it uses less memory.*
@@ -406,7 +363,7 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 **Answers:** Option b
 
-*Explanation: Because it always expands the shallowest unexpanded node*
+Explanation: Because it always expands the shallowest unexpanded node
 
 > Q.10  How many parts does a problem consists of?
 
@@ -417,9 +374,9 @@ https://drive.google.com/drive/folders/144CBJPiZTZ79XrRDBN2jTXiyjuj4G4p4?usp=sha
 
 **Answer**  : Option 4
 
-*Explanation : The four parts of the problem are initial state, set of actions, goal test and path cost.* 
+*Explanation : The four parts of the problem are initial state, set of actions, goal test and path cost.*
 
-> Q11. Given below are two statements 
+> Q11. Given below are two statements
 
 Statement I: A genetic algorithm is a stochastic hill-climbing search in which a large
 population of states is maintained.
@@ -434,7 +391,7 @@ execution.
 
 **Answer**  : Option 1
 
-*Explanation : A genetic algorithm is a stochastic hill-climbing algorithm that maintains a wide populationof states. Mutation and crossover, which blends pairs of states from the population, create new states. Hence Statement I is correct. Agents may use AND-OR search in non-deterministic environments to produce contingent plans that achieve the target regardless of which outcomes occur during execution. Hence Statement II is correct*
+Explanation : A genetic algorithm is a stochastic hill-climbing algorithm that maintains a wide populationof states. Mutation and crossover, which blends pairs of states from the population, create new states. Hence Statement I is correct. Agents may use AND-OR search in non-deterministic environments to produce contingent plans that achieve the target regardless of which outcomes occur during execution. Hence Statement II is correct
 
 > Q12. A loop that constantly moves in the direction of growing value that is uphill, ……. is an algorithm.
 
@@ -473,7 +430,7 @@ execution.
 
 **Answer** : Option 1
 
-*Explanation : Forward Searching is technique in which a forward check till k steps is made to analyze that the goal can be achieved satiating all constraints. With constraint propagation, constraints on a variable can be propagated to next level/hierarchy and satisfied at that level, eliminating need to backtrack*
+Explanation : Forward Searching is technique in which a forward check till k steps is made to analyze that the goal can be achieved satiating all constraints. With constraint propagation, constraints on a variable can be propagated to next level/hierarchy and satisfied at that level, eliminating need to backtrack
 
 > Q15. Constraint satisfaction problems on finite domains are typically solved using a form of
 
@@ -484,7 +441,7 @@ execution.
 
 **Answer**  : Option 4
 
-*Explanation : Any Search techniques can be used*
+Explanation : Any Search techniques can be used
 
 > Q16.  When do we call the states are safely explored?
 
@@ -504,7 +461,7 @@ execution.
 
 **Answer:** Option b
 
-*Explanation : Provides backtrack facility*
+Explanation : Provides backtrack facility
 
 > Q18. With alpha-beta pruning the time complexity of minimax algorithm can be
 
@@ -515,7 +472,7 @@ execution.
 
 **Answer:** Option 1
 
-*Explanation: Pruning does not affect final result it makes minimax efficient*
+Explanation: Pruning does not affect final result it makes minimax efficient
 
 > Q19. Solving a constraint satisfaction problem on a finite domain is an/a. to the domain size.
 
@@ -535,7 +492,7 @@ execution.
 
 **Answer :** Option 1
 
-*Explanation : Search problems mostly have a clear goal state*
+Explanation : Search problems mostly have a clear goal state
 
 > Q21. typically because the set of constraints to consider evolves because of the environment.
 
@@ -546,7 +503,7 @@ execution.
 
 **Answer:** b
 
-*Explanation : Dynamic CSPs (DCSP s) are useful when the original formulation of a problem is altered in some way, typically because the set of constraints to consider evolves because of the environment*
+Explanation : Dynamic CSPs (DCSP s) are useful when the original formulation of a problem is altered in some way, typically because the set of constraints to consider evolves because of the environment
 
 ## Unit 3
 
@@ -557,10 +514,9 @@ execution.
     c) All of the mentioned
     d) None of the mentioned
 
-
 **Answer**  : Option a
 
-*Explanation: ∀ a philosopher(a) scholar(a)*
+Explanation: ∀ a philosopher(a) scholar(a)
 
 > Q2. Which is created by using single propositional symbol?
 
@@ -571,7 +527,7 @@ execution.
 
 **Answer**  : Option b
 
-*Explanation: Atomic sentences are indivisible syntactic elements consisting of single propositional symbol.*
+Explanation: Atomic sentences are indivisible syntactic elements consisting of single propositional symbol.
 
 > Q3. Which algorithm are in more similar to backward chaining algorithm?
 
@@ -582,7 +538,7 @@ execution.
 
 **Answer**  : Option a
 
-*Explanation: It is depth-first search algorithm because its space requirements are linear in the size of the proof*
+Explanation: It is depth-first search algorithm because its space requirements are linear in the size of the proof
 
 > Q4. Which problem can frequently occur in backward chaining algorithm?
 
@@ -617,9 +573,9 @@ For all x King(x) ^ Greedy(x) => Evil(x)
 
 **Answer**  : Option d
 
-*Explanation: King(John) ^ Greedy(John) => Evil(John) King(y) ^ Greedy(y) => Evil(y) King(Richard) ^ Greedy(Richard) => Evil(Richard)*
+Explanation: King(John) ^ Greedy(John) => Evil(John) King(y) ^ Greedy(y) => Evil(y) King(Richard) ^ Greedy(Richard) => Evil(Richard)
 
-> Q7. Which among the following could the Existential instantiation of 
+> Q7. Which among the following could the Existential instantiation of
 
 ∃x Crown(x) ^ OnHead(x, Johnny)?
 
@@ -629,7 +585,6 @@ For all x King(x) ^ Greedy(x) => Evil(x)
     d) None of the mentioned
 
 **Answer**  : Option a
-
 
 > Q8. Translate the following statement into FOL.
 
@@ -641,7 +596,6 @@ For all x King(x) ^ Greedy(x) => Evil(x)
     d) A is false, B is false
 
 **Answer**  : Option a
-
 
 > Q9. In a backward chaining system, you start with some hypothesis (or goal) you are trying to prove, and keep looking for rules that would allow you to conclude that hypothesis, perhaps setting new sub-goals to prove as you go.
 
@@ -667,7 +621,6 @@ ii. The extended logical inferences, such as default reasoning are facilitated.
 
 iii. There is guaranteed correctness.
 
-
     a) i and ii only
     b) ii and iii only
     c) i and iii only
@@ -681,7 +634,6 @@ iii. There is guaranteed correctness.
     b) It can derive any sentence that is an entailed version
     c) It is truth preserving
     d) It can derive any sentence that is an entailed version & It is truth preserving
-
 
 **Answer**  : Option d
 
@@ -701,17 +653,16 @@ iii. There is guaranteed correctness.
 
 **Answer**  : Option b
 
-*Explanation: Knowledge and reasoning could aid to reveal other factors that could complete environment*
+Explanation: Knowledge and reasoning could aid to reveal other factors that could complete environment
 
 > Q15. There are primarily two modes for an inference engine: forward chaining and backward chaining.
- 
+
     a) True
     b) False
 
 **Answer**  : Option a
 
 > Q16. Translate the given statement into FOL.
-
 >“For each a, if a is a student of masters, then a has a bachelors degree”
 
     a) ∀ a Masters(a) -> Bachelors(a)
@@ -754,9 +705,3 @@ iii. There is guaranteed correctness.
     (d). It can derive any sentence that is an entailed version & It is truth preserving
 
 **Answer**  : Option d
-
-
-
-
-
-
