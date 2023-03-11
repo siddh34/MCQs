@@ -1,6 +1,6 @@
 # SDA MCQ's
 
-## Unit-1 MCQ's
+## UNIT 1 MCQ's
 
 >Q1.Which of these truly defines Software design?
 
