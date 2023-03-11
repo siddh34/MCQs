@@ -9,7 +9,7 @@
     c.	Software Design satisfies client needs and desires
     d.	All of the mentioned
 
-**Answer : Option d**
+The **Answer : Option d**
 
 >Q2. What is incorrect about structural design?
 
@@ -18,7 +18,7 @@
     c.	The advantage is data flow representation
     d.	It follows Structure chart
 
-**Answer : Option c**
+The **Answer : Option c**
 
 >Q3. What is the solution for Structural design?
 
@@ -26,8 +26,8 @@
     b.  Procedures represented as bubbles
     c.  Specification model is structure chart showing procedure calling hierarchy and flow of data in and out of procedures
     d.  Emphasizing procedural decomposition
-    
-**Answer : Option c**
+
+The **Answer : Option c**
 
 >Q4. Which of the following is an incorrect method for structural design?
 
@@ -35,8 +35,8 @@
     b.  Handling of larger and more complex products
     c.  Designing Object oriented systems
     d.  More procedural approach
-    
-**Answer : Option b**
+
+The **Answer : Option b**
 
 >Q5. What is followed by the design task?
 
@@ -44,8 +44,8 @@
     b.  Checking model’s completeness
     c.  Following design task heuristics
     d.  All of the mentioned
-    
-**Answer : Option d**
+
+The **Answer : Option d**
 
 >Q6. Which of these does not represent object oriented design?
 
@@ -53,8 +53,8 @@
     b.  Programs are thought of collection of objects
     c.  Central model represents class diagrams that show the classes comprising a program and their relationships to one another
     d.  Object-oriented methods incorporates Structural methods
-    
-**Answer : Option a**
+
+The **Answer : Option a**
 
 >Q7. Software Design consists of _____________
 
@@ -62,8 +62,8 @@
     b.  Software Engineering Design
     c.  Software Product & Engineering Design
     d.  None of the mentioned
-    
-**Answer : Option c**
+
+The **Answer : Option c**
 
 >Q8. Which of the following is true?
 
@@ -71,8 +71,8 @@
     b.  Design – Understanding problem
     c.  Analysis & Design
     d.  None of the mentioned
-    
-**Answer : Option d**
+
+The **Answer : Option d**
 
 >Q9. Which of these are followed in case of software design process?
 
@@ -80,8 +80,8 @@
     b.  Analysis occurs at the end of engineering design with the SRS
     c.  Product design resolution produces the design document
     d.  Engineering design resolution produces the SRS
-    
-**Answer : Option a**
+
+The **Answer : Option a**
 
 >Q10. The method of design encompassing the process of object oriented decomposition and a notation for depicting both logical and physical and as well as static and dynamic models of the system under design is known as:
 
@@ -89,8 +89,8 @@
     b.  Object- Oriented Design
     c.  Object- Oriented Analysis
     d.  None of the mentioned
-    
-**Answer : Option b**
+
+The **Answer : Option b**
 
 >Q11. What is the programming style of the object oriented conceptual model?
 
@@ -98,15 +98,15 @@
     b.  Algorithms
     c.  Classes and objects
     d.  Goals, often expressed in a predicate calculus.
-    
-**Answer : Option c**
+
+The **Answer : Option c**
 
 >Q12. Object-oriented systems are loosely coupled. (True/False)
 
     a.  True
     b.  False
-    
-**Answer : Option a**
+
+The **Answer : Option a**
 
 >Q13. The basic UML building blocks are?
 
@@ -114,8 +114,8 @@
     b.  Relationships
     c.  Diagrams
     d.  All of the above.
-    
-**Answer : Option d**
+
+The **Answer : Option d**
 
 >Q14. The process of compartmentalizing the elements of an abstraction that constitute its structure and behavior is called as
 
@@ -123,8 +123,8 @@
     b.  Encapsulation
     c.  Modularity
     d.  Entity Abstraction
-    
-**Answer : Option b**
+
+The **Answer : Option b**
 
 >Q15. Single inheritance, Multiple inheritance, and Aggregation comes under _______
 
@@ -132,5 +132,5 @@
     b.  Typing
     c.  Hierarchy
     d.  None of the mentioned
-    
-**Answer : Option c**
+
+The **Answer : Option c**
