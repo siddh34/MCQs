@@ -125,3 +125,12 @@
     d.  Entity Abstraction
     
 **Answer : Option b**
+
+>Q15. Single inheritance, Multiple inheritance, and Aggregation comes under _______
+
+    a.  Modularity
+    b.  Typing
+    c.  Hierarchy
+    d.  None of the mentioned
+    
+**Answer : Option c**
