@@ -1,3 +1,5 @@
+#SDA MCQ's
+
 >Q1.Which of these truly defines Software design?
 
     a.	Software design is an activity subjected to constraints
