@@ -9,7 +9,7 @@
     c.	Software Design satisfies client needs and desires
     d.	All of the mentioned
 
-**Answer : d**
+**Answer : Option d**
 
 >Q2.What is incorrect about structural design?
 
@@ -18,4 +18,4 @@
     c.	The advantage is data flow representation
     d.	It follows Structure chart
 
-**Answer : c**
+**Answer : Option c**
