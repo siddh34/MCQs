@@ -91,3 +91,12 @@
     d.  None of the mentioned
     
 **Answer : Option b**
+
+>Q11. What is the programming style of the object oriented conceptual model?
+
+    a.  Invariant relationships
+    b.  Algorithms
+    c.  Classes and objects
+    d.  Goals, often expressed in a predicate calculus.
+    
+**Answer : Option c**
