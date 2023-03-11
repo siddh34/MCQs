@@ -19,3 +19,12 @@
     d.	It follows Structure chart
 
 **Answer : Option c**
+
+>Q3.What is the solution for Structural design?
+
+    a.  The specification model following data flow diagram
+    b.  Procedures represented as bubbles
+    c.  Specification model is structure chart showing procedure calling hierarchy and flow of data in and out of procedures
+    d.  Emphasizing procedural decomposition
+    
+**Answer : Option c**
