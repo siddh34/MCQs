@@ -1,6 +1,222 @@
 # CC MCQs
 
-## UNIT 1
+## UNIT 1 Fundamentals
+
+Q1. The Media Access Control Sublayer resides in which OSI layer ?
+
+    A Transport
+    B Network
+    C Physical
+    D Data Link
+
+Answer: Option D
+
+Q2. Flow control is the mechanism to regulate the flow of information, so that a fast host cannot overrun a slow one. This is the function of the following OSI layer
+
+    A All Layers
+    B Physical Layer
+    C Transport Layer
+    D Application layer
+
+Answer: Option A
+
+Q3. Which layer helps to understand data representation in one form on a host to other host in their native representation?
+
+    A. Application Layer
+    B. Presentation Layer
+    C. Session Layer
+    D. Transport Layer
+
+Answer: Option B
+
+Q4. HTTP is an example of?
+
+A. Session Layer
+B. Presentation Layer
+C. Data Link Layer
+D. Application Layer
+
+Answer: Option D
+
+Q5. The network layer is responsible for carrying data from one host to another.
+
+    A. TRUE
+    B. FALSE
+
+Answer: Option A
+
+Q6. What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.255.255.224 subnet mask?
+
+    A. 14
+    B. 15
+    C. 16
+    D. 30
+
+Answer: Option D
+
+Q7. You need to subnet a network that has 5 subnets, each with at least 16 hosts. Which classful subnet mask would you use?
+
+    A. 255.255.255.192
+    B. 255.255.255.224
+    C. 255.255.255.240
+    D. 255.255.255.248
+
+Answer: Option B
+
+Q8. Which of the following field in IPv4 datagram is not related to fragmentation?
+
+    A. Flags
+    B. adders
+    C. offset
+    D. TOS
+
+Answer: Option D
+
+Q9. A proxy firewall filters at the
+
+    A. physical layer
+    B. application layer
+    C. data link layer
+    D. network layer
+
+Answer: Option B
+
+Q10. A proxy firewall filters at the
+
+    A. physical layer
+    B. application layer
+    C. data link layer
+    D. network layer or transport layer
+
+Answer: Option D
+
+Q11. Firewalls can be of _______ kinds.
+
+    A. 1
+    B. 2
+    C. 3
+    D. 4
+
+Answer: Option C
+
+Q12. Firewall examines each ____________ that are entering or leaving the internal network.
+
+    A. emails users
+    B. updates
+    C. connections
+    D. data packets
+
+Answer: Option D
+
+Q13. Packet filtering firewalls are deployed on ________
+
+    A. routers
+    B. switches
+    C. hubs
+    D. repeaters
+
+Answer: A
+
+Q14. The shell script is___
+
+    A. File containing a series of commands
+    B. File containing special symbols
+    C. group of commands
+    D. group of functions
+    E. None of these
+
+Answer: Option A
+
+Q15. In the separate child shell process, the shell script executes.
+
+    A. True
+    B. False
+
+Answer: Option A
+
+Q16. We have to make it executable first by using ___, to run a script
+
+    A. chmod +w
+    B. chmod +r
+    C. chmod +x
+    D. chmod +rwx
+    E. None of these
+
+Answer: Option C
+
+Q17. A filename is not accepted as an argument by which command?
+
+    A. mailx
+    B. ls
+    C. paste
+    D. cut
+    E. None of these
+
+Answer: Option A
+
+Q18. do and the done keyword is used by which loop statements?
+
+    A. for
+    B. while
+    C. for and while
+    D. case
+
+Answer: Option C
+
+Q19. Which of the following is not a type of shell?
+
+    A. The C Shell
+    B. The Korn Shell
+    C. The Bourne Shell
+    D. The Perl Shell
+
+Answer: Option D
+
+Q20. In UNIX there are ___ major types of shells.
+
+    A. 2
+    B. 3
+    C. 4
+    D. 5
+
+Answer: Option A
+
+Q21. Which shell is the most common and best to use?
+
+    A. Korn shell
+    B. C shell
+    C. Bourne shell
+    D. Bash Shell
+
+Answer: Option D
+
+Q22. Read the Image & choose
+
+![Img 1](./Images/CC%20MCQ22.png)
+
+Q23. Read the Image & choose
+
+![Img 2](./Images/CC%20MCQ23.png)
+
+Q24. Read the Image & choose
+
+![Img 3](./Images/CC%20MCQ%2024.png)
+
+Q25. Read the Image & choose
+
+![Img 4](./Images/CC%20MCQ%2025.png)
+
+Q26. Read the Image & choose
+
+![Img 5](./Images/CC%20MCQ%2026.png)
+
+Q27. Read the Image & choose
+
+![Img 6](./Images/CC%20MCQ%2027.png)
+
+Q28. Read the Image & choose
+
+![Img 6](./Images/CC%20MCQ%2028.png)
 
 ## UNIT 2 AWS
 
