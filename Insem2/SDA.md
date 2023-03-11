@@ -74,7 +74,7 @@
     
 **Answer : Option d**
 
->Q8. Which of these are followed in case of software design process?
+>Q9. Which of these are followed in case of software design process?
 
     a.  Analysis occurs at start of product design with a product idea
     b.  Analysis occurs at the end of engineering design with the SRS
