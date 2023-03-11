@@ -2,7 +2,7 @@
 
 ## UNIT 1 MCQ's
 
->Q1.Which of these truly defines Software design?
+>Q1. Which of these truly defines Software design?
 
     a.	Software design is an activity subjected to constraints
     b.	Software Design specifies nature and composition of software product
@@ -11,7 +11,7 @@
 
 **Answer : Option d**
 
->Q2.What is incorrect about structural design?
+>Q2. What is incorrect about structural design?
 
     a.	Structural design introduced notations and heuristics
     b.	Structural design emphasis on procedural decomposition
@@ -20,7 +20,7 @@
 
 **Answer : Option c**
 
->Q3.What is the solution for Structural design?
+>Q3. What is the solution for Structural design?
 
     a.  The specification model following data flow diagram
     b.  Procedures represented as bubbles
@@ -29,7 +29,7 @@
     
 **Answer : Option c**
 
->Q4.Which of the following is an incorrect method for structural design?
+>Q4. Which of the following is an incorrect method for structural design?
 
     a.  Transition of problem models to solution models
     b.  Handling of larger and more complex products
