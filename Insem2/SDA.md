@@ -1,4 +1,6 @@
-#SDA MCQ's
+# SDA MCQ's
+
+
 
 >Q1.Which of these truly defines Software design?
 
