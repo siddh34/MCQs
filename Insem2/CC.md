@@ -199,9 +199,212 @@ Answer: Option 1
 
 Q23. Based on application's network requests, AWS Web Application Firewall can block network traffic.
 
-True  
-False
+1. True  
+2. False
 
 Answer: Option 1
 
-## UNIT 3
+Q24. With AWS EC2 you only pay for the compute time that you use.
+
+1. True
+2. False
+
+Answer: Option 1
+
+Q25. Which service helps you reduce development time and complexity of Machine Learning (ML)?
+
+1. AWS SageMaker  
+2. AWS Redshift
+3. AWS Elastic Beanstalk
+4. AWS Lex
+
+Answer: Option 1
+
+## UNIT 3 Terraform
+
+Q1. What is the file format of Terraform code files?
+
+    A. JSON
+    B. XML
+    C. YAML
+    D. HTML
+
+Answer: Option C
+
+Q2. Two things you need to connect to your AWS infrastructure using Terraform code (in terms of credentials)
+
+    A. Access key ID, Secret access key and root username
+    B. Access key ID and Secret access key
+    C. Access key ID only
+    D. Secret access key only
+
+Answer: Option D
+
+Q3. Resource names in Terraform are provider specific.
+
+    A.True
+    B.False
+
+Answer: Option B
+
+Q4. Which of the following files are processed by terraform?
+
+    A. .tf and .tf.json
+    B. .tf only
+    C. .tm only
+    D. all text files
+
+Answer: Option A
+
+Q5. Terraform is a ___________ language.
+
+    A. Objective
+    B. Declarative
+    C. Descriptive
+    D. Functional
+
+Answer: Option D
+
+Q6. Terraform works based on master-less and agent-less architectural design.
+
+    A. True
+    B. False
+
+Answer: Option A
+
+Q7. Command to delete all the cloud resources built by previous terraform apply commands.
+
+        A. terraform undo
+        B. terraform remove
+        C. terraform destroy
+        D. terraform delete
+
+Answer: Option B
+
+Q8. Terraform is a
+
+    A. IAC
+    B. PaaS
+    C. IaaS
+    D. SaaS
+
+Answer: Option A
+
+Q9. Third-party plugins should be manually installed. Is that true?
+
+A. True
+B. False
+
+Answer: Option A
+
+Q10. Which language does terraform support from the below list?
+
+    A. XML
+    B. Javascript
+    C. Hashicorp Language & JSON
+    D. Plaintext
+
+Answer: Option C
+
+Q11. Do terraform workspaces help in adding/allowing multiple state files for a single configuration?
+
+    A. True
+    B. False
+
+Answer: Option A
+
+Q12. Does terraform standard backend type support remote management system?
+
+    A. True
+    B. False
+
+Answer: Option B
+
+Q13. Which command is used to launch terraform console?
+
+    A. terraform apply -config
+    B. terraform console
+    C. terrafrom plan
+    D. terrafrom consul
+
+Answer : Option B
+
+Q14. You have been asked to stop using static values and make code more dynamic. How can you achieve it? Select the correct option from below.
+
+    A. Local values
+    B. Input variables
+    C. Depends_on
+    D. Functions
+
+Answer: Option B
+
+Q15. Which of the following flags can be used with terraform apply command?
+
+    A. Auto-approve
+    B. Init
+    C. Get
+    D. Console
+
+Answer: Option A
+
+Q16. What are the two supported backend types in Terraform?
+
+    A. Remote-backend
+    B. Enhanced
+    C. Local- backend
+    D. Standard
+
+Answer: Options B, D
+
+Q17. Community providers are downloaded automatically using terraform init command. True or False?
+
+    A. True
+    B. False
+
+Answer: Option A
+
+Q18. A user wants to list all resources which are deployed using Terraform. How can this be done?
+
+    A. terraform state show
+    B. terraform state list
+    C. terraform show
+    D. terraform show list
+
+Answer: Option B
+
+Q19. Which of the following commands can be used to logout from terraform cloud?
+
+    A. Terraform logout
+    B. Terraform –logout
+    C. Terraform log out
+    D. Terraform –log-out
+
+Answer: Option A
+
+Q20. ou have the following provider configuration for AWS:
+
+    provider “aws” {
+    region = “eu-west-1”
+    }
+    provider “aws” {
+    alias  = “frankfurt”
+    region = “eu-central-1”
+    }
+
+How do you specify an instance creation on eu-central-1 ?
+
+    A. resource “aws_instance” “whizlabs” {   provider = aws.central   … }
+    B. resource “aws_instance” “whizlabs” {   provider = aws.frankfurt   … }
+    C. resource “aws_instance” “whizlabs” {   … }
+    D. resource “aws_instance” “whizlabs” {   provider = aws.west … }
+
+Answer: Option B
+
+Q21. What of the following is not a source type for a module?
+
+    A. SSH
+    B. Github
+    C. Bitbucket
+    D. S3
+
+Answer: Option A
