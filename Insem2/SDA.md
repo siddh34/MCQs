@@ -46,3 +46,12 @@
     d.  All of the mentioned
     
 **Answer : Option d**
+
+>Q6. Which of these does not represent object oriented design?
+
+    a.  It follows regular procedural decomposition in favor of class and object decomposition
+    b.  Programs are thought of collection of objects
+    c.  Central model represents class diagrams that show the classes comprising a program and their relationships to one another
+    d.  Object-oriented methods incorporates Structural methods
+    
+**Answer : Option a**
