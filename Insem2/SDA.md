@@ -37,3 +37,12 @@
     d.  More procedural approach
     
 **Answer : Option b**
+
+>Q5. What is followed by the design task?
+
+    a.  Choosing specific classes, operations
+    b.  Checking model’s completeness
+    c.  Following design task heuristics
+    d.  All of the mentioned
+    
+**Answer : Option d**
