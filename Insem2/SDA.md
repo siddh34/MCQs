@@ -117,7 +117,7 @@
     
 **Answer : Option d**
 
->Q13. The process of compartmentalizing the elements of an abstraction that constitute its structure and behavior is called as
+>Q14. The process of compartmentalizing the elements of an abstraction that constitute its structure and behavior is called as
 
     a.  Hierarchy
     b.  Encapsulation
