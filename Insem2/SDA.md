@@ -100,3 +100,10 @@
     d.  Goals, often expressed in a predicate calculus.
     
 **Answer : Option c**
+
+>Q12. Object-oriented systems are loosely coupled. (True/False)
+
+    a.  True
+    b.  False
+    
+**Answer : Option a**
