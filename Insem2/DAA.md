@@ -1,6 +1,6 @@
-### DAA MCQs 
+### DAA MCQ's 
 
-## Unit 1  Intro To Design and Analysis of Algorithms
+## Unit 1  
 
 > Q1. An ___ is defined as a set of well-defined instructions used to accomplish a particular task.
 
