@@ -4,10 +4,10 @@
 
 > Q1. ______is the first step in solving the problem ?
 
-    1. Understanding the Problem
-    2. Identify the Problem
-    3. Evaluate the Solution
-    4. Coding the Problem
+    A. Understanding the Problem
+    B. Identify the Problem
+    C. Evaluate the Solution
+    D. Coding the Problem
 
 **Answer**  : Option B
 
@@ -15,9 +15,82 @@
 
 > Q2. The  correctness  and  appropriateness  of  ___________solution  can  be  checked  very easily.
 
-    1. algorithmic solution 
-    2. heuristic solution
-    3. random solution
-    4. Brute force Solution
+    A. Algorithmic solution 
+    B. heuristic solution
+    C. random solution
+    D. Brute force Solution
+
+**Answer  :** Option A
+
+
+> Q3. Two main measures for the efficiency of an algorithm are 
+
+    A. Processor and memory 
+    B. Complexity and capacity
+    C. Time and space
+    D. Data and space
+
+**Answer  :** Option C
+
+> Q4. Time  complexities  of  three  algorithms  are  given.  Which  should  execute  the slowest for large values of N
+
+    A. (n log n) 
+    B. O(n)
+    C. O(log n)
+    D. O(n2)
+
+**Answer  :** Option B
+
+> Q5. Partition and exchange sort is____________  
+
+    A. Quick sort
+    B. Tree sort
+    C. Heap sort
+    D. Bubble
+
+**Answer  :** Option A
+
+> Q6. Which of the following sorting algorithm is of divide and conquer type
+
+    A. Quick sort
+    B. Insertion sort
+    C. Merge sort
+    D. Bubble
+
+**Answer  :** Option C
+
+> Q7. The time complexity of a quick sort algorithm which makes use of median, found by an O(n) algorithm, as pivot element is 
+
+    A. O(n2)
+    B. O(nlogn) 
+    C. O(nloglogn) 
+    D. O(n)
+
+**Answer  :** Option B
+
+> Q8. Which of the following algorithm design technique is used in the quick sort algorithm
+
+    A. Dynamic programming
+    B. Backtracking 
+    C. Divide-and-conquer
+    D. Greedy method
+
+**Answer  :** Option C
+
+> Q9. Which of the following is not a stable sorting algorithm
+
+    A. Quick sort
+    B. Insertion sort
+    C. Merge sort
+    D. Bubble
+
+**Answer  :** Option A
+
+> Q10. Master’s theorem is used for
+
+    A. Solving recurrences
+    B. Solving iterative relations
+    C. Analyzing loops
+    D. Calculating the time complexity of any code 
 
 **Answer  :** Option A
