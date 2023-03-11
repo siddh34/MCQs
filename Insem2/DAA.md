@@ -3,18 +3,22 @@
 ## Unit 1  Intro To Design and Analysis of Algorithms
 
 > Q1. An ___ is defined as a set of well-defined instructions used to accomplish a particular task.
+
     A. Algorithm
     B. Function
     C. Program
     D. Procedure
+    
 **Answer  :** Option A
 
 
-> Q2. The measure of the longest amount of time possibly taken to complete an algorithm is expressed as __.
+> Q2. The measure of the longest amount of time possibly taken to complete an algorithm is expressed as  ___
+
     A. Little-O
     B. Little-Omega
     C. Big-Omega
     D. Big-O
+    
 **Answer  :** Option D
 
 
@@ -27,19 +31,23 @@
 
 
 > Q4. ___ of an algorithm is the amount of time required for it to execute.
+
     A. Time complexity
     B. Space complexity
     C. Compiling time
     D. Best case
+    
 **Answer  :** Option A
 
 
-> Q5. Potential function method is the technique that performs an amortized analysis based on ___.
+> Q5. Potential function method is the technique that performs an amortized analysis based on ___
+
     A. Financial model
     B. Computational model
     C. Algorithm analysis
     D. Energy model
-**Answer  :** Option D
+    
+**Answer  : Option D
 
 
 > Q6. ______is the first step in solving the problem ?
@@ -53,7 +61,7 @@
 
 
 
-> Q7. The  correctness  and  appropriateness  of  ___________solution  can  be  checked  very easily.
+> Q7. The  correctness  and  appropriateness  of  ___________ solution  can  be  checked  very easily.
 
     A. Algorithmic solution 
     B. heuristic solution
