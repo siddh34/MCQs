@@ -82,3 +82,12 @@
     d.  Engineering design resolution produces the SRS
     
 **Answer : Option a**
+
+>Q10. The method of design encompassing the process of object oriented decomposition and a notation for depicting both logical and physical and as well as static and dynamic models of the system under design is known as:
+
+    a.  Object- Oriented Programming
+    b.  Object- Oriented Design
+    c.  Object- Oriented Analysis
+    d.  None of the mentioned
+    
+**Answer : Option b**
