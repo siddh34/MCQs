@@ -64,3 +64,12 @@
     d.  None of the mentioned
     
 **Answer : Option c**
+
+>Q8. Which of the following is true?
+
+    a.  Analysis – Solving problem
+    b.  Design – Understanding problem
+    c.  Analysis & Design
+    d.  None of the mentioned
+    
+**Answer : Option d**
