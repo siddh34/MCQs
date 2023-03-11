@@ -23,10 +23,12 @@
 
 
 > Q3. A ___ is a compact, informal, and environment-independent description of a computer programming algorithm.
+
     A. Stack
     B. Queue
     C. Psuedocode
     D. Non-linear data structure
+    
 **Answer  :** Option C
 
 
