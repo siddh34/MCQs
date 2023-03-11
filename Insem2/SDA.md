@@ -55,3 +55,12 @@
     d.  Object-oriented methods incorporates Structural methods
     
 **Answer : Option a**
+
+>Q7. Software Design consists of _____________
+
+    a.  Software Product Design
+    b.  Software Engineering Design
+    c.  Software Product & Engineering Design
+    d.  None of the mentioned
+    
+**Answer : Option c**
