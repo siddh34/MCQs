@@ -107,3 +107,12 @@
     b.  False
     
 **Answer : Option a**
+
+>Q13. The basic UML building blocks are?
+
+    a.  Things
+    b.  Relationships
+    c.  Diagrams
+    d.  All of the above.
+    
+**Answer : Option d**
