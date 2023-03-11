@@ -28,3 +28,12 @@
     d.  Emphasizing procedural decomposition
     
 **Answer : Option c**
+
+>Q4.Which of the following is an incorrect method for structural design?
+
+    a.  Transition of problem models to solution models
+    b.  Handling of larger and more complex products
+    c.  Designing Object oriented systems
+    d.  More procedural approach
+    
+**Answer : Option b**
