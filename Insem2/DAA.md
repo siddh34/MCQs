@@ -49,7 +49,7 @@
     C. Algorithm analysis
     D. Energy model
     
-**Answer  : Option D
+**Answer  :** Option D
 
 
 > Q6. ______is the first step in solving the problem ?
