@@ -2,7 +2,47 @@
 
 ## Unit 1  Intro To Design and Analysis of Algorithms
 
-> Q1. ______is the first step in solving the problem ?
+> Q1. An ___ is defined as a set of well-defined instructions used to accomplish a particular task.
+    A. Algorithm
+    B. Function
+    C. Program
+    D. Procedure
+**Answer  :** Option A
+
+
+> Q2. The measure of the longest amount of time possibly taken to complete an algorithm is expressed as __.
+    A. Little-O
+    B. Little-Omega
+    C. Big-Omega
+    D. Big-O
+**Answer  :** Option D
+
+
+> Q3. A ___ is a compact, informal, and environment-independent description of a computer programming algorithm.
+    A. Stack
+    B. Queue
+    C. Psuedocode
+    D. Non-linear data structure
+**Answer  :** Option C
+
+
+> Q4. ___ of an algorithm is the amount of time required for it to execute.
+    A. Time complexity
+    B. Space complexity
+    C. Compiling time
+    D. Best case
+**Answer  :** Option A
+
+
+> Q5. Potential function method is the technique that performs an amortized analysis based on ___.
+    A. Financial model
+    B. Computational model
+    C. Algorithm analysis
+    D. Energy model
+**Answer  :** Option D
+
+
+> Q6. ______is the first step in solving the problem ?
 
     A. Understanding the Problem
     B. Identify the Problem
@@ -13,7 +53,7 @@
 
 
 
-> Q2. The  correctness  and  appropriateness  of  ___________solution  can  be  checked  very easily.
+> Q7. The  correctness  and  appropriateness  of  ___________solution  can  be  checked  very easily.
 
     A. Algorithmic solution 
     B. heuristic solution
@@ -23,7 +63,7 @@
 **Answer  :** Option A
 
 
-> Q3. Two main measures for the efficiency of an algorithm are 
+> Q8. Two main measures for the efficiency of an algorithm are 
 
     A. Processor and memory 
     B. Complexity and capacity
@@ -32,7 +72,7 @@
 
 **Answer  :** Option C
 
-> Q4. Time  complexities  of  three  algorithms  are  given.  Which  should  execute  the slowest for large values of N
+> Q9. Time  complexities  of  three  algorithms  are  given.  Which  should  execute  the slowest for large values of N
 
     A. (n log n) 
     B. O(n)
@@ -41,7 +81,7 @@
 
 **Answer  :** Option B
 
-> Q5. Partition and exchange sort is____________  
+> Q10. Partition and exchange sort is____________  
 
     A. Quick sort
     B. Tree sort
@@ -50,7 +90,7 @@
 
 **Answer  :** Option A
 
-> Q6. Which of the following sorting algorithm is of divide and conquer type
+> Q11. Which of the following sorting algorithm is of divide and conquer type
 
     A. Quick sort
     B. Insertion sort
@@ -59,7 +99,7 @@
 
 **Answer  :** Option C
 
-> Q7. The time complexity of a quick sort algorithm which makes use of median, found by an O(n) algorithm, as pivot element is 
+> Q12. The time complexity of a quick sort algorithm which makes use of median, found by an O(n) algorithm, as pivot element is 
 
     A. O(n2)
     B. O(nlogn) 
@@ -68,7 +108,7 @@
 
 **Answer  :** Option B
 
-> Q8. Which of the following algorithm design technique is used in the quick sort algorithm
+> Q13. Which of the following algorithm design technique is used in the quick sort algorithm
 
     A. Dynamic programming
     B. Backtracking 
@@ -77,7 +117,7 @@
 
 **Answer  :** Option C
 
-> Q9. Which of the following is not a stable sorting algorithm
+> Q14. Which of the following is not a stable sorting algorithm
 
     A. Quick sort
     B. Insertion sort
@@ -86,7 +126,7 @@
 
 **Answer  :** Option A
 
-> Q10. Master’s theorem is used for
+> Q15. Master’s theorem is used for
 
     A. Solving recurrences
     B. Solving iterative relations
@@ -94,3 +134,4 @@
     D. Calculating the time complexity of any code 
 
 **Answer  :** Option A
+
