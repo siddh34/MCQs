@@ -134,3 +134,14 @@ The **Answer : Option b**
     d.  None of the mentioned
 
 The **Answer : Option c**
+
+>Q16. What does a simple name in UML Class and objects consist of?
+
+    a.  Letters
+    b.  Digits
+    c.  Punctuation Characters
+    d.  All of the mentioned
+
+The **Answer : Option d**
+
+
