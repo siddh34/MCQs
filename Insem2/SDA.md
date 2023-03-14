@@ -260,3 +260,12 @@ The **Answer : Option b**
     d.  Both a and b
     
 The **Answer : Option d**
+
+>Q30. The __________ model helps in representing the system's dynamic behavior.
+
+    a.  Object Model
+    b.  Context Model
+    c.  Behavioral Model
+    d.  Data Model
+    
+The **Answer : Option c**
