@@ -144,8 +144,6 @@ The **Answer : Option c**
 
 The **Answer : Option d**
 
-
-
 >Q17. What Does a Composite name consists of in a UML Class and object diagram?
 
     a.  Delimiter
@@ -154,3 +152,14 @@ The **Answer : Option d**
     d.  All of the mentioned
 
 The **Answer : Option d**
+
+>Q18. A Class consists of which of these abstractions?
+
+    a.  Set of the objects
+    b.  Operations
+    c.  Attributes
+    d.  All of the mentioned
+
+The **Answer : Option d**
+
+
