@@ -188,3 +188,21 @@ The **Answer : Option c**
     d.  Object & Class behavior
     
 The **Answer : Option d**
+
+>Q22. What is multiplicity for an association?
+
+    a.  The multiplicity at the target class end of an association is the number of instances that can be associated with a single instance of source class
+    b.  The multiplicity at the target class end of an association is the number of instances that can be associated with a number instance of source class
+    c.  All of the mentioned
+    d.  None of the mentioned
+    
+The **Answer : Option a**
+
+>Q23. Which among these are the rules to be considered to form Class diagrams?
+
+    a.  Class symbols must have at least a name compartment
+    b.  Compartment can be in random order
+    c.  Attributes and operations can be listed at any suitable place
+    d.  None of the mentioned
+    
+The **Answer : Option a**
