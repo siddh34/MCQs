@@ -229,3 +229,18 @@
 
 
 ## Unit I && II  CIE Questions and Answers
+
+> . A freelancer has the choice of completing/partially completing tasks to maximize his profits. For partial completion of jobs, partial profit can be obtained.           Example for a job with (time-in-hours, profit) =(3,90), if 1/3rd is completed, then 30 profit is received; and likewise, if 1/6th is done then 15 is the profit         received
+
+    He has a constraint of 100 hours and choice of 5 jobs. The 5 jobs -
+    J1,J2,J3,J4,J5 have the following (time-in-hours, profit) respectively -((20,5), 
+    (30,20), (66, 30), (40,40), (60,50). 
+    
+    What is the maximum profit he can get in the given time constraint ?
+
+    A. 152
+    B. 156
+    C. 162
+    D. 216
+    
+**Answer  :** Option C
