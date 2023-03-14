@@ -180,3 +180,11 @@ The **Answer : Option d**
 
 The **Answer : Option c**
 
+>Q21. An operation can be described as?
+
+    a.  Object behavior
+    b.  Class behavior
+    c.  Functions
+    d.  Object & Class behavior
+    
+The **Answer : Option d**
