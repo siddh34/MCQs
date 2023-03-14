@@ -246,10 +246,10 @@
 >  Given the recurrence relation of an algorithm is T(n)=8T(n/2) +n3, what is it's time 
    complexity as per master's theorem 
 
-    A. o(n^3) 
+    A. θ(n^3) 
     B. O O(n^4 logn) 
-    C. O(n^2 logn)
-    D. O(n^3 logn)
+    C. θ(n^2 logn)
+    D. θ(n^3 logn)
     
 **Answer  :** Option D
 
@@ -271,7 +271,7 @@
     
 **Answer  :** Option A
 
-> For the problem of job sequencing with deadlines, where each job requires 1 unit time to complete, on the single available machine, select all the feasible solution   sequence/sequences for the 5 jobs - J1J2,J3,J4,J5 where their respective (profits, deadlines) are in following tuples (12,3), (15,2), (9,1), (18,2), (7,3). 
+> For the problem of job sequencing with deadlines, where each job requires 1 unit time to complete, on the single available machine, select all the feasible solution   sequence/sequences for the 5 jobs - J1,J2,J3,J4,J5 where their respective (profits, deadlines) are in following tuples (12,3), (15,2), (9,1), (18,2), (7,3). 
 
     A. J1,J2,J3 
     B. J5,J4,J1 
@@ -302,10 +302,10 @@
 
 > Given the recurrence relation of an algorithm is T(n)=8T(n/2)+n, what is it's time complexity as per master's theorem? 
 
-    A. O(n^3)
+    A. θ(n^3)
     B. O(n^2)
-    C. O(n^2 logn)
-    D. O(n^2 log^2(n))
+    C. θ(n^2 logn)
+    D. θ(n^2 log^2(n))
     
 **Answer  :** Option A
 
@@ -322,8 +322,8 @@
 
     A. Start fronn last cell, ie. extreme bottom right cell ie. K[n,m]
     B. Start from the first, i.e. extreme left uppermost cell i.e. K|1,1]
-    C. It Klul kli 1jl, then this means that ith object 0 (is not selected)
-    D. If Kljl !- Kli 1j, then this means that ith object l (is selected)
+    C. If K[i,j]=K[i-1,j] then this means that ith object=0 (is not selected)
+    D. If K[i,j]!=K[i-1,j] , then this means that ith object=l (is selected)
     
 **Answer  :** A,C,D
 
@@ -338,10 +338,10 @@
 
 > Which options have the correct sequences of decreasing time complexities?
 
-    A. o(n2 n'n), O(n^3 2'n), O(2°n), o(n)
-    B. o(n*n!), O(n* 2^n), O(2^n), O(n^7) 
-    C. o(2^n), O(n), O(log n), 0(1)
-    D. O(n^4), o(n^3), O(n^2 2^n), O(n^n) 
+    A. O(n^2 n^n),O(n^3 2^n),O(2^n),O(n!)
+    B. O(n*n!),O(n*2^n),O(2^n),O(n^7)
+    C. O(2^n),O(n),O(log n),O(1)
+    D. O(n^4),O(n^3),O(n^2 2^n),O(n^n)
 
     
 **Answer  :** Option C
@@ -359,8 +359,8 @@
     
     A. If a function is O(n) it is also O(n^2), and O(n^3)
     B. Ifa function is O(n^3) it is also O(n)
-    C. If a function is Q (n^2) it is also Q(n) and a(1) 
+    C. If a function is Ω (n^2) it is also Ω(n) and Ω(1) 
     D. o(n^2) = 2n^2 +8
-    E. if a function is Q (n^2) and also O(n^2), it is also O(n^2)
+    E. If a function is Ω(n^2) and also O(n^2), it is also θ(n^2)
     
 **Answer  :** A,C,D,E 
