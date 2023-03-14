@@ -251,3 +251,12 @@ The **Answer : Option a**
     d.  Component
     
 The **Answer : Option b**
+
+>Q28. Which diagram of UML represent Interaction modeling?
+
+    a.  Use Case
+    b.  Sequence
+    c.  State Chart
+    d.  Both a and b
+    
+The **Answer : Option d**
