@@ -206,3 +206,12 @@ The **Answer : Option a**
     d.  None of the mentioned
     
 The **Answer : Option a**
+
+>Q24. Which of these are the heuristics?
+
+    a.  Name classes, attributes, and roles with noun phrases
+    b.  Name operations and associations with verb phrases
+    c.  Stick to binary associations
+    d.  All of the mentioned
+    
+The **Answer : Option d**
