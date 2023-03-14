@@ -181,3 +181,49 @@
     D. Insertion sort
     
 **Answer  :** Option D
+
+> 21. What is the result of the recurrences which fall under first case of Master’s theorem (let the recurrence be given by T(n)=aT(n/b)+f(n) and f(n)=nc?
+   
+    A. T(n) = O(n^logba)
+    B. T(n) = O(nc log n)
+    C. T(n) = O(f(n))
+    D. T(n) = O(n2)
+    
+**Answer  :** Option A
+
+> 22. The rate at which storage memory or time grows as a function of the input size is called
+   
+    A. Storage
+    B. Complexity
+    C. Efficiency
+    D. Load
+    
+**Answer  :** Option C
+
+> 23. Internal and External factors of Algorithm Complexity are 
+
+    A. Processor Quality
+    B. Space Complexity
+    C. Time Complexity
+    D. All of the above
+    
+**Answer  :** Option D
+
+> 24. Which method is practical to perform a single search in an unsorted list of elements?
+
+    A. Sequential search
+    B. Bubble sort
+    C. Horspool’s method of string matching
+    D. Brute force method of string matching
+    
+**Answer  :** Option A
+
+> 25. Which algorithm finds the solution for the single-source shortest path problem for a tree?
+
+    A. Prim’s
+    B. Dijkstra’s
+    C. Kruskal’s
+    D. Huffman code
+    
+**Answer  :** Option B
+
