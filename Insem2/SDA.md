@@ -215,3 +215,39 @@ The **Answer : Option a**
     d.  All of the mentioned
     
 The **Answer : Option d**
+
+>Q25. Which of the following model in system modelling depicts the static nature of the system ?
+
+    a.  Structural Model
+    b.  External Model
+    c.  Behavioral Model
+    d.  Data Model
+    
+The **Answer : Option a**
+
+>Q26. The UML supports event-based modeling using ____________ diagrams.
+
+    a.  Deployment
+    b.  Collaboration   
+    c.  State chart
+    d.  All of the above
+    
+The **Answer : Option c**
+
+>Q27. Which of the following is true?
+
+    a.  Activity diagrams are used to model the processing of data.
+    b.  Model-driven engineering is just a theoretical concept.
+    c.  Model-driven engineering cannot be converted into a working/executable code.
+    d.  All of the above
+    
+The **Answer : Option a**
+
+>Q28. Which of the following diagram is not supported by UML considering Data-driven modeling ?
+
+    a.  Activity
+    b.  Data Flow Diagram (DFD)
+    c.  State Chart
+    d.  Component
+    
+The **Answer : Option b**
