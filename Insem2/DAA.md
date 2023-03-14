@@ -318,3 +318,49 @@
     
 **Answer  :** Option D
 
+> For 0/1 knapsack problem solved usng dynamic progranmng, to lraceback the solution from the avalable, filled, 2 D, Kn xm] table of optinmal sub solutions, what needs   to be done? Select all correct answers. 
+
+    A. Start fronn last cell, ie. extreme bottom right cell ie. K[n,m]
+    B. Start from the first, i.e. extreme left uppermost cell i.e. K|1,1]
+    C. It Klul kli 1jl, then this means that ith object 0 (is not selected)
+    D. If Kljl !- Kli 1j, then this means that ith object l (is selected)
+    
+**Answer  :** A,C,D
+
+> What is true regarding the general divide and conquer strategy? Select all correct options.
+
+    A. Its control abstraction -first, divides the problem into subproblems, and then combines the solution and next applies the strategy to the subproblems 
+    B. For n>1, its time complexity generally is -> aT(n/b)+f(n), where f(n) is the time to divide the problem into subproblems 
+    C. The solution to the small(P) situation is generally T(1) 
+    D. It is naturally expressed as a recursive algorithm
+    
+**Answer  :** A,B,D 
+
+> Which options have the correct sequences of decreasing time complexities?
+
+    A. o(n2 n'n), O(n^3 2'n), O(2°n), o(n)
+    B. o(n*n!), O(n* 2^n), O(2^n), O(n^7) 
+    C. o(2^n), O(n), O(log n), 0(1)
+    D. O(n^4), o(n^3), O(n^2 2^n), O(n^n) 
+
+    
+**Answer  :** Option C
+
+> When constructing OBST for the following instance, n = 4, and, for nodes (n1, n2, n3, n4) the p and q values are (p1, p2, p3, p4) = (12, 16, 13, 7), (q0, q1,42, q3, q4) =(17, 14, 15, 12, 19), what is the cost of the subproblem c(1,2) and root r(3,4), if c(0,4) is the cost of OBST, and r(0,4) is its root node?
+    
+    A. c(1,2)=48 and r(3,4) =n3
+    B. c(1,2)=45 and r(3,4)=n3 
+    C. c(1.2)=43 and r(3,4)=n4
+    D. c(1.2)=45 and r(3,4)=n4
+    
+**Answer  :** Option A
+
+> What is correct asymptotically?
+    
+    A. If a function is O(n) it is also O(n^2), and O(n^3)
+    B. Ifa function is O(n^3) it is also O(n)
+    C. If a function is Q (n^2) it is also Q(n) and a(1) 
+    D. o(n^2) = 2n^2 +8
+    E. if a function is Q (n^2) and also O(n^2), it is also O(n^2)
+    
+**Answer  :** A,C,D,E 
