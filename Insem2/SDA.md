@@ -162,4 +162,21 @@ The **Answer : Option d**
 
 The **Answer : Option d**
 
+>Q19. A class is divided into which of these compartments?
+
+    a.  Name Compartment
+    b.  Attribute Compartment
+    c.  Operation Compartment
+    d.  All of the mentioned
+
+The **Answer : Option d**
+
+>Q20. An attribute is a data item held by which of the following?
+
+    a.  Class
+    b.  Object
+    c.  All of the mentioned
+    d.  None of the mentioned
+
+The **Answer : Option c**
 
