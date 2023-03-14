@@ -252,7 +252,7 @@ The **Answer : Option a**
     
 The **Answer : Option b**
 
->Q28. Which diagram of UML represent Interaction modeling?
+>Q29. Which diagram of UML represent Interaction modeling?
 
     a.  Use Case
     b.  Sequence
