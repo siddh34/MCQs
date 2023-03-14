@@ -145,3 +145,12 @@ The **Answer : Option c**
 The **Answer : Option d**
 
 
+
+>Q17. What Does a Composite name consists of in a UML Class and object diagram?
+
+    a.  Delimiter
+    b.  Simple names
+    c.  Digits
+    d.  All of the mentioned
+
+The **Answer : Option d**
