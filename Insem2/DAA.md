@@ -230,11 +230,9 @@
 
 ## Unit I && II  CIE Questions and Answers
 
-> . A freelancer has the choice of completing/partially completing tasks to maximize his profits. For partial completion of jobs, partial profit can be obtained.           Example for a job with (time-in-hours, profit) =(3,90), if 1/3rd is completed, then 30 profit is received; and likewise, if 1/6th is done then 15 is the profit         received
-
+>   A freelancer has the choice of completing/partially completing tasks to maximize his profits. For partial completion of jobs, partial profit can be obtained.           Example for a job with (time-in-hours, profit) =(3,90), if 1/3rd is completed, then 30 profit is received; and likewise, if 1/6th is done then 15 is the profit         received
     He has a constraint of 100 hours and choice of 5 jobs. The 5 jobs -
-    J1,J2,J3,J4,J5 have the following (time-in-hours, profit) respectively -((20,5), 
-    (30,20), (66, 30), (40,40), (60,50). 
+    J1,J2,J3,J4,J5 have the following (time-in-hours, profit) respectively -((20,5), (30,20), (66, 30), (40,40), (60,50). 
     
     What is the maximum profit he can get in the given time constraint ?
 
@@ -244,3 +242,79 @@
     D. 216
     
 **Answer  :** Option C
+
+>  Given the recurrence relation of an algorithm is T(n)=8T(n/2) +n3, what is it's time 
+   complexity as per master's theorem 
+
+    A. o(n^3) 
+    B. O O(n^4 logn) 
+    C. O(n^2 logn)
+    D. O(n^3 logn)
+    
+**Answer  :** Option D
+
+>  The time complexity of an algorithm is given as T(n)=3n+2. Select all correct statements related to the algorithm. 
+
+    A. Space complexity is O(n) 
+    B. Time complexity is Omega(n)
+    C. It is a sublinear algorithm
+    D. Algorithm has non polynomial time complexity
+    
+**Answer  :** Option B && D 
+
+>  Select correct statements regarding multi-stage graph problem
+
+    A. It can be solved faster with a greedy strategy, like Dijkstra. 
+    B. It requires solution of optimal subpaths of vertices (in stages nearer to destination) to destination, in forward approach 
+    C. It requires solution of optimal subpaths of vertices (in stages nearer to destination) to destination, in backward approach
+    D. The backwàrd approach uses, optimal subpaths from start vertex. 
+    
+**Answer  :** Option A
+
+> For the problem of job sequencing with deadlines, where each job requires 1 unit time to complete, on the single available machine, select all the feasible solution   sequence/sequences for the 5 jobs - J1J2,J3,J4,J5 where their respective (profits, deadlines) are in following tuples (12,3), (15,2), (9,1), (18,2), (7,3). 
+
+    A. J1,J2,J3 
+    B. J5,J4,J1 
+    C. J2,J4,J5
+    D. None of Above
+    
+**Answer  :** Option B
+
+> Which statements are correct related to Greedy strategy
+
+    A. The greedy algorithm guarantees optimal solution to a given maximization / minimization criterion function 
+    B. Greedy algorithm always makes the choice (greedy criteria) that looks best at the moment, to optimize a given objective function. 
+    C. Greedy Knapsack problem (fractional knapsack) will generally give a better profits as compared to dynanic 0/1 Knapsack 
+    D. Greedy strategy generates a single feasible and single optimal solution
+    E. Time complexity of Greedy strategy, as per its control abstraction, is O(n)
+    
+**Answer  :**  B,C,D,E
+
+> Select all correct options related to Quicksort and Mergesort. 
+
+    A. Mergesort çan have a worst-case time complexity of O(n^2) when the merging is poorly done 
+    B. Other than the requirement of storing n elements, Quicksort has a space complexity of O(log n) due to the recursive call stack 
+    C. Quicksort is better in terms of worst-case sorting performance and may be a better choice for scenarios where memory usage is nota concern
+    D. In terms of time complexity, both Quicksort and Mergesort algorithms have the same average case time complexity of O(nlogn)
+    E. Other than the requirement of storing n elements, Mergesort has a space complexity of O(n) due to the need to create temporary arrays to merge subarrays.
+    
+**Answer  :** B,C,E 
+
+> Given the recurrence relation of an algorithm is T(n)=8T(n/2)+n, what is it's time complexity as per master's theorem? 
+
+    A. O(n^3)
+    B. O(n^2)
+    C. O(n^2 logn)
+    D. O(n^2 log^2(n))
+    
+**Answer  :** Option A
+
+> For the problem of job sequencing with deadlines, where each job requires 1 unit time to complete, on the single available machine, select the optimal solution sequence for the 5 jobs -J1,J2,J3,J4,J5 where their respective (profits, deadlines) are given in following tuples ((12,3), (15,2), (9,1), (18,2), (7,3).
+
+    A. J1,J2,J3
+    B. J3,J2,J1
+    C. J5,J4,J1
+    D. J4,J2,J1
+    
+**Answer  :** Option D
+
