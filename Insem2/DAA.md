@@ -38,14 +38,14 @@
 
 **Answer  :** Option A
 
-> Q5. Potential function method is the technique that performs an amortized analysis based on ___
+> Q5. Which of the following is used for solving the N Queens Problem
 
-    A. Financial model
-    B. Computational model
-    C. Algorithm analysis
-    D. Energy model
+    A. Greedy Algorithm
+    B. Dynamic Programming
+    C. Backtracking
+    D. Sorting
 
-**Answer  :** Option D
+**Answer  :** Option C
 
 > Q6. ______is the first step in solving the problem ?
 
@@ -74,14 +74,14 @@
 
 **Answer  :** Option C
 
-> Q9. Time  complexities  of  three  algorithms  are  given.  Which  should  execute  the slowest for large values of N
+> Q9. Which of the following sorting algorithms provide the best time complexity in the worst-case scenario
 
-    A. (n log n) 
-    B. O(n)
-    C. O(log n)
-    D. O(n2)
+    A. Merge Sort
+    B. Quick Sort
+    C. Bubble Sort
+    D. Selection sort
 
-**Answer  :** Option B
+**Answer  :** Option A
 
 > Q10. Partition and exchange sort is____________  
 
@@ -164,14 +164,14 @@
     
 **Answer  :** Option A
 
-> 19. ___ is a concept wherein larger solutions for problems are found based upon the solution of a number of smaller problems.
+> 19. Dijkstra’s algorithm is used to solve which problems
     
-    A. Decrease and conquer
-    B. Divide and conquer
-    C. Branch and bound
-    D. Backtracking
+    A. Network Lock
+    B. Single source shortest Path
+    C. All pair shortest path
+    D. Sorting
     
-**Answer  :** Option A
+**Answer  :** Option B
 
 > 20. The basic operation of the ___ algorithm is the comparison between the element and the array given.
    
