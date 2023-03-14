@@ -136,3 +136,38 @@
     D. Calculating the time complexity of any code 
 
 **Answer  :** Option A
+
+> 16. Prim’s algorithm starts constructing a minimum spanning tree from ___
+    A. An arbitary root vertex
+    B. The shortest arc
+    C. The left most vertex
+    D. The right most vertex
+**Answer  :** Option A
+
+> 17. Which method of encoding does not consider the probability of occurrence of symbols?
+    A. Static Huffman coding
+    B. Variable length coding
+    C. Adaptive Huffman coding
+    D. Fixed length coding
+**Answer  :** Option D
+
+> 18. In distribution counting to sorting elements in an array ___ is used.
+    A. Accumulated sum of frequencies
+    B. Frequency
+    C. Count of repeating elements in the array
+    D. The length of the array
+**Answer  :** Option A
+
+> 19. ___ is a concept wherein larger solutions for problems are found based upon the solution of a number of smaller problems.
+    A. Decrease and conquer
+    B. Divide and conquer
+    C. Branch and bound
+    D. Backtracking
+**Answer  :** Option A
+
+> 20. The basic operation of the ___ algorithm is the comparison between the element and the array given.
+    A. Binary search
+    B. Greedy
+    C. Brute force
+    D. Insertion sort
+**Answer  :** Option D
