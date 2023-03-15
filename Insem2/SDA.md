@@ -568,3 +568,28 @@ The **Answer : Option c**
     d.  Factory Design Pattern
     
 The **Answer : Option c**
+
+>Q5. Major parts to the Builder design pattern implementation are :
+
+    a.  Product
+    b.  Builder
+    c.  Executor
+    d.  All of the above
+    
+The **Answer : Option d**
+
+>Q6. The Singleton Design Pattern is used when there should only be one instance of a given class.(True/False)
+
+    a.  True
+    b.  False
+    
+The **Answer : Option a**
+
+>Q7. ________ pattern says "to reuse the object that are expensive to create". 
+
+    a.  Factory Design Pattern
+    b.  Abstract Factory Design Pattern
+    c.  Singleton Design Pattern
+    d.  Object Pool Design Pattern
+    
+The **Answer : Option d**
