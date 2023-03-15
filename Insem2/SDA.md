@@ -207,11 +207,11 @@ The **Answer : Option a**
     
 The **Answer : Option a**
 
->Q24. Which of these are the heuristics?
+>Q24. Stages of JSD?
 
-    a.  Name classes, attributes, and roles with noun phrases
-    b.  Name operations and associations with verb phrases
-    c.  Stick to binary associations
+    a.  Modeling stage
+    b.  Network stage
+    c.  Implementation stage
     d.  All of the mentioned
     
 The **Answer : Option d**
@@ -271,3 +271,12 @@ The **Answer : Option d**
 The **Answer : Option c**
 
 ## UNIT 2 MCQ's
+
+>Q1. The __________ model helps in representing the system's dynamic behavior.
+
+    a.  Object Model
+    b.  Context Model
+    c.  Behavioral Model
+    d.  Data Model
+    
+The **Answer : Option c**
