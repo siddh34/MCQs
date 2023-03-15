@@ -556,38 +556,36 @@
 
 **Answer  :** Option B
 
-> Q22. 
+> Q22. Which of the following is/are property/properties of a dynamic programming problem
 
-    A. 
-    B. 
-    C. 
-    D.  
+    A. Optimal substructure
+    B. Overlapping subproblems
+    C. Greedy approach
+    D. Both optimal substructure and overlapping subproblems
 
-**Answer  :** Option 
+**Answer  :** Option D
 
-> Q23. 
+> Q23. If an optimal solution can be created for a problem by constructing optimal solutions for its subproblems, the problem possesses __ property.
 
-    A. 
-    B. 
-    C. 
-    D.  
+    A. Overlapping subproblems
+    B. Optimal substructure
+    C. Memoization
+    D. Greedy 
 
-**Answer  :** Option 
+**Answer  :** Option B
 
-> Q24. 
+> Q24. When dynamic programming is applied to a problem, it takes far less time as compared to other methods that don’t take advantage of overlapping subproblems.
 
-    A. 
-    B. 
-    C. 
-    D.  
+    A. True
+    B. False 
 
-**Answer  :** Option 
+**Answer  :** True
 
-> Q25. 
+> Q25. In dynamic programming, the technique of storing the previously calculated values is called __
 
-    A. 
-    B. 
-    C. 
-    D.  
+    A. Saving value property
+    B. Storing value property
+    C. Memoization
+    D. Mapping
 
-**Answer  :** Option 
+**Answer  :** Option C
