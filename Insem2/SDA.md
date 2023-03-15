@@ -593,3 +593,57 @@ The **Answer : Option a**
     d.  Object Pool Design Pattern
     
 The **Answer : Option d**
+
+>Q8. ________ pattern is also known as Wrapper. 
+
+    a.  Factory Design Pattern
+    b.  Adapter Design Pattern
+    c.  Singleton Design Pattern
+    d.  Object Pool Design Pattern
+    
+The **Answer : Option b**
+
+>Q9. ________ is used to reduce communication complexity between multiple objects or classes. 
+
+    a.  Mediator Design Pattern
+    b.  Adapter Design Pattern
+    c.  Singleton Design Pattern
+    d.  Object Pool Design Pattern
+    
+The **Answer : Option a**
+
+>Q10. Which of the following pattern a request is wrapped under an object as command and passed to invoker object?
+
+    a.  Proxy Pattern
+    b.  Chain of Responsibility Pattern
+    c.  Command Pattern
+    d.  Interpreter Pattern
+    
+The **Answer : Option c**
+
+>Q11. Which of the following describes the Strategy pattern correctly?
+
+    a.  In this pattern, a class behavior changes based on its state.
+    b.  In this pattern, a null object replaces check of NULL object instance.
+    c.  In this pattern, a class behavior or its algorithm can be changed at run time.
+    d.  In this pattern, an abstract class exposes defined way(s)/template(s) to execute its methods
+    
+The **Answer : Option c**
+
+>Q12. In which of the following pattern an interface is responsible for creating a factory of related objects without explicitly specifying their classes?
+
+    a.  Factory Pattern
+    b.  Abstract Factory Pattern
+    c.  Singleton Pattern
+    d.  Transfer Object Pattern
+    
+The **Answer : Option b**
+
+>Q13. Which of the following is the correct list of entities of MVC pattern?
+
+    a.  Model, View, Controller
+    b.  Model, View, Control
+    c.  Middle, View, Controller
+    d.  Model, Viewer, Control
+    
+The **Answer : Option a**
