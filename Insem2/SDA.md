@@ -198,12 +198,10 @@ The **Answer : Option d**
     
 The **Answer : Option a**
 
->Q23. Which among these are the rules to be considered to form Class diagrams?
+>Q23. PSD’s are Finite State Diagrams ? (True/False)
 
-    a.  Class symbols must have at least a name compartment
-    b.  Compartment can be in random order
-    c.  Attributes and operations can be listed at any suitable place
-    d.  None of the mentioned
+    a.  True
+    b.  False
     
 The **Answer : Option a**
 
