@@ -270,11 +270,11 @@ The **Answer : Option c**
 
 ## UNIT 2 MCQ's
 
->Q1. The __________ model helps in representing the system's dynamic behavior.
+>Q1. The design process for identifying the sub-systems making up a system and the framework for sub-system control and communication is
 
-    a.  Object Model
+    a.  Structural design
     b.  Context Model
-    c.  Behavioral Model
+    c.  Architectural design
     d.  Data Model
     
 The **Answer : Option c**
