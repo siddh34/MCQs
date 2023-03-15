@@ -555,3 +555,39 @@
     D. Longest   
 
 **Answer  :** Option B
+
+> Q22. 
+
+    A. 
+    B. 
+    C. 
+    D.  
+
+**Answer  :** Option 
+
+> Q23. 
+
+    A. 
+    B. 
+    C. 
+    D.  
+
+**Answer  :** Option 
+
+> Q24. 
+
+    A. 
+    B. 
+    C. 
+    D.  
+
+**Answer  :** Option 
+
+> Q25. 
+
+    A. 
+    B. 
+    C. 
+    D.  
+
+**Answer  :** Option 
