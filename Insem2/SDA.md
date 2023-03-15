@@ -513,3 +513,19 @@ The **Answer : Option d**
     b.  False
     
 The **Answer : Option a**
+
+>Q29. Amongst which of the following is / are the correct with reference to significance of architectural design,
+
+    a.  It provides a representation that facilitates communication among all stakeholders
+    b.  It highlights early design decisions
+    c.  It constitutes a relatively small, intellectually graspable model of how the system is structured
+    d.  All of the mentioned above
+    
+The **Answer : Option d**
+
+>Q30. The decision metaphor represents architecture as the product of decisions.
+
+    a.  True
+    b.  False
+    
+The **Answer : Option a**
