@@ -294,3 +294,39 @@ The **Answer : Option b**
     d.  Both a and b
     
 The **Answer : Option d**
+
+>Q4. What are Types of Fliters in Pipe and filter Architecture?
+
+    a.  Active filter
+    b.  Passive filter
+    c.  Facilitated filter
+    d.  Both a and b
+    
+The **Answer : Option d**
+
+>Q5. The UML was designed for describing _________
+
+    a.  object-oriented systems
+    b.  architectural design
+    c.  SRS
+    d.  Both object-oriented systems and Architectural design
+    
+The **Answer : Option d**
+
+>Q6. Which of the following view shows that the system is composed of interacting processes at run time?
+
+    a.  physical
+    b.  logical
+    c.  process
+    d.  development
+    
+The **Answer : Option c**
+
+>Q7. Which of the following is not included in Architectural design decisions?
+
+    a.  type of application
+    b.  distribution of the system
+    c.  architectural styles
+    d.  testing the system
+    
+The **Answer : Option d**
