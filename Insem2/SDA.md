@@ -278,3 +278,19 @@ The **Answer : Option c**
     d.  Data Model
     
 The **Answer : Option c**
+
+>Q2. Architectural design is a creative process satisfying only functional-requirements of a system.
+
+    a.  True
+    b.  False
+    
+The **Answer : Option b**
+
+>Q3. What are types of Data Centered Architecture?
+
+    a.  Repository Architecture Style
+    b.  Blackboard Architecture Style
+    c.  Batch sequential
+    d.  Both a and b
+    
+The **Answer : Option d**
