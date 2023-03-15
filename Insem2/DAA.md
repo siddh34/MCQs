@@ -227,6 +227,50 @@
     
 **Answer  :** Option B
 
+> 26. __ is the minimum number of steps that can executed for the given parameters
+
+    A. Average case
+    B. Worst case
+    C. Time complexity
+    D. Best case
+    
+**Answer  :** Option D
+
+> 27. ___ is the maximum number of steps that can executed for the given parameters
+
+    A. Average case
+    B. Worst case
+    C. Time complexity
+    D. Best case
+    
+**Answer  :** Option B
+
+> 28. ___ is the average number of steps that can executed for the given parameters
+
+    A. Average case
+    B. Worst case
+    C. Time complexity
+    D. Best case
+    
+**Answer  :** Option A
+
+> 29.  O(1) means computing time is ___
+
+    A. Constant
+    B. Quadratic
+    C. Linear
+    D. Cubic
+    
+**Answer  :** Option A
+
+> 30. O(n) means computing time is _
+
+    A. Constant
+    B. Quadratic
+    C. Linear
+    D. Cubic
+    
+**Answer  :** Option C
 
 ## Unit I && II  CIE Questions and Answers
 
