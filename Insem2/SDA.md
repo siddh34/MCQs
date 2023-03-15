@@ -647,3 +647,152 @@ The **Answer : Option b**
     d.  Model, Viewer, Control
     
 The **Answer : Option a**
+
+>Q14. Can we create a clone of a singleton object?
+
+    a.  True
+    b.  False
+    
+The **Answer : Option a**
+
+>Q15. Which of the following describes the Bridge pattern correctly?
+
+    a.  This pattern builds a complex object using simple objects and using a step by step approach.
+    b.  This pattern refers to creating duplicate object while keeping performance in mind.
+    c.  This pattern is used when creation of object directly is costly.
+    d.  This pattern is used when we need to decouple an abstraction from its implementation so that the two can vary independently.
+    
+The **Answer : Option d**
+
+>Q16. Which of the following pattern is used where we need to treat a group of objects in similar way as a single object?
+
+    a.  Composite Pattern
+    b.  Facade Pattern
+    c.  Flyweight Pattern
+    d.  Decorator Pattern
+    
+The **Answer : Option a**
+
+>Q17. Which of the following pattern provides a way to evaluate language grammar or expression?
+
+    a.  Proxy Pattern
+    b.  Facade Pattern
+    c.  Flyweight Pattern
+    d.  Interpreter Pattern
+    
+The **Answer : Option d**
+
+>Q18. Pattern Description Parameters are
+
+    a.  Context
+    b.  Problem
+    c.  Forces
+    d.  all of the above
+    
+The **Answer : Option d**
+
+>Q19. Which design pattern provides a single class which provides simplified methods required by client and delegates call to those methods?
+
+    a.  Proxy Pattern
+    b.  Facade Pattern
+    c.  Flyweight Pattern
+    d.  Interpreter Pattern
+    
+The **Answer : Option b**
+
+>Q20. Which design pattern ensures that only one object of particular class gets created?
+
+    a.  Singleton pattern
+    b.  Facade Pattern
+    c.  Flyweight Pattern
+    d.  Interpreter Pattern
+    
+The **Answer : Option a**
+
+>Q21. Which design pattern suggests multiple classes through which request is passed and multiple but only relevant classes carry out operations on the request?
+
+    a.  Singleton pattern
+    b.  Facade Pattern
+    c.  Chain of responsibility pattern
+    d.  Interpreter Pattern
+    
+The **Answer : Option c**
+
+>Q22. Which design pattern represents a way to access all the objects in a collection?
+
+    a.  Singleton pattern
+    b.  Iterator pattern
+    c.  Chain of responsibility pattern
+    d.  Interpreter Pattern
+    
+The **Answer : Option b**
+
+>Q23. Is design pattern a logical concept.
+
+    a.  True
+    b.  False
+    
+The **Answer : Option a**
+
+>Q24. Which design pattern works on data and action taken based on data provided?
+
+    a.  Singleton pattern
+    b.  Iterator pattern
+    c.  Chain of responsibility pattern
+    d.  Command pattern
+    
+The **Answer : Option d**
+
+>Q25. Which of the below author is not a part of GOF (Gang of Four)?
+
+    a.  Erich Gamma
+    b.  Gang Pattern
+    c.  Richard Helm
+    d.  Ralph Johnson
+    
+The **Answer : Option b**
+
+>Q26. Design patterns can be classified in _______ categories.
+
+    a.  1
+    b.  2
+    c.  3
+    d.  4
+    
+The **Answer : Option c**
+
+>Q27. Factory pattern is one of most used design pattern in Java.
+
+    a.  TRUE
+    b.  FALSE
+    c.  Can be true or false
+    d.  Can not say
+    
+The **Answer : Option a**
+
+>Q28. _________ works as a bridge between two incompatible interfaces.
+
+    a.  Prototype pattern
+    b.  Adapter pattern
+    c.  Bridge pattern
+    d.  Filter pattern
+    
+The **Answer : Option b**
+
+>Q29. Suppose you need to create new objects by copying an existing object. Which of the following patterns would you most likely use?
+
+    a.  Abstract Factory
+    b.  Builder
+    c.  Prototype
+    d.  Singleton
+    
+The **Answer : Option c**
+
+>Q30. Suppose you need to define an interface for creating instances of several related abstract classes without specifying their concrete subclasses. Which of the following patterns would you most likely use?
+
+    a.  Abstract Factory
+    b.  Builder
+    c.  Prototype
+    d.  Singleton
+    
+The **Answer : Option a**
