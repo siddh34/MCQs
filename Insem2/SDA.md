@@ -364,3 +364,30 @@ The **Answer : Option d**
     b.  False
     
 The **Answer : Option b**
+
+>Q12. What describes how a set of interacting components can share data?
+
+    a.  model-view-controller
+    b.  architecture pattern
+    c.  repository pattern
+    d.  none of the mentioned
+    
+The **Answer : Option c**
+
+>Q13. Which view in architectural design shows the key abstractions in the system as objects or object classes?
+
+    a.  physical
+    b.  development
+    c.  logical
+    d.  process
+    
+The **Answer : Option c**
+
+>Q14. Which of the following is a type of Architectural Model?
+
+    a.  Static structural model
+    b.  Dynamic process model
+    c.  Distribution model
+    d.  All of the mentioned
+    
+The **Answer : Option d**
