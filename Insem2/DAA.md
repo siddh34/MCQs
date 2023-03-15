@@ -496,62 +496,62 @@
 
 > Q15. In Huffman coding, data in a tree always occur
 
-   A. roots
-   B. leaves
-   C. left sub trees
-   D. right sub trees
+    A. roots
+    B. leaves
+    C. left sub trees
+    D. right sub trees
 
 **Answer  :** Option B
 
 > Q16. An optimal code will always be present in a full tree.
 
-   A. True
-   B. False
+    A. True
+    B. False
     
 **Answer  :** Option A
 
 > Q17.  What is the running time of the Huffman encoding algorithm
 
-   A. O(C)
-   B. O(log C)
-   C. O(C log C)
-   D. O( N log C)
+    A. O(C)
+    B. O(log C)
+    C. O(C log C)
+    D. O( N log C)
 
 **Answer  :** Option C
 
 > Q18. What is the running time of the Huffman algorithm, if its implementation of the priority queue is done using linked lists
 
-   A. O(C)
-   B. O(log C)
-   C. O(C log C)
-   D. O(C^2)
+    A. O(C)
+    B. O(log C)
+    C. O(C log C)
+    D. O(C^2)
 
 **Answer  :** Option D
 
 > Q19. Identify the correct problem for multistage graph from the list given below.
 
-   A. Resource allocation problem
-   B. Traveling salesperson problem
-   C. Producer consumer problem
-   D. Barber’s problem
-   E. Dining philosopher problem.
+    A. Resource allocation problem
+    B. Traveling salesperson problem
+    C. Producer consumer problem
+    D. Barber’s problem
+    E. Dining philosopher problem.
 
 **Answer  :** Option A
 
 > Q20. In job sequencing with deadlines, an optimal solution is a feasible solution with ___ value.
 
-   A. Positive
-   B. Negative
-   C. Maximum
-   D. Minimum
+    A. Positive
+    B. Negative
+    C. Maximum
+    D. Minimum
 
 **Answer  :** Option C
 
 > Q21. The multistage graph problem is to find the/a ___ path.
 
-   A. Maximum-cost
-   B. Minimum-cost
-   C. Shortest
-   D. Longest   
+    A. Maximum-cost
+    B. Minimum-cost
+    C. Shortest
+    D. Longest   
 
 **Answer  :** Option B
