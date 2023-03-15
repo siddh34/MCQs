@@ -330,3 +330,37 @@ The **Answer : Option c**
     d.  testing the system
     
 The **Answer : Option d**
+
+>Q8. Which of the following is an independent user interface and captures the behavior of application problem domain?
+
+    a.  architecture
+    b.  repository pattern
+    c.  Model-View-Controller
+    d.  Presentation-Abstraction-Control
+    
+The **Answer : Option c**
+
+>Q9. Presentation-Abstraction-Control has which of following components?
+
+    a.  The presentation component
+    b.  The process component
+    c.  The control component
+    d.  Both a and c
+    
+The **Answer : Option d**
+
+>Q10. Presentation-Abstraction-Control has which of following components?
+
+    a.  The presentation component
+    b.  The process component
+    c.  The control component
+    d.  Both a and c
+    
+The **Answer : Option d**
+
+>Q11. MVC is an agent-based hierarchical architecture but PAC does not have a clear hierarchical structure. (True/False)
+
+    a.  True
+    b.  False
+    
+The **Answer : Option b**
