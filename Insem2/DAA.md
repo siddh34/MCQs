@@ -677,3 +677,138 @@
     D. Fortran
 
 **Answer  :** Option D
+
+> Q11. The problem of finding a list of integers in a given specific range that meets certain conditions is called
+
+    A. Subset sum problem
+    B. Constraint satisfaction problem
+    C. Hamiltonian circuit problem
+    D. Travelling salesman problem
+
+**Answer  :** Option B
+
+> Q12. Who coined the term ‘backtracking
+
+    A. Lehmer
+    B. Donald
+    C. Ross
+    D. Ford
+
+**Answer  :** Option A
+
+> Q13. __ enumerates a list of promising nodes that could be computed to give the possible solutions of a given problem.
+
+    A. Exhaustive search
+    B. Brute force
+    C. Backtracking
+    D. Divide and conquer
+
+**Answer  :** Option C
+
+> Q14. The problem of finding a subset of positive integers whose sum is equal to a given positive integer is called as
+
+    A. n- queen problem
+    B. subset sum problem
+    C. knapsack problem
+    D. hamiltonian circuit problem
+
+**Answer  :** Option B
+
+> Q15. The problem of placing n queens in a chessboard such that no two queens attack each other is called as
+
+    A. n-queen problem
+    B. eight queens puzzle
+    C. four queens puzzle
+    D. 1-queen problem
+
+**Answer  :** Option A
+
+> Q16. Who published the eight queens puzzle
+
+    a) Max Bezzel
+    b) Carl
+    c) Gauss
+    d) Friedrich
+
+**Answer  :** Option a
+
+> Q17. For how many queens was the extended version of Eight Queen Puzzle applicable for n*n squares
+
+    a) 5
+    b) 6
+    c) 8
+    d) n
+
+**Answer  :** Option d
+
+> Q18. Who proposed the depth first backtracking algorithm
+
+    a) Edsger Dijkshtra
+    b) Max Bezzel
+    c) Frank Nauck
+    d) Carl Friedrich
+
+**Answer  :** Option a
+
+> Q19. How many solutions are there for 8 queens on 8*8 board
+
+    a) 12
+    b) 91
+    c) 92
+    d) 93
+
+**Answer  :** Option c
+
+> Q20. In how many directions do queens attack each other
+
+    a) 1
+    b) 2
+    c) 3
+    d) 4
+
+**Answer  :** Option c
+
+> Q21.  Where is the n-queens problem implemented
+
+    a) carom
+    b) chess
+    c) ludo
+    d) cards
+
+**Answer  :** Option b
+
+> Q22. 
+
+    a) 
+    b) 
+    c) 
+    d) 
+
+**Answer  :** Option
+
+> Q23. 
+
+    a) 
+    b) 
+    c) 
+    d) 
+
+**Answer  :** Option
+
+> Q24. 
+
+    a) 
+    b) 
+    c) 
+    d) 
+
+**Answer  :** Option
+
+> Q25. 
+
+    a) 
+    b) 
+    c) 
+    d) 
+
+**Answer  :** Option
