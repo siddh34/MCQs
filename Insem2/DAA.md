@@ -777,38 +777,38 @@
 
 **Answer  :** Option b
 
-> Q22. 
+> Q22. Branch and bound is a _
 
-    a) 
-    b) 
-    c) 
-    d) 
+    a) problem solving technique
+    b) data structure
+    c) sorting algorithm
+    d) type of tree
 
-**Answer  :** Option
+**Answer  :** Option a
 
-> Q23. 
+> Q23. Which data structure is most suitable for implementing best first branch and bound strategy
 
-    a) 
-    b) 
-    c) 
-    d) 
+    a) stack
+    b) queue
+    c) priority queue
+    d) linked list
 
-**Answer  :** Option
+**Answer  :** Option c
 
-> Q24. 
+> Q24. What is the condition for proper coloring of a graph
 
-    a) 
-    b) 
-    c) 
-    d) 
+    a) two vertices having a common edge should not have same color
+    b) two vertices having a common edge should always have same color
+    c) all vertices should have a different color
+    d) all vertices should have same color
 
-**Answer  :** Option
+**Answer  :** Option a
 
-> Q25. 
+> Q25.  What is a chromatic number
 
-    a) 
-    b) 
-    c) 
-    d) 
+    a) The maximum number of colors required for proper edge coloring of graph
+    b) The maximum number of colors required for proper vertex coloring of graph
+    c) The minimum number of colors required for proper vertex coloring of graph
+    d) The minimum number of colors required for proper edge coloring of graph
 
-**Answer  :** Option
+**Answer  :** Option c
