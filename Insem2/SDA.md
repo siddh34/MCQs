@@ -461,3 +461,55 @@ The **Answer : Option c**
     b.  False
     
 The **Answer : Option a**
+
+>Q23. Data-centered architectures promote
+
+    a.  Design
+    b.  Integrability
+    c.  Maintenance
+    d.  None of the above
+    
+The **Answer : Option b**
+
+>Q24. Data-Flow Architectures is suitable to apply when
+
+    a.  Input data transformed through a series of computational or manipulative components
+    b.  Input data transformed through recursive process
+    c.  Input data does not transform through defined process
+    d.  None of the above
+    
+The **Answer : Option a**
+
+>Q25. If the data flow degenerates into a single line of transforms, is called
+
+    a.  Parallel computing
+    b.  Batch sequential
+    c.  Data flow process
+    d.  None of the mentioned above
+    
+The **Answer : Option b**
+
+>Q26. Object-Oriented Architectures is specially used for
+
+    a.  The components of a system encapsulate data and the operations
+    b.  To manipulate the data
+    c.  Communication between defined components are accomplished through message passing
+    d.  All of the mentioned above
+    
+The **Answer : Option d**
+
+>Q27. Layered Architectures encompasses
+
+    a.  Different layers are defined
+    b.  Each layer accomplishes operations
+    c.  Closer to the machine instruction set
+    d.  All of the mentioned above
+    
+The **Answer : Option d**
+
+>Q28. In Layered Architectures, outer layer defines interface operations; inner layer defines operating system interfacing while intermediate layers provide utility services and application software functions.
+
+    a.  True
+    b.  False
+    
+The **Answer : Option a**
