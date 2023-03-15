@@ -364,3 +364,96 @@
     E. If a function is Ω(n^2) and also O(n^2), it is also θ(n^2)
     
 **Answer  :** A,C,D,E 
+
+## Unit 2
+
+> Q1. Greedy Algorithms have following characteristic.
+
+    A. Objective function
+    B. Feasible solution
+    C. Selection function
+    D. All of these
+
+**Answer  :** Option D
+
+> Q2. Branch & Bound Technique uses
+
+    A. Lower Bound
+    B. Upper Bound
+    C. Both Lower Bound & Upper Bound
+    D. None of these
+
+**Answer  :** Option C
+
+> Q3. Longest Common Subsequence Problem can be solved by
+
+    A. Greedy Method
+    B. Divide & Conquer
+    C. Dynamic Programming
+    D. None of these
+
+**Answer  :** Option C
+
+> Q4. Divide and Conquer is a general design paradigm does not consist the following part
+
+    A. Divide
+    B. Recursion
+    C. Iteration
+    D. Conquer
+
+**Answer  :** Option C
+
+> Q5. The Knapsack problem where the objective function is to minimize the profit is
+
+    A. Greedy
+    B. Dynamic 0 / 1
+    C. Back tracking 
+    D. Branch & Bound 0/1
+
+**Answer  :** Option D
+
+> Q6. The worst case time complexity of the nondeterministic dynamic knapsack algorithm is
+
+    A. O(n log n)
+    B. O( log n)
+    C. O(n2) 
+    D. O(n) 
+
+**Answer  :** Option D
+
+> Q7. Which of the following standard algorithms is not a Greedy algorithm
+
+    A. Dijkstra's shortest path algorithm
+    B. Prim's algorithm
+    C. Kruskal algorithm
+    D. Huffman Coding
+    E. Bellmen Ford Shortest path algorithm
+
+**Answer  :** Option E
+
+> Q8. From the following algorithm design techniques which one is used to find all the pairs of shortest distances in a graph
+
+    A. Backtracking
+    B. Greedy
+    C. Dynamic programming
+    D. Divide and Conquer
+
+**Answer  :** Option C
+
+> Q9. Kruskal’s algorithm uses-------- and prim’s algorithm uses------ in determining the MST
+
+    A. edges,vertex 
+    B. vertex,edges 
+    C. edges,edges 
+    D. vertex,vertex
+
+**Answer  :** Option A
+
+> Q10. The Knapsack problem is an example of 
+
+    A. Greedy algorithm
+    B. 2D dynamic programming
+    C. 1D dynamic programming
+    D. Divide and conquer
+
+**Answer  :** Option B
