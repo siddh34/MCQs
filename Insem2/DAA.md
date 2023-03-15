@@ -812,3 +812,46 @@
     d) The minimum number of colors required for proper edge coloring of graph
 
 **Answer  :** Option c
+
+> Q26. Travelling salesman problem is an example of__
+
+    A. Divide & Conquer
+    B. Recursive Approach
+    C. Dynamic Algorithm
+    D. Greedy Algorithm
+
+**Answer  :** Option D
+
+> Q27. ___ organizes details of all candidate solutions and discards large subsets of fruitless candidates by using upper and lower estimated bounds of the quantity              being optimized.
+
+    a. Approximation algorithms
+    b. Dynamic programming
+    c. Greedy algorithm
+    d. Branch and Bound 
+
+**Answer  :** Option d
+
+> Q28. In a knapsack problem, if a set of items are given, each with a weight and a value, the goal is to find the number of items that ___ the total weight and ___          the total value.
+
+    a. Minimizes, Minimizes
+    b. Maximizes, Maximizes
+    c. Maximizes, Minimizes
+    d. Minimizes, Maximizes 
+
+**Answer  :** Option d
+
+> Q29. In what manner is a state-space tree for a backtracking algorithm constructed ?
+
+    A. Depth First Search
+    B. Breadth First Search
+    C. Twice around the tree
+    D. Nearest neighbour first
+
+**Answer  :** Option A
+
+> Q30. Backtracking algorithm is faster than the brute force technique.
+
+    A. True
+    B. False
+
+**Answer  :** True
