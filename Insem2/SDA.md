@@ -391,3 +391,73 @@ The **Answer : Option c**
     d.  All of the mentioned
     
 The **Answer : Option d**
+
+>Q15. Which of the following pattern is the basis of interaction management in many web-based systems?
+
+    a.  model-view-controller
+    b.  architecture pattern
+    c.  repository pattern
+    d.  different operating system
+    
+The **Answer : Option a**
+
+>Q16. In ____________, components are presented on different platforms and several components can cooperate with one another over a communication network in order to achieve a specific objective or goal.
+
+    a.  Distributed Architecture
+    b.  Interaction-Oriented Architecture
+    c.  Object Oriented Architecture
+    d.  Hierarchical Architecture
+    
+The **Answer : Option a**
+
+>Q17. Which of the following are Hierarchical architectural styles?
+
+    a.  Main-subroutine
+    b.  Master-slave
+    c.  MVC
+    d.  both a and b
+    
+The **Answer : Option d**
+
+>Q18. In ______ model, the server is only responsible for data management.
+
+    a.  Thin-client model
+    b.  Fat-client model
+    c.  logical model
+    d.  None of the above
+    
+The **Answer : Option b**
+
+>Q19. ______ model is simply responsible for running the presentation software.
+
+    a.  Thin-client model
+    b.  Fat-client model
+    c.  logical model
+    d.  None of the above
+    
+The **Answer : Option a**
+
+>Q20. In a ___________, each of the application architecture layers may execute on a separate processor
+
+    a.  Thin-client model
+    b.  Fat-client model
+    c.  three-tier architecture
+    d.  None of the above
+    
+The **Answer : Option c**
+
+>Q21. CORBA is :
+
+    a.  2-tier architecture.
+    b.  3-tier architecture.
+    c.  middleware architecture.
+    d.  None of the above
+    
+The **Answer : Option c**
+
+>Q22. Broker is responsible for coordinating communication, such as forwarding and dispatching the results and exceptions (True/False)
+
+    a.  True
+    b.  False
+    
+The **Answer : Option a**
