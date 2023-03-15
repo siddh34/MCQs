@@ -47,7 +47,7 @@
 
 **Answer  :** Option C
 
-> Q6. ______is the first step in solving the problem ?
+> Q6. ___ is the first step in solving the problem ?
 
     A. Understanding the Problem
     B. Identify the Problem
@@ -56,7 +56,7 @@
 
 **Answer**  : Option B
 
-> Q7. The  correctness  and  appropriateness  of  ___________ solution  can  be  checked  very easily.
+> Q7. The  correctness  and  appropriateness  of  ___________  solution  can  be  checked  very easily.
 
     A. Algorithmic solution 
     B. heuristic solution
@@ -83,7 +83,7 @@
 
 **Answer  :** Option A
 
-> Q10. Partition and exchange sort is____________  
+> Q10. Partition and exchange sort is______  
 
     A. Quick sort
     B. Tree sort
@@ -725,93 +725,93 @@
 
 > Q16. Who published the eight queens puzzle
 
-    a) Max Bezzel
-    b) Carl
-    c) Gauss
-    d) Friedrich
+    A. Max Bezzel
+    B. Carl
+    C. Gauss
+    D. Friedrich
 
-**Answer  :** Option a
+**Answer  :** Option A
 
 > Q17. For how many queens was the extended version of Eight Queen Puzzle applicable for n*n squares
 
-    a) 5
-    b) 6
-    c) 8
-    d) n
+    A. 5
+    B. 6
+    C. 8
+    D. n
 
-**Answer  :** Option d
+**Answer  :** Option D
 
 > Q18. Who proposed the depth first backtracking algorithm
 
-    a) Edsger Dijkshtra
-    b) Max Bezzel
-    c) Frank Nauck
-    d) Carl Friedrich
+    A. Edsger Dijkshtra
+    B. Max Bezzel
+    C. Frank Nauck
+    D. Carl Friedrich
 
-**Answer  :** Option a
+**Answer  :** Option A
 
 > Q19. How many solutions are there for 8 queens on 8*8 board
 
-    a) 12
-    b) 91
-    c) 92
-    d) 93
+    A. 12
+    B. 91
+    C. 92
+    D. 93
 
-**Answer  :** Option c
+**Answer  :** Option C
 
 > Q20. In how many directions do queens attack each other
 
-    a) 1
-    b) 2
-    c) 3
-    d) 4
+    A. 1
+    B. 2
+    C. 3
+    D. 4
 
-**Answer  :** Option c
+**Answer  :** Option C
 
 > Q21.  Where is the n-queens problem implemented
 
-    a) carom
-    b) chess
-    c) ludo
-    d) cards
+    A. carom
+    B. chess
+    C. ludo
+    D. cards
 
-**Answer  :** Option b
+**Answer  :** Option B
 
 > Q22. Branch and bound is a _
 
-    a) problem solving technique
-    b) data structure
-    c) sorting algorithm
-    d) type of tree
+    A. problem solving technique
+    B. data structure
+    C. sorting algorithm
+    D. type of tree
 
-**Answer  :** Option a
+**Answer  :** Option A
 
 > Q23. Which data structure is most suitable for implementing best first branch and bound strategy
 
-    a) stack
-    b) queue
-    c) priority queue
-    d) linked list
+    A. stack
+    B. queue
+    C. priority queue
+    D. linked list
 
-**Answer  :** Option c
+**Answer  :** Option C
 
 > Q24. What is the condition for proper coloring of a graph
 
-    a) two vertices having a common edge should not have same color
-    b) two vertices having a common edge should always have same color
-    c) all vertices should have a different color
-    d) all vertices should have same color
+    A. two vertices having a common edge should not have same color
+    B. two vertices having a common edge should always have same color
+    C. all vertices should have a different color
+    D. all vertices should have same color
 
-**Answer  :** Option a
+**Answer  :** Option A
 
 > Q25.  What is a chromatic number
 
-    a) The maximum number of colors required for proper edge coloring of graph
-    b) The maximum number of colors required for proper vertex coloring of graph
-    c) The minimum number of colors required for proper vertex coloring of graph
-    d) The minimum number of colors required for proper edge coloring of graph
+    A. The maximum number of colors required for proper edge coloring of graph
+    B. The maximum number of colors required for proper vertex coloring of graph
+    C. The minimum number of colors required for proper vertex coloring of graph
+    D. The minimum number of colors required for proper edge coloring of graph
 
-**Answer  :** Option c
+**Answer  :** Option C
 
 > Q26. Travelling salesman problem is an example of__
 
@@ -824,21 +824,21 @@
 
 > Q27. ___ organizes details of all candidate solutions and discards large subsets of fruitless candidates by using upper and lower estimated bounds of the quantity              being optimized.
 
-    a. Approximation algorithms
-    b. Dynamic programming
-    c. Greedy algorithm
-    d. Branch and Bound 
+    A. Approximation algorithms
+    B. Dynamic programming
+    C. Greedy algorithm
+    D. Branch and Bound 
 
-**Answer  :** Option d
+**Answer  :** Option D
 
 > Q28. In a knapsack problem, if a set of items are given, each with a weight and a value, the goal is to find the number of items that ___ the total weight and ___          the total value.
 
-    a. Minimizes, Minimizes
-    b. Maximizes, Maximizes
-    c. Maximizes, Minimizes
+    A. Minimizes, Minimizes
+    B. Maximizes, Maximizes
+    C. Maximizes, Minimizes
     d. Minimizes, Maximizes 
 
-**Answer  :** Option d
+**Answer  :** Option D
 
 > Q29. In what manner is a state-space tree for a backtracking algorithm constructed ?
 
