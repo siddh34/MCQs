@@ -559,3 +559,12 @@ The **Answer : Option a**
     d.  None of the mentioned above
     
 The **Answer : Option c**
+
+>Q4. ______ design patterns lets you add or remove objects at runtime.
+
+    a.  Builder design patterns
+    b.  Abstract Factory Design Pattern
+    c.  Prototype design patterns.
+    d.  Factory Design Pattern
+    
+The **Answer : Option c**
