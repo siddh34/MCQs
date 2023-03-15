@@ -589,3 +589,91 @@
     D. Mapping
 
 **Answer  :** Option C
+
+## Unit 3
+
+> Q1. Which of the problems can be solved by backtracking method
+
+    A. n-queen problem
+    B. subset sum problem
+    C. hamiltonian circuit problem
+    D. All above 
+
+**Answer  :** Option D
+
+> Q2. Backtracking algorithm is implemented by constructing a tree of choices called as
+
+    A. State-space tree
+    B. State-chart tree
+    C. Node tree
+    D. Backtracking tree
+
+**Answer  :** Option A 
+
+> Q3. What happens when the backtracking algorithm reaches a complete solution
+
+    A. It backtracks to the root
+    B. It continues searching for other possible solutions
+    C. It traverses from a different route
+    D. Recursively traverses through the same route
+
+**Answer  :** Option B
+
+> Q4. A node is said to be ___ if it has a possibility of reaching a complete solution.
+
+    A. Non-promising
+    B. Promising
+    C. Succeeding
+    D. Preceding
+
+**Answer  :** Option B
+
+> Q5. In what manner is a state-space tree for a backtracking algorithm constructed
+
+    A. Depth-first search
+    B. Breadth-first search
+    C. Twice around the tree
+    D. Nearest neighbour first
+
+**Answer  :** Option A
+
+> Q6. The leaves in a state-space tree represent only complete solutions.
+
+    A. True
+    B. False
+
+**Answer  :** Option B
+
+> Q7. In general, backtracking can be used to solve
+
+    A. Numerical problems
+    B. Exhaustive search
+    C. Combinatorial problems
+    D. Graph coloring problems
+
+**Answer  :** Option C
+
+> Q8. Which one of the following is an application of the backtracking algorithm
+
+    A. Finding the shortest path
+    B. Finding the efficient quantity to shop
+    C. Ludo
+    D. Crossword
+
+**Answer  :** Option D
+
+> Q9. Backtracking algorithm is faster than the brute force technique
+
+    A. True
+    B. False
+
+**Answer  :** Option A
+
+> Q10. Which of the following logical programming languages is not based on backtracking
+
+    A. Icon
+    B. Prolog
+    C. Planner
+    D. Fortran
+
+**Answer  :** Option D
