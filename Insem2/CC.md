@@ -216,7 +216,7 @@ Q27. Read the Image & choose
 
 Q28. Read the Image & choose
 
-![Img 6](./Images/CC%20MCQ%2028.png)
+![Img 7](./Images/CC%20MCQ%2028.png)
 
 ## UNIT 2 AWS
 
