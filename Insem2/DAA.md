@@ -322,7 +322,7 @@
     C. J2,J4,J5
     D. None of Above
     
-**Answer  :** Option 
+**Answer  :** Option C
 
 > Which statements are correct related to Greedy strategy
 
@@ -338,11 +338,11 @@
 
     A. Mergesort çan have a worst-case time complexity of O(n^2) when the merging is poorly done 
     B. Other than the requirement of storing n elements, Quicksort has a space complexity of O(log n) due to the recursive call stack 
-    C. Quicksort is better in terms of worst-case sorting performance and may be a better choice for scenarios where memory usage is nota concern
+    C. Quicksort is better in terms of worst-case sorting performance and may be a better choice for scenarios where memory usage is not a concern
     D. In terms of time complexity, both Quicksort and Mergesort algorithms have the same average case time complexity of O(nlogn)
     E. Other than the requirement of storing n elements, Mergesort has a space complexity of O(n) due to the need to create temporary arrays to merge subarrays.
     
-**Answer  :** B,C,E 
+**Answer  :** B,D,E 
 
 > Given the recurrence relation of an algorithm is T(n)=8T(n/2)+n, what is it's time complexity as per master's theorem? 
 
@@ -364,7 +364,7 @@
 
 > For 0/1 knapsack problem solved usng dynamic progranmng, to lraceback the solution from the avalable, filled, 2 D, Kn xm] table of optinmal sub solutions, what needs   to be done? Select all correct answers. 
 
-    A. Start fronn last cell, ie. extreme bottom right cell ie. K[n,m]
+    A. Start from last cell, ie. extreme bottom right cell ie. K[n,m]
     B. Start from the first, i.e. extreme left uppermost cell i.e. K|1,1]
     C. If K[i,j]=K[i-1,j] then this means that ith object=0 (is not selected)
     D. If K[i,j]!=K[i-1,j] , then this means that ith object=l (is selected)
@@ -394,20 +394,19 @@
     
     A. c(1,2)=48 and r(3,4) =n3
     B. c(1,2)=45 and r(3,4)=n3 
-    C. c(1.2)=43 and r(3,4)=n4
-    D. c(1.2)=45 and r(3,4)=n4
+    C. c(1,2)=43 and r(3,4)=n4
+    D. c(1,2)=45 and r(3,4)=n4
     
 **Answer  :** Option 
 
 > What is correct asymptotically?
     
     A. If a function is O(n) it is also O(n^2), and O(n^3)
-    B. Ifa function is O(n^3) it is also O(n)
+    B. If a function is O(n^3) it is also O(n)
     C. If a function is Ω (n^2) it is also Ω(n) and Ω(1) 
     D. o(n^2) = 2n^2 +8
-    E. If a function is Ω(n^2) and also O(n^2), it is also θ(n^2)
     
-**Answer  :** 
+**Answer  :** Option A,C 
 
 ## Unit 2
 
