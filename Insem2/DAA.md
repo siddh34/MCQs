@@ -304,7 +304,7 @@
     C. It is a sublinear algorithm
     D. Algorithm has non polynomial time complexity
     
-**Answer  :** Option B && D 
+**Answer  :** Option B
 
 >  Select correct statements regarding multi-stage graph problem
 
@@ -322,7 +322,7 @@
     C. J2,J4,J5
     D. None of Above
     
-**Answer  :** Option B
+**Answer  :** Option 
 
 > Which statements are correct related to Greedy strategy
 
@@ -332,7 +332,7 @@
     D. Greedy strategy generates a single feasible and single optimal solution
     E. Time complexity of Greedy strategy, as per its control abstraction, is O(n)
     
-**Answer  :**  B,C,D,E
+**Answer  :**  B,C
 
 > Select all correct options related to Quicksort and Mergesort. 
 
@@ -397,7 +397,7 @@
     C. c(1.2)=43 and r(3,4)=n4
     D. c(1.2)=45 and r(3,4)=n4
     
-**Answer  :** Option A
+**Answer  :** Option 
 
 > What is correct asymptotically?
     
@@ -407,7 +407,7 @@
     D. o(n^2) = 2n^2 +8
     E. If a function is Ω(n^2) and also O(n^2), it is also θ(n^2)
     
-**Answer  :** A,C,D,E 
+**Answer  :** 
 
 ## Unit 2
 
