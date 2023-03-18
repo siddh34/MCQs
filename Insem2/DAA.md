@@ -97,9 +97,9 @@
     A. Quick sort
     B. Insertion sort
     C. Merge sort
-    D. Bubble
+    D. A & C
 
-**Answer  :** Option C
+**Answer  :** A & C
 
 > Q12. The time complexity of a quick sort algorithm which makes use of median, found by an O(n) algorithm, as pivot element is
 
