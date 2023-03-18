@@ -581,7 +581,7 @@
 
 **Answer  :** Option A
 
-> Q20. In job sequencing with deadlines, an optimal solution is a feasible solution with ___ value.
+> Q20. In job sequencing with deadlines, an optimal solution is a feasible solution with ___ profit.
 
     A. Positive
     B. Negative
