@@ -396,7 +396,7 @@
     C. c(1,2)=43 and r(3,4)=n4
     D. c(1,2)=45 and r(3,4)=n4
 
-**Answer  :** Option B
+**Answer  :** Option D
 
 > What is correct asymptotically?
 
