@@ -514,7 +514,7 @@
 
     A. O(n)
     B. O(n!)
-    C. O(2n)
+    C. O(2^n)
     D. O(n3)
 
 **Answer  :** Option C
