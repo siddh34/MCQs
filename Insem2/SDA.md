@@ -186,7 +186,7 @@ The **Answer : Option c**
     b.  Class behavior
     c.  Functions
     d.  Object & Class behavior
-    
+
 The **Answer : Option d**
 
 >Q22. What is multiplicity for an association?
@@ -195,14 +195,14 @@ The **Answer : Option d**
     b.  The multiplicity at the target class end of an association is the number of instances that can be associated with a number instance of source class
     c.  All of the mentioned
     d.  None of the mentioned
-    
+
 The **Answer : Option a**
 
 >Q23. PSD’s are Finite State Diagrams ? (True/False)
 
     a.  True
     b.  False
-    
+
 The **Answer : Option a**
 
 >Q24. Stages of JSD?
@@ -211,7 +211,7 @@ The **Answer : Option a**
     b.  Network stage
     c.  Implementation stage
     d.  All of the mentioned
-    
+
 The **Answer : Option d**
 
 >Q25. Which of the following model in system modelling depicts the static nature of the system ?
@@ -220,7 +220,7 @@ The **Answer : Option d**
     b.  External Model
     c.  Behavioral Model
     d.  Data Model
-    
+
 The **Answer : Option a**
 
 >Q26. The UML supports event-based modeling using ____________ diagrams.
@@ -229,7 +229,7 @@ The **Answer : Option a**
     b.  Collaboration   
     c.  State chart
     d.  All of the above
-    
+
 The **Answer : Option c**
 
 >Q27. Which of the following is true?
@@ -238,7 +238,7 @@ The **Answer : Option c**
     b.  Model-driven engineering is just a theoretical concept.
     c.  Model-driven engineering cannot be converted into a working/executable code.
     d.  All of the above
-    
+
 The **Answer : Option a**
 
 >Q28. Which of the following diagram is not supported by UML considering Data-driven modeling ?
@@ -247,7 +247,7 @@ The **Answer : Option a**
     b.  Data Flow Diagram (DFD)
     c.  State Chart
     d.  Component
-    
+
 The **Answer : Option b**
 
 >Q29. Which diagram of UML represent Interaction modeling?
@@ -256,7 +256,7 @@ The **Answer : Option b**
     b.  Sequence
     c.  State Chart
     d.  Both a and b
-    
+
 The **Answer : Option d**
 
 >Q30. The __________ model helps in representing the system's dynamic behavior.
@@ -265,7 +265,7 @@ The **Answer : Option d**
     b.  Context Model
     c.  Behavioral Model
     d.  Data Model
-    
+
 The **Answer : Option c**
 
 ## UNIT 2 MCQ's
@@ -276,14 +276,14 @@ The **Answer : Option c**
     b.  Context Model
     c.  Architectural design
     d.  Data Model
-    
+
 The **Answer : Option c**
 
 >Q2. Architectural design is a creative process satisfying only functional-requirements of a system.
 
     a.  True
     b.  False
-    
+
 The **Answer : Option b**
 
 >Q3. What are types of Data Centered Architecture?
@@ -292,7 +292,7 @@ The **Answer : Option b**
     b.  Blackboard Architecture Style
     c.  Batch sequential
     d.  Both a and b
-    
+
 The **Answer : Option d**
 
 >Q4. What are Types of Fliters in Pipe and filter Architecture?
@@ -301,7 +301,7 @@ The **Answer : Option d**
     b.  Passive filter
     c.  Facilitated filter
     d.  Both a and b
-    
+
 The **Answer : Option d**
 
 >Q5. The UML was designed for describing _________
@@ -310,7 +310,7 @@ The **Answer : Option d**
     b.  architectural design
     c.  SRS
     d.  Both object-oriented systems and Architectural design
-    
+
 The **Answer : Option d**
 
 >Q6. Which of the following view shows that the system is composed of interacting processes at run time?
@@ -319,7 +319,7 @@ The **Answer : Option d**
     b.  logical
     c.  process
     d.  development
-    
+
 The **Answer : Option c**
 
 >Q7. Which of the following is not included in Architectural design decisions?
@@ -328,7 +328,7 @@ The **Answer : Option c**
     b.  distribution of the system
     c.  architectural styles
     d.  testing the system
-    
+
 The **Answer : Option d**
 
 >Q8. Which of the following is an independent user interface and captures the behavior of application problem domain?
@@ -337,7 +337,7 @@ The **Answer : Option d**
     b.  repository pattern
     c.  Model-View-Controller
     d.  Presentation-Abstraction-Control
-    
+
 The **Answer : Option c**
 
 >Q9. Presentation-Abstraction-Control has which of following components?
@@ -346,7 +346,7 @@ The **Answer : Option c**
     b.  The process component
     c.  The control component
     d.  Both a and c
-    
+
 The **Answer : Option d**
 
 >Q10. Presentation-Abstraction-Control has which of following components?
@@ -355,14 +355,14 @@ The **Answer : Option d**
     b.  The process component
     c.  The control component
     d.  Both a and c
-    
+
 The **Answer : Option d**
 
 >Q11. MVC is an agent-based hierarchical architecture but PAC does not have a clear hierarchical structure. (True/False)
 
     a.  True
     b.  False
-    
+
 The **Answer : Option b**
 
 >Q12. What describes how a set of interacting components can share data?
@@ -371,7 +371,7 @@ The **Answer : Option b**
     b.  architecture pattern
     c.  repository pattern
     d.  none of the mentioned
-    
+
 The **Answer : Option c**
 
 >Q13. Which view in architectural design shows the key abstractions in the system as objects or object classes?
@@ -380,7 +380,7 @@ The **Answer : Option c**
     b.  development
     c.  logical
     d.  process
-    
+
 The **Answer : Option c**
 
 >Q14. Which of the following is a type of Architectural Model?
@@ -389,7 +389,7 @@ The **Answer : Option c**
     b.  Dynamic process model
     c.  Distribution model
     d.  All of the mentioned
-    
+
 The **Answer : Option d**
 
 >Q15. Which of the following pattern is the basis of interaction management in many web-based systems?
@@ -398,7 +398,7 @@ The **Answer : Option d**
     b.  architecture pattern
     c.  repository pattern
     d.  different operating system
-    
+
 The **Answer : Option a**
 
 >Q16. In ____________, components are presented on different platforms and several components can cooperate with one another over a communication network in order to achieve a specific objective or goal.
@@ -407,7 +407,7 @@ The **Answer : Option a**
     b.  Interaction-Oriented Architecture
     c.  Object Oriented Architecture
     d.  Hierarchical Architecture
-    
+
 The **Answer : Option a**
 
 >Q17. Which of the following are Hierarchical architectural styles?
@@ -416,7 +416,7 @@ The **Answer : Option a**
     b.  Master-slave
     c.  MVC
     d.  both a and b
-    
+
 The **Answer : Option d**
 
 >Q18. In ______ model, the server is only responsible for data management.
@@ -425,7 +425,7 @@ The **Answer : Option d**
     b.  Fat-client model
     c.  logical model
     d.  None of the above
-    
+
 The **Answer : Option b**
 
 >Q19. ______ model is simply responsible for running the presentation software.
@@ -434,7 +434,7 @@ The **Answer : Option b**
     b.  Fat-client model
     c.  logical model
     d.  None of the above
-    
+
 The **Answer : Option a**
 
 >Q20. In a ___________, each of the application architecture layers may execute on a separate processor
@@ -443,7 +443,7 @@ The **Answer : Option a**
     b.  Fat-client model
     c.  three-tier architecture
     d.  None of the above
-    
+
 The **Answer : Option c**
 
 >Q21. CORBA is :
@@ -452,14 +452,14 @@ The **Answer : Option c**
     b.  3-tier architecture.
     c.  middleware architecture.
     d.  None of the above
-    
+
 The **Answer : Option c**
 
 >Q22. Broker is responsible for coordinating communication, such as forwarding and dispatching the results and exceptions (True/False)
 
     a.  True
     b.  False
-    
+
 The **Answer : Option a**
 
 >Q23. Data-centered architectures promote
@@ -468,7 +468,7 @@ The **Answer : Option a**
     b.  Integrability
     c.  Maintenance
     d.  None of the above
-    
+
 The **Answer : Option b**
 
 >Q24. Data-Flow Architectures is suitable to apply when
@@ -477,7 +477,7 @@ The **Answer : Option b**
     b.  Input data transformed through recursive process
     c.  Input data does not transform through defined process
     d.  None of the above
-    
+
 The **Answer : Option a**
 
 >Q25. If the data flow degenerates into a single line of transforms, is called
@@ -486,7 +486,7 @@ The **Answer : Option a**
     b.  Batch sequential
     c.  Data flow process
     d.  None of the mentioned above
-    
+
 The **Answer : Option b**
 
 >Q26. Object-Oriented Architectures is specially used for
@@ -495,7 +495,7 @@ The **Answer : Option b**
     b.  To manipulate the data
     c.  Communication between defined components are accomplished through message passing
     d.  All of the mentioned above
-    
+
 The **Answer : Option d**
 
 >Q27. Layered Architectures encompasses
@@ -504,14 +504,14 @@ The **Answer : Option d**
     b.  Each layer accomplishes operations
     c.  Closer to the machine instruction set
     d.  All of the mentioned above
-    
+
 The **Answer : Option d**
 
 >Q28. In Layered Architectures, outer layer defines interface operations; inner layer defines operating system interfacing while intermediate layers provide utility services and application software functions.
 
     a.  True
     b.  False
-    
+
 The **Answer : Option a**
 
 >Q29. Amongst which of the following is / are the correct with reference to significance of architectural design,
@@ -520,14 +520,14 @@ The **Answer : Option a**
     b.  It highlights early design decisions
     c.  It constitutes a relatively small, intellectually graspable model of how the system is structured
     d.  All of the mentioned above
-    
+
 The **Answer : Option d**
 
 >Q30. The decision metaphor represents architecture as the product of decisions.
 
     a.  True
     b.  False
-    
+
 The **Answer : Option a**
 
 ## UNIT 3 MCQ's
@@ -539,7 +539,7 @@ operator.
     b.  Creational design patterns
     c.  Behavioral design patterns.
     d.  None of the mentioned above
-    
+
 The **Answer : Option c**
 
 >Q2. ______ design patterns concern class and object composition.
@@ -548,7 +548,7 @@ The **Answer : Option c**
     b.  Creational design patterns
     c.  Behavioral design patterns.
     d.  None of the mentioned above
-    
+
 The **Answer : Option a**
 
 >Q3. ______ design patterns are specifically concerned with communication between objects.
@@ -557,7 +557,7 @@ The **Answer : Option a**
     b.  Creational design patterns
     c.  Behavioral design patterns.
     d.  None of the mentioned above
-    
+
 The **Answer : Option c**
 
 >Q4. ______ design patterns lets you add or remove objects at runtime.
@@ -566,7 +566,7 @@ The **Answer : Option c**
     b.  Abstract Factory Design Pattern
     c.  Prototype design patterns.
     d.  Factory Design Pattern
-    
+
 The **Answer : Option c**
 
 >Q5. Major parts to the Builder design pattern implementation are :
@@ -575,41 +575,41 @@ The **Answer : Option c**
     b.  Builder
     c.  Executor
     d.  All of the above
-    
+
 The **Answer : Option d**
 
 >Q6. The Singleton Design Pattern is used when there should only be one instance of a given class.(True/False)
 
     a.  True
     b.  False
-    
+
 The **Answer : Option a**
 
->Q7. ________ pattern says "to reuse the object that are expensive to create". 
+>Q7. ________ pattern says "to reuse the object that are expensive to create".
 
     a.  Factory Design Pattern
     b.  Abstract Factory Design Pattern
     c.  Singleton Design Pattern
     d.  Object Pool Design Pattern
-    
+
 The **Answer : Option d**
 
->Q8. ________ pattern is also known as Wrapper. 
+>Q8. ________ pattern is also known as Wrapper.
 
     a.  Factory Design Pattern
     b.  Adapter Design Pattern
     c.  Singleton Design Pattern
     d.  Object Pool Design Pattern
-    
+
 The **Answer : Option b**
 
->Q9. ________ is used to reduce communication complexity between multiple objects or classes. 
+>Q9. ________ is used to reduce communication complexity between multiple objects or classes.
 
     a.  Mediator Design Pattern
     b.  Adapter Design Pattern
     c.  Singleton Design Pattern
     d.  Object Pool Design Pattern
-    
+
 The **Answer : Option a**
 
 >Q10. Which of the following pattern a request is wrapped under an object as command and passed to invoker object?
@@ -618,7 +618,7 @@ The **Answer : Option a**
     b.  Chain of Responsibility Pattern
     c.  Command Pattern
     d.  Interpreter Pattern
-    
+
 The **Answer : Option c**
 
 >Q11. Which of the following describes the Strategy pattern correctly?
@@ -627,7 +627,7 @@ The **Answer : Option c**
     b.  In this pattern, a null object replaces check of NULL object instance.
     c.  In this pattern, a class behavior or its algorithm can be changed at run time.
     d.  In this pattern, an abstract class exposes defined way(s)/template(s) to execute its methods
-    
+
 The **Answer : Option c**
 
 >Q12. In which of the following pattern an interface is responsible for creating a factory of related objects without explicitly specifying their classes?
@@ -636,7 +636,7 @@ The **Answer : Option c**
     b.  Abstract Factory Pattern
     c.  Singleton Pattern
     d.  Transfer Object Pattern
-    
+
 The **Answer : Option b**
 
 >Q13. Which of the following is the correct list of entities of MVC pattern?
@@ -645,14 +645,14 @@ The **Answer : Option b**
     b.  Model, View, Control
     c.  Middle, View, Controller
     d.  Model, Viewer, Control
-    
+
 The **Answer : Option a**
 
 >Q14. Can we create a clone of a singleton object?
 
     a.  True
     b.  False
-    
+
 The **Answer : Option a**
 
 >Q15. Which of the following describes the Bridge pattern correctly?
@@ -661,7 +661,7 @@ The **Answer : Option a**
     b.  This pattern refers to creating duplicate object while keeping performance in mind.
     c.  This pattern is used when creation of object directly is costly.
     d.  This pattern is used when we need to decouple an abstraction from its implementation so that the two can vary independently.
-    
+
 The **Answer : Option d**
 
 >Q16. Which of the following pattern is used where we need to treat a group of objects in similar way as a single object?
@@ -670,7 +670,7 @@ The **Answer : Option d**
     b.  Facade Pattern
     c.  Flyweight Pattern
     d.  Decorator Pattern
-    
+
 The **Answer : Option a**
 
 >Q17. Which of the following pattern provides a way to evaluate language grammar or expression?
@@ -679,7 +679,7 @@ The **Answer : Option a**
     b.  Facade Pattern
     c.  Flyweight Pattern
     d.  Interpreter Pattern
-    
+
 The **Answer : Option d**
 
 >Q18. Pattern Description Parameters are
@@ -688,7 +688,7 @@ The **Answer : Option d**
     b.  Problem
     c.  Forces
     d.  all of the above
-    
+
 The **Answer : Option d**
 
 >Q19. Which design pattern provides a single class which provides simplified methods required by client and delegates call to those methods?
@@ -697,7 +697,7 @@ The **Answer : Option d**
     b.  Facade Pattern
     c.  Flyweight Pattern
     d.  Interpreter Pattern
-    
+
 The **Answer : Option b**
 
 >Q20. Which design pattern ensures that only one object of particular class gets created?
@@ -706,7 +706,7 @@ The **Answer : Option b**
     b.  Facade Pattern
     c.  Flyweight Pattern
     d.  Interpreter Pattern
-    
+
 The **Answer : Option a**
 
 >Q21. Which design pattern suggests multiple classes through which request is passed and multiple but only relevant classes carry out operations on the request?
@@ -715,7 +715,7 @@ The **Answer : Option a**
     b.  Facade Pattern
     c.  Chain of responsibility pattern
     d.  Interpreter Pattern
-    
+
 The **Answer : Option c**
 
 >Q22. Which design pattern represents a way to access all the objects in a collection?
@@ -724,14 +724,14 @@ The **Answer : Option c**
     b.  Iterator pattern
     c.  Chain of responsibility pattern
     d.  Interpreter Pattern
-    
+
 The **Answer : Option b**
 
 >Q23. Is design pattern a logical concept.
 
     a.  True
     b.  False
-    
+
 The **Answer : Option a**
 
 >Q24. Which design pattern works on data and action taken based on data provided?
@@ -740,7 +740,7 @@ The **Answer : Option a**
     b.  Iterator pattern
     c.  Chain of responsibility pattern
     d.  Command pattern
-    
+
 The **Answer : Option d**
 
 >Q25. Which of the below author is not a part of GOF (Gang of Four)?
@@ -749,7 +749,7 @@ The **Answer : Option d**
     b.  Gang Pattern
     c.  Richard Helm
     d.  Ralph Johnson
-    
+
 The **Answer : Option b**
 
 >Q26. Design patterns can be classified in _______ categories.
@@ -758,7 +758,7 @@ The **Answer : Option b**
     b.  2
     c.  3
     d.  4
-    
+
 The **Answer : Option c**
 
 >Q27. Factory pattern is one of most used design pattern in Java.
@@ -767,7 +767,7 @@ The **Answer : Option c**
     b.  FALSE
     c.  Can be true or false
     d.  Can not say
-    
+
 The **Answer : Option a**
 
 >Q28. _________ works as a bridge between two incompatible interfaces.
@@ -776,7 +776,7 @@ The **Answer : Option a**
     b.  Adapter pattern
     c.  Bridge pattern
     d.  Filter pattern
-    
+
 The **Answer : Option b**
 
 >Q29. Suppose you need to create new objects by copying an existing object. Which of the following patterns would you most likely use?
@@ -785,7 +785,7 @@ The **Answer : Option b**
     b.  Builder
     c.  Prototype
     d.  Singleton
-    
+
 The **Answer : Option c**
 
 >Q30. Suppose you need to define an interface for creating instances of several related abstract classes without specifying their concrete subclasses. Which of the following patterns would you most likely use?
@@ -794,5 +794,5 @@ The **Answer : Option c**
     b.  Builder
     c.  Prototype
     d.  Singleton
-    
+
 The **Answer : Option a**
