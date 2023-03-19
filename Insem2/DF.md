@@ -105,54 +105,54 @@ Ans. 3
 
 Q12.Rule of Thumb:
 
-    make 2 copies and don’t work from the original
-    make 2 copies and work from the original
-    make 1 copies and don’t work from the original
-    make 1 copies and work from the original
+    1.make 2 copies and don’t work from the original
+    2.make 2 copies and work from the original
+    3.make 1 copies and don’t work from the original
+    4.make 1 copies and work from the original
 
 Ans. make 2 copies and don’t work from the original
 
 Q13. Working from a duplicate image
 
-    Preserves the original evidence
-    Prevents inadvertent alteration of original evidence during examination
-    Allows recreation of the duplicate image if necessary
-    All
+    1.Preserves the original evidence
+    2.Prevents inadvertent alteration of original evidence during examination
+    3.Allows recreation of the duplicate image if necessary
+    4.All
 
 Ans. All
 
 Q14. ________write blockers are becoming the industry standard
 
-    Hardware 
-    Software
-    Both 
-    None
+    1.Hardware 
+    2.Software
+    3.Both 
+    4.None
 
 Ans. Hardware
 
 Q15. Often the _________ is found in the residual data.
 
-    Evidence
-    Crime
-    Smoking Gun
-    Killing Gun
+    1.Evidence
+    2.Crime
+    3.Smoking Gun
+    4.Killing Gun
 
 And. 3
 
 Q16. How do we demonstrate that the image is a true unaltered copy of the original?
 
-    Hashing MD5 
-    RSA
-    Hashing SHA 256
-    None
+    1.Hashing MD5 
+    2.RSA
+    3.Hashing SHA 256
+    4.None
 
 Ans. Both A n C
 
 Q17. Which is False?
 
-    lack of certification for tools
-    lack of certification for professionals
-    lack of certification by Judiciary
-    lack of curriculum accreditation
+    1.lack of certification for tools
+    2.lack of certification for professionals
+    3.lack of certification by Judiciary
+    4.lack of curriculum accreditation
 
 Ans. 3
