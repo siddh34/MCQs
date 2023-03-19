@@ -2,6 +2,8 @@
 
 * These questions are created for **The purpose of practice**
 
+* CIE Questions are also included
+
 * Before proceeding very important to visit this drive first
 
   [DAA Drive Link](https://drive.google.com/drive/folders/1fJq3jB_7gJ-KcELcZRcOol4l515oJA-r?usp=sharing)
