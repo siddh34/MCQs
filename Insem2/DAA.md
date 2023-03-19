@@ -1,5 +1,11 @@
 # DAA MCQ's
 
+* These questions are created for **The purpose of practice**
+
+* Before proceeding very important to visit this drive first
+
+  [DAA Drive Link](https://drive.google.com/drive/folders/1fJq3jB_7gJ-KcELcZRcOol4l515oJA-r?usp=sharing)
+
 ## Unit 1  
 
 > Q1. An ___ is defined as a set of well-defined instructions used to accomplish a particular task.
