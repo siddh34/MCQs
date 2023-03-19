@@ -319,7 +319,7 @@
 
     A. J1,J2,J3 
     B. J5,J4,J1 
-    C. J2,J4,J5
+    C. J2,J4,J1
     D. None of Above
 
 **Answer  :** Option C
@@ -352,15 +352,6 @@
     D. θ(n^2 log^2(n))
 
 **Answer  :** Option A
-
-> For the problem of job sequencing with deadlines, where each job requires 1 unit time to complete, on the single available machine, select the optimal solution sequence for the 5 jobs -J1,J2,J3,J4,J5 where their respective (profits, deadlines) are given in following tuples ((12,3), (15,2), (9,1), (18,2), (7,3).
-
-    A. J1,J2,J3
-    B. J3,J2,J1
-    C. J5,J4,J1
-    D. J4,J2,J1
-
-**Answer  :** Option D
 
 > For 0/1 knapsack problem solved usng dynamic progranmng, to lraceback the solution from the avalable, filled, 2 D, Kn xm] table of optinmal sub solutions, what needs   to be done? Select all correct answers.
 
