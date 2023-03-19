@@ -184,7 +184,7 @@
 
 > 21.What is the result of the recurrences which fall under first case of Master’s theorem (let the recurrence be given by T(n)=aT(n/b)+f(n) and f(n)=nc?
 
-    A. T(n) = O(n^logba)
+    A. T(n) = Θ(n^logba) 
     B. T(n) = O(nc log n)
     C. T(n) = O(f(n))
     D. T(n) = O(n2)
