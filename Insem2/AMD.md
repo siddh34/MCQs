@@ -411,3 +411,257 @@ Q10. Agile Modeling (AM) provides guidance to practitioner during which of these
     D. Testing
 
 Answer: both a & b
+
+Q11. What is the difference between functional and non-functional requirements?
+
+    a. Functional requirements describe the behavior of the software, while non-functional requirements describe its characteristics.
+
+    b. Functional requirements are mandatory, while non-functional requirements are optional.
+
+    c. Functional requirements are specific, while non-functional requirements are general.
+
+Answer: a. Functional requirements describe the behavior of the software, while non-functional requirements describe its characteristics.
+
+Q12. Which of the following is an example of a non-functional requirement?
+
+    a. The system should allow users to log in with a username and password.
+    b. The system should display the user's name after logging in.
+    c. The system should be able to process 1000 transactions per second.
+
+Answer: c. The system should be able to process 1000 transactions per second.
+
+Q13. What is the purpose of the software requirements document?
+
+    a. To describe the software system's design.
+    b. To provide a detailed description of the software system's requirements.
+    c. To list the software development tasks and schedule.
+
+Answer: b. To provide a detailed description of the software system's requirements.
+
+Q14. Which of the following is not included in the requirements specification?
+
+    a. Functional requirements.
+    b. Non-functional requirements.
+    c. Acceptance criteria.
+    d. Design specifications.
+
+Answer: d. Design specifications.
+
+Q15. Which of the following is not a phase in the requirements engineering process?
+
+    a. Requirements elicitation and analysis.
+    b. Implementation.
+    c. Requirements validation.
+    d. Requirements management.
+
+Answer: b. Implementation.
+
+Q16. What is requirements elicitation?
+
+    a. The process of documenting requirements.
+    b. The process of designing the software system.
+    c. The process of gathering information from stakeholders to identify software requirements.
+
+Answer: c. The process of gathering information from stakeholders to identify software requirements.
+
+Q17. Which of the following is a technique for requirements elicitation?
+
+    a. Interviews.
+    b. Implementation.
+    c. Testing.
+    d. Documentation.
+
+Answer: a. Interviews.
+
+Q18. Which of the following is an example of a requirement validation technique?
+
+    a. Prototyping.
+    b. Testing.
+    c. Inspection.
+    d. All of the above.
+
+Answer: d. All of the above.
+
+Q19. What is the purpose of requirements management?
+
+    a. To ensure that the requirements are complete, consistent, and traceable throughout the software development process.
+    b. To design the software system.
+    c. To implement the software system.
+
+Answer: a. To ensure that the requirements are complete, consistent, and traceable throughout the software development process.
+
+Q20. Which of the following is not a requirement management task?
+
+    a. Requirements analysis.
+    b. Requirements tracking.
+    c. Implementation.
+    d. Requirements prioritization.
+
+Answer: c. Implementation.
+
+Q21. Which of the following is a functional requirement?
+
+    a. The system should be user-friendly.
+    b. The system should be able to handle 1000 users.
+    c. The system should be compatible with Windows 10.
+
+Answer: b. The system should be able to handle 1000 users.
+
+Q22. Which of the following is a non-functional requirement?
+a. The system should be able to calculate taxes.
+b. The system should be able to process orders.
+c. The system should be responsive.
+Answer: c. The system should be responsive.
+
+Q23. Which of the following is a requirements validation technique?
+
+    a. Interviews.
+    b. Prototyping.
+    c. Inspection.
+    d. Testing.
+
+Answer: d. Testing.
+
+Q24. Which of the following is a requirement management tool?
+
+    a. Microsoft Word.
+    b. JIRA.
+    c. Photoshop.
+    d. Excel.
+
+Q25. What is the purpose of a traceability matrix?
+
+    a. To identify stakeholders.
+    b. To track the progress of software development.
+    c. To ensure that each requirement is linked to a source and test case.
+
+Answer: c. To ensure that each requirement is linked to a source and test case.
+
+Q26. Which of the following is a technique for requirements analysis?
+
+    a. Brainstorming.
+    b. Testing.
+    c. Implementation.
+    d. None of the above.
+
+Answer: a. Brainstorming.
+
+Q27. What is the purpose of a use case diagram?
+
+    a. To describe the functionality of the software system.
+    b. To identify stakeholders.
+    c. To specify non-functional requirements.
+
+Answer: a. To describe the functionality of the software system.
+
+Q28. Which of the following is a requirement elicitation tool?
+
+    a. JIRA.
+    b. Gantt chart.
+    c. User story.
+    d. Implementation plan.
+
+Answer: c. User story.
+
+Q29. Which of the following is not a requirement analysis technique?
+
+    a. Interviews.
+    b. Brainstorming.
+    c. Prototyping.
+    d. Implementation.
+
+Answer: d. Implementation.
+
+Q30. What is the purpose of a requirement prioritization technique?
+
+    a. To ensure that each requirement is complete.
+    b. To identify stakeholders.
+    c. To rank requirements in order of importance.
+
+Answer: c. To rank requirements in order of importance.
+
+Q31. Which of the following is not a requirement validation technique?
+
+    a. Inspection.
+    b. Testing.
+    c. Implementation.
+    d. Walkthrough.
+
+Answer: c. Implementation.
+
+Q32. What is the purpose of a requirements review?
+
+    a. To identify stakeholders.
+    b. To ensure that requirements are complete and consistent.
+    c. To design the software system.
+
+Answer: b. To ensure that requirements are complete and consistent.
+
+Q33. Which of the following is a non-functional requirement for a web application?
+
+    a. The application should allow users to create an account.
+    b. The application should be able to handle 1000 users.
+    c. The application should load within 3 seconds.
+
+Answer: c. The application should load within 3 seconds.
+
+Q34. Which of the following is not a requirement management tool?
+
+    a. JIRA.
+    b. Trello.
+    c. Microsoft Word.
+    d. Photoshop.
+
+Answer: c
+
+Q35. Which of the following is a requirements engineering process?
+
+    a. Coding.
+    b. Testing.
+    c. Requirements elicitation and analysis.
+    d. Maintenance.
+
+Answer: c. Requirements elicitation and analysis.
+
+Q36. Which of the following is not a requirements elicitation technique?
+
+    a. Interviews.
+    b. Questionnaires.
+    c. Implementation.
+    d. Observation.
+
+Answer: c. Implementation.
+
+Q37. What is the purpose of a requirements specification?
+
+    a. To identify stakeholders.
+    b. To provide a detailed description of the software system's requirements.
+    c. To design the software system.
+
+Answer: b. To provide a detailed description of the software system's requirements.
+
+Q38. Which of the following is not a requirements validation technique?
+
+    a. Inspection.
+    b. Testing.
+    c. Documentation.
+    d. Walkthrough.
+
+Answer: c. Documentation.
+
+Q39. Which of the following is a non-functional requirement for a mobile application?
+
+    a. The application should allow users to make payments.
+    b. The application should be compatible with iOS and Android.
+    c. The application should be able to run for 5 hours on a single charge.
+
+Answer: c. The application should be able to run for 5 hours on a single charge.
+
+Q40. Which of the following is a requirement management task?
+
+    a. Requirements analysis.
+    b. Coding.
+    c. Testing.
+    d. Maintenance.
+
+Answer: a. Requirements analysis.
