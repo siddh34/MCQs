@@ -19,7 +19,7 @@ Q2. Primary objective of Military
     2. Continuity of opertaions
     3. Availability of service
 
-Ans. 1
+Ans. 2
 
 Q3. Cyber forensics activities commonly include
 

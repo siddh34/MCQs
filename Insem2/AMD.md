@@ -328,7 +328,7 @@ Q7. A user story sample: As an accountant, I would like the account screen to be
 
     D.It does not say who exactly needs it
 
-Answer: B
+Answer: C
 
 Q8. A team’s average velocity is 10 with a maximum of 12 and minimum of 8. The release backlog is sized at 72. How many sprints should the team commit to?
 
@@ -492,6 +492,212 @@ Q22. What must the team discuss in a sprint planning meeting?
     D. Who on the development team will be on-call during weekends
 
 Answer: A
+
+Q23. Which of the following is not an agile process?
+
+    a. SCRUM
+    b. Crystal
+    c. Waterfall
+    d. Extreme Programming
+
+Answer: c
+
+Q24. What is Lean Production?
+
+    a. A software development methodology
+    b. A manufacturing process
+    c. An agile process
+    d. A project management tool
+
+Answer: b
+
+Q25. What is the main focus of SCRUM?
+
+    a. Managing the project budget
+    b. Creating a detailed project plan
+    c. Delivering working software frequently
+    d. Assigning specific tasks to team members
+
+Answer: c
+
+Q26. What is the Feature Driven Development (FDD)?
+
+    a. A project management tool
+    b. A software development methodology
+    c. An agile process
+    d. A manufacturing process
+
+Answer: b
+
+Q27. Which of the following is not a phase in Extreme Programming (XP) lifecycle?
+    a. Exploration
+    b. Planning
+    c. Coding
+    d. Documentation
+
+Answer: d
+
+Q28. What is the role of a customer in Extreme Programming (XP)?
+
+    a. Writing code
+    b. Testing the software
+    c. Prioritizing the features
+    d. Managing the project budget
+Answer: c
+
+Q29. Which of the following is not a work product in SCRUM?
+
+    a. Sprint Backlog
+    b. Burn Down Chart
+    c. Product Backlog
+    d. Software Architecture
+
+Answer: d
+
+Q30. What is the main focus of Crystal methodology?
+
+    a. Delivering working software frequently
+    b. Creating a detailed project plan
+    c. Assigning specific tasks to team members
+    d. Managing the project budget
+
+Answer: a
+
+Q31. Which of the following is not a principle of Adaptive Software Development (ASD)?
+
+    a. Continuous learning and improvement
+    b. Focus on team collaboration and communication
+    c. Emphasis on extensive documentation
+    d. Flexibility and adaptability to change
+
+Answer: c
+
+Q32. Which of the following is not a role in Feature Driven Development (FDD)?
+
+    a. Chief Programmer
+    b. Domain Expert
+    c. Feature Owner
+    d. Quality Assurance Manager
+Answer: d
+
+Q33. What is the main focus of Extreme Programming (XP) practices?
+
+    a. Creating a detailed project plan
+    b. Delivering working software frequently
+    c. Assigning specific tasks to team members
+    d. Managing the project budget
+
+Answer: b
+
+Q34.What is the main objective of Lean Production in software development?
+
+    a. Reduce waste and increase efficiency
+    b. Increase documentation and process overhead
+    c. Increase team specialization and siloing
+    d. Focus on individual performance over team performance
+Answer: a
+
+Q35. What is the primary advantage of using SCRUM as an agile process?
+
+    a. Improved communication and collaboration among team members
+    b. Greater emphasis on documentation and planning
+    c. Enhanced individual performance metrics
+    d. Strict adherence to a predetermined project plan
+Answer: a
+
+Q36. Which of the following is not a practice in Crystal methodology?
+
+    a. Incremental development and delivery
+    b. Team-based approach to development
+    c. Focus on automation and tools
+    d. Heavy emphasis on up-front planning and documentation
+Answer: d
+
+Q37. What is the primary benefit of using Adaptive Software Development (ASD)?
+
+    a. Greater flexibility and adaptability to change
+    b. Increased predictability and adherence to a predetermined plan
+    c. Enhanced individual performance metrics
+    d. Emphasis on process overhead and bureaucracy
+Answer: a
+
+Q38. What is the main objective of Feature Driven Development (FDD)?
+
+    a. Delivering working software frequently
+    b. Minimizing waste and inefficiencies
+    c. Building a comprehensive project plan
+    d. Emphasizing individual performance over team performance
+Answer: a
+
+Q39. Which of the following is not a practice in Extreme Programming (XP)?
+    a. Pair programming
+    b. Test-driven development
+    c. Continuous integration
+    d. Comprehensive documentation
+Answer: d
+
+Q40. What is the primary benefit of using Lean Production in software development?
+
+    a. Increased efficiency and productivity
+    b. Greater emphasis on documentation and planning
+    c. Enhanced individual performance metrics
+    d. Strict adherence to a predetermined project plan
+Answer: a
+
+Q41. Which of the following is not a work product in Feature Driven Development (FDD)?
+
+    a. Feature list
+    b. Class ownership diagram
+    c. Sprint backlog
+    d. Software architecture document
+Answer: c
+
+Q42. What is the primary objective of the Adaptive Software Development (ASD) lifecycle?
+
+    a. Delivering working software frequently
+    b. Minimizing waste and inefficiencies
+    c. Building a comprehensive project plan
+    d. Emphasizing individual performance over team performance
+Answer: a
+
+What is the main advantage of using Crystal methodology in software development?
+a. Greater emphasis on documentation and planning
+b. Enhanced individual performance metrics
+c. Team-based approach to development
+d. Strict adherence to a predetermined project plan
+Answer: c
+
+Q43.Which of the following is not a role in SCRUM?
+
+    a. Scrum Master
+    b. Product Owner
+    c. Development Manager
+    d. Development Team
+Answer: c
+
+Q44.Which of the following is not a practice in Adaptive Software Development (ASD)?
+
+    a. Timeboxing
+    b. Specification by Example
+    c. Continuous learning and improvement
+    d. Comprehensive documentation
+Answer: d
+
+Q45.Which of the following is not a core practice in Extreme Programming (XP)?
+
+    a. Continuous Integration
+    b. Refactoring
+    c. Incremental Delivery
+    d. Formal Change Management
+Answer: d
+
+Q46.What is the primary benefit of using Crystal methodology in software development?
+
+    a. Greater emphasis on documentation and planning
+    b. Enhanced individual performance metrics
+    c. Increased predictability and adherence to a predetermined plan
+    d. Improved team communication and collaboration
+Answer: d
 
 ## Unit 3
 
