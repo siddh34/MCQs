@@ -1,5 +1,13 @@
 # AMD
 
+* Very Important to visit this drive first
+
+* The soul purpose here is **practice**
+
+* Drive contains ( AMD at a glance ) & previous AMD CIE questions
+
+  [AMD Drive](https://drive.google.com/drive/folders/1xpDsqcRhClaJgqYjIjsBhR-9N3uxUg60?usp=sharing)
+
 ## Unit 1
 
 Q1. Which of the following would be considered most valuable by an agile team?
