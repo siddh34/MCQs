@@ -2,6 +2,8 @@
 
 * Please go through the drive where CIE questions are added
 
+* The soul purpose here is **practice**
+
     [DF Drive](https://drive.google.com/drive/folders/1f8yJxOgtWXAsKa6N8FMwMHgFj7A0mb4f?usp=sharing)
 
 ## Unit 1
