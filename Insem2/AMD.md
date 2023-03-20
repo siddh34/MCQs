@@ -110,6 +110,140 @@ Q9. A company adopted a strategy that each member of a successful agile team wil
 
 Answer: A
 
+Q10. When was the Agile Manifesto written?
+
+    A) 1991
+    B) 2001
+    C) 2010
+    D) 2015
+
+Answer: B
+
+Q11. The first principle of the Agile Manifesto believes individuals and interactions are _____ processes and tools.
+
+    A) More important than
+    B) Less important than
+    C) Equally important as
+    D) Just as important as
+
+Answers: A
+
+Q12. Why does the Agile Manifesto de-emphasize extensive documentation early in the project?
+
+    A) Software must be working before documentation can be written.
+    B) Not enough requirements are known to write documentation.
+    C) Rapidly changing requirements would make the documentation outdated.
+    D) Documentation can only be written after testing.
+
+Answer: C
+
+Q13. Which set of priorities below is the opposite of the ideals put forth in the Agile Manifesto?
+
+    A. Processes and tools over individuals and interactions
+    B. Working software over comprehensive documentation
+    C. Customer collaboration over contract negotiation
+    D. Responding to change over following a plan
+
+Answer: A
+
+Q14. Which of these Agile terms is paired with its correct definition?
+
+    A. User personas: a summary of a feature from the user's perspective
+    B. Use cases: a characterization of your intended end user
+    C. User stories: documentation of user paths through an app
+    D. Acceptance criteria: what needs to be done for a user story to be achieved
+
+Answer: B
+
+Q15. Which metric is relevant to Agile software development?
+
+    A. Throughput
+    B. lead time
+    C. Cycle time
+    D. All the above
+
+Answer: D
+
+Q16. Which of the following is/are the advantages of using agile methodology?
+
+    A. Customer is satisfied.
+    B. Application’s development is rapid.
+    C. Last-moment changes are also accepted.
+    D. All of the above.
+
+Answer: D
+
+Q17.  Does every iteration in agile methodology go through a testing phase?
+
+    A.Yes
+    B.No
+
+Answer: A
+
+Q18. Agile project management is classified into how many frameworks?
+
+    A. 2
+    B. 3
+    C. 4
+    D. 5
+
+Answer: A) 2
+
+Q19. Which framework helps the team to work together?
+
+    A. Scrum
+    B. Kanban
+
+Answer: A) Scrum
+
+Q20. What do you mean by DSDM in agile methodology?
+
+    A. Dynamic system development methodology
+    B. Development of system dynamic development
+    C. Dynamic software development method
+
+Answer: C) Dynamic software development method
+
+Q21. Which of the following are involved in releasing the plan?
+
+    A. Product owner
+    B. Scrum master
+    C. Development team
+    D. Stakeholders
+    E. All of the above
+
+Answer: E) All of the above
+
+Q22. Which chart represents the amount of work done in the project?
+
+    A. Burn-up chart
+    B. Burn down chart
+
+Answer: A) Burn-up chart
+
+Q23. Which chart represents the amount of work remaining in the project?
+
+    A. Burn-up chart
+    B. Burn down chart
+
+Answer: B) Burn down chart
+
+Q24. Are daily stand-ups important in agile methodology?
+
+    A. Yes
+    B. No
+
+Answer: A) YES
+
+Q25. Which of the following frameworks are used in agile methodology?
+
+    A. FDD
+    B. Kanban
+    C. Scrum
+    D. All of the above
+
+Answer: D) All of the above
+
 ## Unit 2
 
 Q1. A scrum team should share the progress reports and project updates with:
@@ -220,7 +354,7 @@ Q9. What should the Scrum Master do when the team’s estimates in a planning po
 
 Answer: D
 
-Q10. A team had started a release with a backlog of 550 points. During the first three sprints, they completed 120 points. Stories worth 30 points were added, and 10 points were removed from the scope. What is the position of the burndown bar chart?
+Q10.  A team had started a release with a backlog of 550 points. During the first three sprints, they completed 120 points. Stories worth 30 points were added, and 10 points were removed from the scope. What is the position of the burndown bar chart?
 SELECT THE CORRECT ANSWER
 
     A.Top is at 430 points and bottom at -20
@@ -311,6 +445,51 @@ Q17. Scrum-ban is a Scrum and Kanban-based model for software development.
     B. FALSE
     C. Can be true or false
     D. Can not say
+
+Answer: A
+
+Q18. What primarily distinguishes Scrum from its superset Agile?
+
+    A. An iterative and incremental development approach
+    B. A flexibility to constantly changing software requirements
+    C. Post-release review meetings
+    D. A set of predetermined roles
+
+Answer: D
+
+Q19. Which of the following options is not part of an Agile software development framework or model?
+
+    A. Kanban
+    B. Extreme Programming
+    C. Feature-driven development
+    D. Spiral
+
+Answer: D
+
+Q20. What topic falls outside the scope of a well-run daily stand-up meeting?
+
+    A. Recently completed tasks
+    B. Current obstacles
+    C. Planning out an iteration or sprint
+    D. None
+
+Answer: C
+
+Q21. What should teams do before Agile sprint planning and execution?
+
+    A. Find a large enough collaboration space
+    B. Compile a list of necessary QA and dev tools
+    C. Gather software requirements
+    D. All
+
+Answer: C
+
+Q22. What must the team discuss in a sprint planning meeting?
+
+    A. When and how they will deliver backlog items
+    B. Whether this or an alternative project would deliver more business value
+    C. Who will be the Scrum master
+    D. Who on the development team will be on-call during weekends
 
 Answer: A
 
