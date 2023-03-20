@@ -34,7 +34,7 @@ Q2. A scrum team should share the progress reports and project updates with:
 
 Answer: A
 
-Q3. Q. A team is trying to decide between two design patterns to solve a problem and is debating which would work better. What is the best way to arrive at a decision?
+Q3. A team is trying to decide between two design patterns to solve a problem and is debating which would work better. What is the best way to arrive at a decision?
 
     A.Ask the customer
 
