@@ -160,3 +160,228 @@ Q17. Which is False?
     4.lack of curriculum accreditation
 
 Ans. 3
+
+Unit 2
+
+Q1.What are the three formats of digital evidence storage according to Guide to Computer Forensics and Investigations Fourth Edition?
+
+    A) Raw format, Proprietary formats, Advanced Forensics Format (AFF)
+    B) Raw format, PDF format, AFF
+    C) JPEG format, Proprietary formats, AFF
+    D) Raw format, ZIP format, AFF
+Answer: A
+
+Q2.What is the advantage of using raw format for data acquisition?
+
+    A) It can compress the image files
+    B) It can integrate metadata into the image file
+    C) It can ignore minor data read errors on source drive
+    D) It can share an image between different tools
+Answer: C 1
+
+Q3. What is the design goal of Advanced Forensics Format (AFF)?
+
+    A) To provide compressed or uncompressed image files with no size restriction and space for metadata
+    B) To provide encrypted or decrypted image files with no size restriction and space for metadata
+    C) To provide compressed or uncompressed image files with a fixed size restriction and space for metadata
+    D) To provide encrypted or decrypted image files with a fixed size restriction and space for metadata
+
+Answer: A
+
+Q4. What are the four methods of data acquisition according to Guide to Computer Forensics and Investigations Fourth Edition?
+
+    A) Bit-stream disk-to-image file, Bit-stream disk-to-disk, Logical disk-to-disk or disk-to-disk data, Sparse data copy of a file or folder
+    B) Bit-stream disk-to-image file, Bit-stream disk-to-tape, Logical disk-to-tape or tape-to-tape data, Sparse data copy of a file or folder
+    C) Bit-stream disk-to-image file, Bit-stream disk-to-disk, Logical tape-to-tape or tape-to-disk data , Sparse data copy of a file or folder
+    D) Bit-stream tape-to-image file , Bit-stream tape-to-tape , Logical tape-to-tape or tape-to-disk data , Sparse data copy of a file or folder
+
+Answer: A
+
+Q5. What is ProDiscover?
+
+    A) A remote network acquisition tool
+    B) A bit-stream disk-to-image file tool
+    C) A logical disk-to-disk data tool
+    D) A RAID acquisition tool
+Answer: A
+
+Q6. What is SnapCopy?
+
+    A) A bit-stream disk-to-image file tool
+    B) A bit-stream disk-to-disk tool
+    C) A logical disk-to-disk data tool
+    D) A RAID acquisition tool
+Answer: B
+
+Q7. What is a feature of Advanced Forensics Format (AFF)?
+
+    A) It can compress or not compress image files
+    B) It can split an image into smaller segmented files
+    C) It can integrate metadata into the image file
+    D) All of the above
+
+Answer: D
+
+Q8. What is a digital signature?
+
+A) A method of verifying the authenticity and integrity of a digital evidence file
+B) A method of encrypting and decrypting a digital evidence file
+C) A method of compressing and decompressing a digital evidence file
+D) None of the above
+
+Answer: A
+
+Q9. What are some tools for validating data acquisitions?
+
+    A) MD5sum and SHA-1
+    B) EnCase and FTK
+    C) ProDiscover and LiveWire
+    D) SnapCopy and SafeBack
+
+Answer: A
+
+Q10. What is a hash value?
+
+    A) An alphanumeric string that uniquely identifies a digital evidence file 
+    B) An alphanumeric string that randomly changes a digital evidence file 
+    C) An alphanumeric string that compresses a digital evidence file 
+    D) None of the above 
+Answer: A
+
+Q11. What does RAID stand for?
+
+    A) Redundant Array of Independent Disks 
+    B) Redundant Array of Inexpensive Disks 
+    C) Random Access Interleaved Data Storage 
+    D) Both A and B are correct 
+Answer: D
+
+Q12. What are some challenges in performing RAID data acquisitions?
+
+    A) Determining the RAID level and configuration parameters 
+    B) Dealing with large size and complex structure of RAID disks 
+    C) Recovering data from damaged or missing RAID disks 
+    D) All of the above are correct
+Answer: D
+
+Q13. What are some tools for performing RAID data acquisitions?
+
+    A) RAID Reconstructor and Captain Nemo Pro
+    B) ProDiscover and WetStone LiveWire
+    C) EnCase and FTK
+    D) Both A and C are correct
+Answer: D
+
+Q14. What is a benefit of using remote network acquisition tools?
+
+    A) They can acquire data from a suspect computer without physical access
+    B) They can acquire data from a suspect computer without network connection
+    C) They can acquire data from a suspect computer without encryption
+    D) None of the above
+Answer: A
+
+Q15. What are some examples of remote network acquisition tools?
+
+    A) ProDiscover and WetStone LiveWire
+    B) SnapCopy and SafeBack
+    C) EnCase and FTK
+    D) Both A and C are correct
+
+Answer: D
+
+Q16. What is a challenge of using remote network acquisition tools?
+
+    A) They require a stable network connection 
+    B) They require a digital signature 
+    C) They require a lossless compression D) None of the above 
+Answer: A
+
+Q17. What is RAFT?
+
+    A) Remote Acquisition Forensic Tool 
+    B) Redundant Array Forensic Tool 
+    C) Random Access Forensic Tool 
+    D) None of the above are correct
+Answer: A
+
+Q18. What is Rekall?
+
+    A) A tool for acquiring running memory from instances in cloud computing environments
+    B) A tool for acquiring disk images from instances in cloud computing environments
+    C) A tool for acquiring network traffic from instances in cloud computing environments
+    D) None of the above are correct
+Answer: A
+
+Unit 3
+
+Q1. What is a file system?
+
+    A) A method of naming and organizing files for storage and retrieval
+    B) A method of encrypting and decrypting files for security
+    C) A method of compressing and decompressing files for efficiency
+    D) None of the above
+Answer: A
+
+Q2. What is metadata?
+
+    A) Data that describes other data
+    B) Data that modifies other data
+    C) Data that duplicates other data
+    D) None of the above
+Answer: A
+
+Q3. What are sectors?
+
+    A) The smallest units of data storage on a disk 
+    B) The largest units of data storage on a disk 
+    C) The intermediate units of data storage on a disk 
+    D) None of the above 
+Answer: A
+
+Q4. What is NTFS?
+
+    A) New Technology File System 
+    B) Network Transfer File System 
+    C) Non-Text File System 
+    D) None of the above 
+Answer: A
+
+Q5. What is a registry?
+
+    A) A database that stores configuration settings and options for Windows OS and applications
+    B) A database that stores user accounts and passwords for Windows OS and applications
+    C) A database that stores log files and events for Windows OS and applications
+    D) None of the above
+Answer: A
+
+Q6. What is Prefetch?
+
+    A) A folder that contains information about applications that are frequently used by Windows OS
+    B) A folder that contains information about devices that are frequently connected to Windows OS
+    C) A folder that contains information about updates that are frequently downloaded by Windows OS
+    D) None of the above
+Answer: A
+
+Q7. What is EXT2?
+
+    A) An extended file system for Linux OS
+    B) An encrypted file system for Linux OS
+    C) An executable file system for Linux OS
+    D) None of the above
+Answer: A
+
+Q8. What is auth log?
+
+    A) A log file that records login and authentication processes in Linux OS  
+    B) A log file that records authorization and access control processes in Linux OS  
+    C) A log file that records audit and accountability processes in Linux OS  
+    D) None of the above 
+Answer: A
+
+Q9. What is Rekall?
+
+    A) A tool for acquiring running memory from instances in cloud computing environments
+    B) A tool for acquiring disk images from instances in cloud computing environments
+    C) A tool for acquiring network traffic from instances in cloud computing environments
+    D) None of the above
+Answer: A
