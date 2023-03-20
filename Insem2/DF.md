@@ -224,10 +224,10 @@ Answer: D
 
 Q8. What is a digital signature?
 
-A) A method of verifying the authenticity and integrity of a digital evidence file
-B) A method of encrypting and decrypting a digital evidence file
-C) A method of compressing and decompressing a digital evidence file
-D) None of the above
+    A) A method of verifying the authenticity and integrity of a digital evidence file
+    B) A method of encrypting and decrypting a digital evidence file
+    C) A method of compressing and decompressing a digital evidence file
+    D) None of the above
 
 Answer: A
 
