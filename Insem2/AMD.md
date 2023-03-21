@@ -638,6 +638,7 @@ Q38. What is the main objective of Feature Driven Development (FDD)?
 Answer: a
 
 Q39. Which of the following is not a practice in Extreme Programming (XP)?
+
     a. Pair programming
     b. Test-driven development
     c. Continuous integration
@@ -668,14 +669,15 @@ Q42. What is the primary objective of the Adaptive Software Development (ASD) li
     d. Emphasizing individual performance over team performance
 Answer: a
 
-What is the main advantage of using Crystal methodology in software development?
-a. Greater emphasis on documentation and planning
-b. Enhanced individual performance metrics
-c. Team-based approach to development
-d. Strict adherence to a predetermined project plan
+Q43.What is the main advantage of using Crystal methodology in software development?
+
+    a. Greater emphasis on documentation and planning
+    b. Enhanced individual performance metrics
+    c. Team-based approach to development
+    d. Strict adherence to a predetermined project plan
 Answer: c
 
-Q43.Which of the following is not a role in SCRUM?
+Q44.Which of the following is not a role in SCRUM?
 
     a. Scrum Master
     b. Product Owner
@@ -683,7 +685,7 @@ Q43.Which of the following is not a role in SCRUM?
     d. Development Team
 Answer: c
 
-Q44.Which of the following is not a practice in Adaptive Software Development (ASD)?
+Q45.Which of the following is not a practice in Adaptive Software Development (ASD)?
 
     a. Timeboxing
     b. Specification by Example
@@ -691,7 +693,7 @@ Q44.Which of the following is not a practice in Adaptive Software Development (A
     d. Comprehensive documentation
 Answer: d
 
-Q45.Which of the following is not a core practice in Extreme Programming (XP)?
+Q46.Which of the following is not a core practice in Extreme Programming (XP)?
 
     a. Continuous Integration
     b. Refactoring
@@ -699,7 +701,7 @@ Q45.Which of the following is not a core practice in Extreme Programming (XP)?
     d. Formal Change Management
 Answer: d
 
-Q46.What is the primary benefit of using Crystal methodology in software development?
+Q47.What is the primary benefit of using Crystal methodology in software development?
 
     a. Greater emphasis on documentation and planning
     b. Enhanced individual performance metrics
