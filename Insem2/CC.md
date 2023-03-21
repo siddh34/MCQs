@@ -1,5 +1,11 @@
 # CC MCQs
 
+* Soul purpose here is **practice**
+
+* Very Important to visit this drive link below
+
+  [CC Drive](https://drive.google.com/drive/folders/1gz2DXJWGvmvlQ3hSpgmZvWxkVUQ_4ya6?usp=sharing)
+
 ## UNIT 1 Fundamentals
 
 Q1. The Media Access Control Sublayer resides in which OSI layer ?
