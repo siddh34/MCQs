@@ -81,7 +81,7 @@ Q9. A proxy firewall filters at the
 
 Answer: Option B
 
-Q10. A proxy firewall filters at the
+Q10. A Packet filter firewall filters at the
 
     A. physical layer
     B. application layer
