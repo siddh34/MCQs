@@ -609,6 +609,25 @@ Q43. Which AWS service should be used to monitor Amazon EC2 instances for CPU an
 
 Answer: C
 
+Q44. A company is launching an application in the AWS Cloud. The application will use Amazon S3 storage. A large team of researchers will have shared access to the data. The company must be able to recover data that is accidentally overwritten or deleted.
+Which S3 feature should the company turn on to meet this requirement?
+
+    A. Server access logging
+    B. S3 Versioning
+    C. S3 Lifecycle rules
+    D. Encryption in transit and at rest
+
+Answer: B
+
+Q45. Service control policies (SCPs) manage permissions for which of the following?
+
+    A. Availability Zones
+    B. AWS Regions
+    C. AWS Organizations
+    D. Edge locations
+
+Answer: C
+
 ## UNIT 3 Terraform
 
 Q1. What is the file format of Terraform code files?
