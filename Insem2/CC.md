@@ -436,6 +436,179 @@ Q25. Which service helps you reduce development time and complexity of Machine L
 
 Answer: Option 1
 
+Q26. For which of the following AWS resources, the Customer is responsible for the infrastructure-related security configurations?
+
+    A. Amazon RDS
+    B. Amazon DynamoDB
+    C. Amazon EC2
+    D. AWS Fargate
+
+Answer: C
+
+Q27. Which of the below-listed services is a region-based AWS service?
+
+    A. AWS IAM
+    B. Amazon EFS
+    C. Amazon Route 53
+    D. Amazon CloudFront
+
+Answer: B
+
+Q28. A company is planning to replace its physical on-premises compute servers with AWS serverless compute services. The company wants to be able to take advantage of advanced technologies quickly after the migration.
+Which pillar of the AWS Well-Architected Framework does this plan represent?
+
+    A. Security
+    B. Performance efficiency
+    C. Operational excellence
+    D. Reliability
+
+Answer: B
+
+Q29. Which component of the AWS global infrastructure is made up of one or more discrete data centers that have redundant power, networking, and connectivity?
+
+    A. AWS Region
+    B. Availability Zone
+    C. Edge location
+    D. AWS Outposts
+
+Answer: B
+
+Q30. A company wants to migrate a critical application to AWS. The application has a short runtime. The application is invoked by changes in data or by shifts in system state. The company needs a compute solution that maximizes operational efficiency and minimizes the cost of running the application.
+Which AWS solution should the company use to meet these requirements?
+
+    A. Amazon EC2 On-Demand Instances
+    B. AWS Lambda
+    C. Amazon EC2 Reserved Instances
+    D. Amazon EC2 Spot Instances
+
+Answer: B
+
+Q31. A company plans to create a data lake that uses Amazon S3.
+Which factor will have the MOST effect on cost?
+
+    A. The selection of S3 storage tiers Most Voted
+    B. Charges to transfer existing data into Amazon S3
+    C. The addition of S3 bucket policies
+    D. S3 ingest fees for each request
+
+Answer: A
+
+Q32. Which task requires using AWS account root user credentials?
+
+    A. Viewing billing information
+    B. Changing the AWS Support plan
+    C. Starting and stopping Amazon EC2 instances
+    D. Opening an AWS Support case
+
+Answer: B
+
+Q33. What is the scope of a VPC within the AWS network?
+
+    A. A VPC can span all Availability Zones globally.
+    B. A VPC must span at least two subnets in each AWS Region.
+    C. A VPC must span at least two edge locations in each AWS Region.
+    D. A VPC can span all Availability Zones within an AWS Region.
+
+Answer: D
+
+Q34. A company needs to establish a connection between two VPCs. The VPCs are located in two different AWS Regions. The company wants to use the existing infrastructure of the VPCs for this connection.
+Which AWS service or feature can be used to establish this connection?
+
+    A. AWS Client VPN
+    B. VPC peering
+    C. AWS Direct Connect
+    D. VPC endpoints
+
+Answer: B
+
+Q35.Which AWS service or feature acts as a firewall for Amazon EC2 instances?
+
+    A. Network ACL
+    B. Elastic network interface
+    C. Amazon VPC
+    D. Security group
+
+Answer: D
+
+Q36. A company has a single Amazon EC2 instance. The company wants to adopt a highly available architecture.
+What can the company do to meet this requirement?
+
+    A. Scale vertically to a larger EC2 instance size.
+    B. Scale horizontally across multiple Availability Zones.
+    C. Purchase an EC2 Dedicated Instance.
+    D. Change the EC2 instance family to a compute optimized instance.
+
+Answer: B
+
+Q37. A company's on-premises application deployment cycle was 3-4 weeks. After migrating to the AWS Cloud, the company can deploy the application in 2-3 days.
+Which benefit has this company experienced by moving to the AWS Cloud?
+
+    A. Elasticity
+    B. Flexibility
+    C. Agility
+    D. Resilience
+
+Answer: C
+
+Q38. Which of the following are advantages of the AWS Cloud? (Choose two.)
+
+    A. AWS management of user-owned infrastructure
+    B. Ability to quickly change required capacity Most Voted
+    C. High economies of scale Most Voted
+    D. Increased deployment time to market
+    E. Increased fixed expenses
+
+Answer: B & C
+
+Q39. A company is developing a mobile app that needs a high-performance NoSQL database.
+Which AWS services could the company use for this database? (Choose two.)
+
+    A. Amazon Aurora
+    B. Amazon RDS
+    C. Amazon Redshift
+    D. Amazon DocumentDB (with MongoDB compatibility)
+    E. Amazon DynamoDB
+
+Answer: D & E
+
+Q40. Which AWS services are managed database services? (Choose two.)
+
+    A. Amazon Elastic Block Store (Amazon EBS)
+    B. Amazon S3
+    C. Amazon RDS
+    D. Amazon Elastic File System (Amazon EFS)
+    E. Amazon DynamoDB
+
+Answer: C & E
+
+Q41. A company recently deployed an Amazon RDS instance in its VPC. The company needs to implement a stateful firewall to limit traffic to the private corporate network.
+Which AWS service or feature should the company use to limit network traffic directly to its RDS instance?
+
+    A. Network ACLs
+    B. Security groups
+    C. AWS WAF
+    D. Amazon GuardDuty
+
+Answer: C
+
+Q42. Which AWS service or feature identifies whether an Amazon S3 bucket or an IAM role has been shared with an external entity?
+
+    A. AWS Service Catalog
+    B. AWS Systems Manager
+    C. AWS IAM Access Analyzer
+    D. AWS Organizations
+
+Answer: C
+
+Q43. Which AWS service should be used to monitor Amazon EC2 instances for CPU and network utilization?
+
+    A. Amazon Inspector
+    B. AWS CloudTrail
+    C. Amazon CloudWatch
+    D. AWS Config
+
+Answer: C
+
 ## UNIT 3 Terraform
 
 Q1. What is the file format of Terraform code files?
