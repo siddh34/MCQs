@@ -903,9 +903,10 @@ Q21. Which of the following is a functional requirement?
 Answer: b. The system should be able to handle 1000 users.
 
 Q22. Which of the following is a non-functional requirement?
-a. The system should be able to calculate taxes.
-b. The system should be able to process orders.
-c. The system should be responsive.
+
+    a. The system should be able to calculate taxes.
+    b. The system should be able to process orders.
+    c. The system should be responsive.
 Answer: c. The system should be responsive.
 
 Q23. Which of the following is a requirements validation technique?
@@ -923,6 +924,8 @@ Q24. Which of the following is a requirement management tool?
     b. JIRA.
     c. Photoshop.
     d. Excel.
+
+Answer: b
 
 Q25. What is the purpose of a traceability matrix?
 
