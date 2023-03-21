@@ -816,3 +816,189 @@ Q21. What of the following is not a source type for a module?
     D. S3
 
 Answer: Option A
+
+Q22. What is a multicloud deployment?
+
+    A. The possibility to run a simple .tf into multiple cloud using a single provider to deploy into multiple cloud providers
+    B. The possibility to run your Terraform code using multiple cloud providers to deploy your infrastructure into multiple cloud providers
+    C. The possibility to run your Terraform code using a single-global provider to deploy your infrastructure into multiple cloud providers
+    D. The possibility to run your Terraform code by other tools such as Amazon Cloudformation
+
+Answer: B
+
+Q23. What is the name of the workspace when you execute “terraform init”?
+
+    A. New
+    B. No workspace is created
+    C. Workspace
+    D. Default
+
+Answer: D
+
+Q24. How can you delete the default workspace?
+
+    A. terraform workspace delete default
+    B. terraform delete workspace default
+    C. terraform workspace -rm default
+    D. None of the options are correct
+
+Answer: D
+
+Q25. How can you view the value of a particular output using the CLI? The output you want to query was declared like
+
+    output “ips” {
+    value = aws_instance.frontend.*.public_ip
+    }
+
+    A. terraform output show
+    B. terraform output show ips
+    C. terraform output
+    D. terraform output ips
+
+Answer: D
+
+Q26. What benefits can provide the Infrastructure as Code for organizations?
+
+    A. IaC can be used to deploy the latest features of Cloud Services
+    B. Share and reusability of the code
+    C. Blueprint of the DataCenter
+    D. Versioning
+
+Answer: B, C & D
+
+Q27. What happens if the locking state fails when executing an operation in Terraform?
+
+    A. Terraform will continuously apply its configuration without modifying the state, then you can execute a Terraform refresh to update the state
+    B. Terraform will continuously apply its configuration and apply changes into the state
+    C. Terraform will not continue to plan/apply any changes
+    D. Terraform will continuous and will force lock the state and will refresh the state
+
+Answer: C
+
+Q28. How do you force users to use a particular version of required providers in your terraform code?
+
+    A. terraform { required_providers { aws = { source = “hashicorp/aws” version =”3.74.1″  } } }
+    B. terraform {     aws = {       source = “hashicorp/aws”       version ~> “3.74.1”     } }
+    C. aws = {       source = “hashicorp/aws”       version = “3.74.1”     }   }
+    D. provider “aws” = {       source = “hashicorp/aws”       version = “3.74.1” }
+
+Answer: A
+
+Q29. What of the following next arguments are not part of the generic meta-arguments for a provider?
+
+    A. Alias
+    B. Version
+    C. Profile
+    D. Region
+
+Answers: C and D
+
+Q30. local-exec invokes a process on the resource that is being created by Terraform.
+
+    A. True
+    B. False
+
+Answer: B
+
+Q31. What are the main advantages to use Terraform as the IaC tool?
+
+    A. Manage infrastructure on multiple cloud providers
+    B. Versioning
+    C. Status of your infrastructure based on a State to track all the resources and components
+    D. All of above
+
+Answer: D
+
+Q32. Is Terraform cloud-agostic?
+
+    A.Yes
+    B.No
+
+Answer: A
+
+Q33. Third-party plugins should be manually installed. Is that true?
+
+    A.True
+    B.False
+
+Answer: A
+
+Q34. What is the command to initialize the directory?
+
+    A. terraform init
+    B. terraform apply
+    C. terraform plan
+    D. terraform destroy
+
+Answer: A
+
+Q35. What is the command to create infrastructure?
+
+    A. terraform init
+    B. terraform apply
+    C. terraform plan
+    D. terraform destroy
+
+Answer: B
+
+Q36. What is the command to show the execution plan and not apply?
+
+    A. terraform init
+    B. terraform apply
+    C. terraform plan
+    D. terraform destroy
+
+Answer: C
+
+Q37. Terraform supports both cloud and on-premises infrastructure platforms. Is this true?
+
+    A.True
+    B.False
+
+Answer: A
+
+Q38. Terraform assumes an empty default configuration for any provider that is not explicitly configured. A provider block can be empty. Is this true?
+
+    A.True
+    B.False
+
+Answer: A
+
+Q39. Terraform CLI versions and provider versions are independent of each other. Is this true?
+
+    A.True
+    B.False
+
+Answer: A
+
+Q40. You are configuring aws provider and it is always recommended to hard code aws credentials in *.tf files. Is this true?
+
+    A.True
+    B.False
+
+Answer: B
+
+Q41. Why do we use modules for?
+
+    A.Organize configuration
+    B.Encapsulate configuration
+    C.Both A & B
+    D.None
+
+Answer: C
+
+Q42. A simple configuration consisting of a single directory with one or more .tf files is a module. Is this true?
+
+    A. True
+    B. False
+
+Answer: A
+
+Q43. Which of the following is the not Core Terraform workflow?
+
+A. Write
+B. Plan
+C. Apply
+D. Destroy
+
+Answer: D
