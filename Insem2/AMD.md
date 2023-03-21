@@ -1010,7 +1010,7 @@ Q34. Which of the following is not a requirement management tool?
     c. Microsoft Word.
     d. Photoshop.
 
-Answer: c
+Answer: d
 
 Q35. Which of the following is a requirements engineering process?
 
