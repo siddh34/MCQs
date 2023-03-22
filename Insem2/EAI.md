@@ -13,7 +13,7 @@
     C.Platform-based design
     D.Peripheral design
 
-Answer: C
+**Answer:** C
 
 > Q2. hich process can be used in analyzing the set of possible designs?
 
@@ -22,7 +22,7 @@ Answer: C
     C.Hardware / Software partitioning
     D.Compilation
 
-Answer: B
+**Answer:** B
 
 > Q3. What is CTL?
 
@@ -31,7 +31,7 @@ Answer: B
     C.computer tree logic
     D.computational tree logic
 
-Answer: C
+**Answer:** C
 
 > Q4. An embedded system is a combination of _______.
 
@@ -40,7 +40,7 @@ Answer: C
     C.Both a and b
     D.Devices
 
-Answer: C
+**Answer:** C
 
 > Q5. Which of the following are the embedded components of plug in based card?
 
@@ -49,7 +49,7 @@ Answer: C
     C.External interfaces
     D.All the above
 
-Answer: D
+**Answer:** D
 
 > Q6. Which of the following designed system factors are minimized for an embedded application?
 
@@ -58,7 +58,7 @@ Answer: D
     C.Performance
     D.Both a and b
 
-Answer: D
+**Answer:** D
 
 > Q7. What is IoT?
 
@@ -67,7 +67,7 @@ Answer: D
     c) network of objects in the ring structure
     d) network of sensors
 
-Answer: a
+**Answer:** a
 
 > Q8. Which of the following is not an IoT device?
 
@@ -76,7 +76,7 @@ Answer: a
     c) Arduino
     d) Tablet
 
-Answer: a
+**Answer:** a
 
 > Q9. Which of the following is not an IoT platform?
 
@@ -85,7 +85,7 @@ Answer: a
     c) Salesforce
     d) Flipkart
 
-Answer: a
+**Answer:** a
 
 > Q10. Which of the following is not a fundamental component of an IoT system?
 
@@ -94,7 +94,7 @@ Answer: a
     c) User interface
     d) Transformer
 
-Answer: d
+**Answer:** d
 
 > Q11. Which layer is used for wireless connection in IoT devices?
     a) Application layer
@@ -102,7 +102,7 @@ Answer: d
     c) Data link layer
     d) Transport layer
 
-Answer: d
+**Answer:** d
 
 > Q12. Which of the following is used to capture data from the physical world in IoT devices?
 
@@ -111,7 +111,7 @@ Answer: d
     c) Microprocessors
     d) Microcontrollers
 
-Answer: a
+**Answer:** a
 
 > Q13. Which of the following is not a sensor in IoT?
 
@@ -120,7 +120,7 @@ Answer: a
     c) Photoresistor
     d) LED
 
-Answer: d
+**Answer:** d
 
 > Q14. What type of computing technology refers to services and applications that typically run on a distributed network through virtualized resources?
 
@@ -129,7 +129,7 @@ Answer: d
     C.Soft Computing
     D.Parallel Computing
 
-Answer: B
+**Answer:** B
 
 > Q15. Which of the following has many features of that is now known as cloud computing?
 
@@ -138,7 +138,7 @@ Answer: B
     C.All of the mentioned
     D.Internet
 
-Answer: D
+**Answer:** D
 
 > Q16. Which one of the following statements is not true?
 
@@ -147,7 +147,7 @@ Answer: D
     C.Soft computing addresses a real paradigm in the way in which the system is deployed.
     D.All of the mentioned
 
-Answer: C
+**Answer:** C
 
 > Q17. Which of the following is not a type of cloud server?
 
@@ -156,7 +156,7 @@ Answer: C
     c) Dedicated Cloud Servers
     d) Merged Cloud Servers
 
-Answer: d
+**Answer:** d
 
 > Q18. Which of the following are the features of cloud computing?
 
@@ -165,7 +165,7 @@ Answer: d
     c) Large Network Access
     d) All of the mentioned
 
-Answer: d
+**Answer:** d
 
 > Q19. Which of the following is a type of cloud computing service?
 
@@ -174,7 +174,7 @@ Answer: d
     c) Software-as-a-Service (SaaS)
     d) Software-as-a-Server (SaaS)
 
-Answer: d
+**Answer:** d
 
 > Q20. Which of the following is the application of cloud computing?
 
@@ -183,7 +183,7 @@ Answer: d
     c) Google G Suite
     d) All of the above
 
-Answer: d
+**Answer:** d
 
 > Q21. Which of the following is the correct statement about cloud computing?
 
@@ -192,14 +192,14 @@ Answer: d
     c) The use of the word “cloud” makes reference to the two essential concepts
     d) All of the mentioned
 
-Answer: a
+**Answer:** a
 
 > Q22. Fog computing is also known as fogging.
 
     a) False
     b) True
 
-Answer: b
+**Answer:** b
 
 > Q23. Fog computing has ____________ and ____________ plane.
 
@@ -208,7 +208,7 @@ Answer: b
     c) Barcode and Data
     d) Data and cloud
 
-Answer: a
+**Answer:** a
 
 > Q24. Which of the following computing emphasizes proximity to end user?
 
@@ -217,7 +217,7 @@ Answer: a
     c) Edge computing
     d) Fog computing
 
-Answer: d
+**Answer:** d
 
 > Q25. QoS stands for ____________
 
@@ -226,7 +226,7 @@ Answer: d
     c) Quality of security
     d) Quality of swarms
 
-Answer: b
+**Answer:** b
 
 > Q26. ___________ practice of using a network of remote servers hosted on the Internet of store.
 
@@ -235,7 +235,7 @@ Answer: b
     c) Cloud computing
     d) Mobile cloud computing
 
-Answer: c
+**Answer:** c
 
 > Q27. OpenFog Consortium defines and extends the application of _______ computing.
 
@@ -244,7 +244,7 @@ Answer: c
     c) Cloud computing
     d) Mobile Cloud computing
 
-Answer: b
+**Answer:** b
 
 > Q28. Fog computing works well in cloud based _______ panel
 
@@ -253,7 +253,7 @@ Answer: b
     c) Control
     d) Fog
 
-Answer: c
+**Answer:** c
 
 > Q29. What is edge computing?
 
@@ -262,7 +262,7 @@ Answer: c
     c.It is distributed information technology
     d.None of the above
 
-Answer: c
+**Answer:** c
 
 > Q30. What are the benefits of edge computing?
 
@@ -271,14 +271,14 @@ Answer: c
     C.Data sovereignty
     D.All of the above
 
-Answer: D
+**Answer:** D
 
 > Q31. Edge computing is the use of any type of computer program that delivers low latency nearer to the requests.
 
     A.True
     B.False
 
-Answer: A
+**Answer:** A
 
 > Q32. What does MQTT stands for?
 
@@ -287,7 +287,7 @@ Answer: A
     C.Message Queue Telemetry Transport
     D.None of the above
 
-Answer: C
+**Answer:** C
 
 ## Unit 2
 
@@ -653,6 +653,68 @@ Answer: C
 
 **Answer:** d) Force and tactile
 
+> Q11. Which of the following types of sensors is used for detecting the presence and location of objects?
+
+    A) Acoustic sensors
+    B) Visual sensors
+    C) Motion sensors
+    D) Force sensors
+
+**Answer:** C) Motion sensors
+
+> Q12. What is the primary source of data for visual and scene sensors?
+
+    A) Sound
+    B) Light
+    C) Heat
+    D) Pressure
+
+**Answer:** B) Light
+
+> Q13. Which type of sensor is used to measure the intensity and direction of electromagnetic waves?
+
+    A) Acoustic sensors
+    B) Optical sensors
+    C) Force sensors
+    D) Radiation sensors
+
+**Answer:** D) Radiation sensors
+
+> Q14. Which type of processor is commonly used for edge AI in low-power and resource-constrained devices?
+
+    A) Deep learning accelerators
+    B) Edge servers
+    C) Microcontrollers and digital signal processors
+    D) FPGAs and ASICs
+
+**Answer:** C) Microcontrollers and digital signal processors
+
+> Q15. Which type of architecture involves the use of multiple devices for edge AI processing?
+
+    A) Multi-device architectures
+    B) Edge servers
+    C) Deep learning accelerators
+    D) FPGAs and ASICs
+
+**Answer:** A) Multi-device architectures
+
+> Q16. Which of the following frameworks is commonly used for edge computing?
+
+    A) TensorFlow
+    B) Apache Spark
+    C) Hadoop
+    D) Kubernetes
+
+**Answer:** A) TensorFlow
+
+> Q17. Which type of sensor is used for measuring physical touch and pressure?
+
+    A) Acoustic sensors
+    B) Force sensors
+    C) Radiation sensors
+    D) Optical sensors
+
+**Answer:** B) Force sensors
 
 
 
