@@ -726,7 +726,7 @@
 **Answer:** C) FPGAs
 
 > Q19. Which type of sensor is used for measuring environmental factors in edge AI inference?
-   
+
     A) Acoustic
     B) Visual
     C) Environmental
@@ -744,7 +744,7 @@
 **Answer:** A) Microcontrollers
 
 > Q21. Which architecture allows multiple edge devices to work together in edge AI inference?
-   
+
     A) System on Chip
     B) Deep learning accelerators
     C) Multi-device architectures
@@ -761,8 +761,7 @@
 
 **Answer:** c) Lower latency for real-time applications
 
-
-> Q23. What is one benefit of inferencing at the edge? 
+> Q23. What is one benefit of inferencing at the edge?
 
     a) It reduces latency and bandwidth requirements for real-time services 
     b) It increases accuracy and performance of large-scale AI models 
@@ -771,7 +770,7 @@
 
 Answer: d
 
-> Q24. What is one challenge of optimizing AI models for edge nodes? 
+> Q24. What is one challenge of optimizing AI models for edge nodes?
 
     a) How to ensure that there is no significant loss in model accuracy after being optimized 
     b) How to increase the depth and width of AI models with nearly constant computation overhead 
@@ -780,7 +779,7 @@ Answer: d
 
 Answer: a
 
-> Q26. What is one general method for model optimization for edge nodes with relatively sufficient resources? 
+> Q26. What is one general method for model optimization for edge nodes with relatively sufficient resources?
 
     a) Model pruning and compression 
     b) Model quantization and binarization 
@@ -789,7 +788,7 @@ Answer: a
 
 Answer: d
 
-> Q27. What is one fine-grained method for model optimization for end devices with tight resource budgets? 
+> Q27. What is one fine-grained method for model optimization for end devices with tight resource budgets?
 
     a) Model pruning and compression 
     b) Model quantization and binarization 
@@ -798,7 +797,7 @@ Answer: d
 
 Answer: b)4
 
-> Q28. What is one type of processor for edge AI that can be customized for specific applications? 
+> Q28. What is one type of processor for edge AI that can be customized for specific applications?
 
     a) Microcontrollers and digital signal processors 
     b) System on Chip 
@@ -807,7 +806,7 @@ Answer: b)4
 
 Answer: d
 
-> Q29. What is one type of processor for edge AI that can run multiple neural networks simultaneously? 
+> Q29. What is one type of processor for edge AI that can run multiple neural networks simultaneously?
 
     a) Microcontrollers and digital signal processors 
     b) System on Chip 
@@ -816,7 +815,7 @@ Answer: d
 
 Answer: c
 
-> Q30. What is one type of multi-device architecture for edge AI that can distribute computation across different devices? 
+> Q30. What is one type of multi-device architecture for edge AI that can distribute computation across different devices?
 
     a Device collaboration 
     b Device federation 
@@ -825,7 +824,7 @@ Answer: c
 
 Answer: a
 
-> Q31. What is one example of an edge computing framework that can support heterogeneous hardware platforms? 
+> Q31. What is one example of an edge computing framework that can support heterogeneous hardware platforms?
 
     a TensorFlow Lite 
     b PyTorch Mobile 
@@ -842,5 +841,3 @@ Answer: c
     d Resource-based EEoI
 
 Answer: a
-
-
