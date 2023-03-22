@@ -277,90 +277,94 @@
 
 > Q1. What is the primary use of sensors in edge AI?
 
-a) To process data
-b) To store data
-c) To collect data
-d) To transmit data
+    a) To process data
+    b) To store data
+    c) To collect data
+    d) To transmit data
 
-Answer: c) To collect data
+**Answer:** c) To collect data
 
 > Q2. Which type of sensor is commonly used to collect acoustic data?
 
-a) Environmental
-b) Biological
-c) Chemical
-d) Acoustic and vibration
+    a) Environmental
+    b) Biological
+    c) Chemical
+    d) Acoustic and vibration
 
-Answer: d) Acoustic and vibration
+**Answer:** d) Acoustic and vibration
 
-What type of processor is commonly used for edge AI?
+> Q3. What type of processor is commonly used for edge AI?
 
-a) Desktop computers
-b) Smartphones
-c) Microcontrollers and digital signal processors
-d) Cloud servers
+    a) Desktop computers
+    b) Smartphones
+    c) Microcontrollers and digital signal processors
+    d) Cloud servers
 
-Answer: c) Microcontrollers and digital signal processors
+**Answer:** c) Microcontrollers and digital signal processors
 
-What is the purpose of edge servers in edge AI?
+> Q4. What is the purpose of edge servers in edge AI?
 
-a) To process data locally
-b) To store data
-c) To transmit data to the cloud
-d) To collect data from sensors
+    a) To process data locally
+    b) To store data
+    c) To transmit data to the cloud
+    d) To collect data from sensors
 
-Answer: a) To process data locally
+**Answer:** a) To process data locally
 
-Which type of sensor is commonly used to collect visual and scene data?
+> Q5. Which type of sensor is commonly used to collect visual and scene data?
 
-a) Environmental
-b) Biological
-c) Chemical
-d) Optical
-Answer: d) Optical
+    a) Environmental
+    b) Biological
+    c) Chemical
+    d) Optical
 
-Which type of processor is designed to accelerate deep learning algorithms?
+**Answer:** d) Optical
 
-a) Microcontrollers
-b) Digital signal processors
-c) Edge servers
-d) Deep learning accelerators
-Answer: d) Deep learning accelerators
+> Q6. Which type of processor is designed to accelerate deep learning algorithms?
 
-What is the purpose of FPGAs in edge AI?
+    a) Microcontrollers
+    b) Digital signal processors
+    c) Edge servers
+    d) Deep learning accelerators
 
-a) To process data
-b) To store data
-c) To transmit data
-d) To accelerate specific tasks
+**Answer:** d) Deep learning accelerators
 
-Answer: d) To accelerate specific tasks
+> Q7. What is the purpose of FPGAs in edge AI?
 
-What type of architecture is commonly used in edge AI?
+    a) To process data
+    b) To store data
+    c) To transmit data
+    d) To accelerate specific tasks
 
-a) Single-device architectures
-b) Multi-device architectures
-c) Cloud architectures
-d) Mainframe architectures
+**Answer:** d) To accelerate specific tasks
 
-Answer: b) Multi-device architectures
+> Q8. What type of architecture is commonly used in edge AI?
 
-What is the purpose of edge computing frameworks in edge AI?
+    a) Single-device architectures
+    b) Multi-device architectures
+    c) Cloud architectures
+    d) Mainframe architectures
 
-a) To collect data
-b) To store data
-c) To process data
-d) To transmit data
+**Answer:** b) Multi-device architectures
 
-Answer: c) To process data
+> Q9. What is the purpose of edge computing frameworks in edge AI?
 
-Which type of sensor is commonly used to collect force and tactile data?
+    a) To collect data
+    b) To store data
+    c) To process data
+    d) To transmit data
 
-a) Environmental
-b) Biological
-c) Chemical
-d) Force and tactile
+**Answer:** c) To process data
 
-Answer: d) Force and tactile
+> Q10. Which type of sensor is commonly used to collect force and tactile data?
+
+    a) Environmental
+    b) Biological
+    c) Chemical
+    d) Force and tactile
+
+**Answer:** d) Force and tactile
+
+
 
 
