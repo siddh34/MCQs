@@ -644,16 +644,7 @@
 
 **Answer:** c) To process data
 
-> Q10. Which type of sensor is commonly used to collect force and tactile data?
-
-    a) Environmental
-    b) Biological
-    c) Chemical
-    d) Force and tactile
-
-**Answer:** d) Force and tactile
-
-> Q11. Which of the following types of sensors is used for detecting the presence and location of objects?
+> Q10. Which of the following types of sensors is used for detecting the presence and location of objects?
 
     A) Acoustic sensors
     B) Visual sensors
@@ -662,7 +653,7 @@
 
 **Answer:** C) Motion sensors
 
-> Q12. What is the primary source of data for visual and scene sensors?
+> Q11. What is the primary source of data for visual and scene sensors?
 
     A) Sound
     B) Light
@@ -671,7 +662,7 @@
 
 **Answer:** B) Light
 
-> Q13. Which type of sensor is used to measure the intensity and direction of electromagnetic waves?
+> Q12. Which type of sensor is used to measure the intensity and direction of electromagnetic waves?
 
     A) Acoustic sensors
     B) Optical sensors
@@ -680,7 +671,7 @@
 
 **Answer:** D) Radiation sensors
 
-> Q14. Which type of processor is commonly used for edge AI in low-power and resource-constrained devices?
+> Q13. Which type of processor is commonly used for edge AI in low-power and resource-constrained devices?
 
     A) Deep learning accelerators
     B) Edge servers
@@ -689,7 +680,7 @@
 
 **Answer:** C) Microcontrollers and digital signal processors
 
-> Q15. Which type of architecture involves the use of multiple devices for edge AI processing?
+> Q14. Which type of architecture involves the use of multiple devices for edge AI processing?
 
     A) Multi-device architectures
     B) Edge servers
@@ -698,7 +689,7 @@
 
 **Answer:** A) Multi-device architectures
 
-> Q16. Which of the following frameworks is commonly used for edge computing?
+> Q15. Which of the following frameworks is commonly used for edge computing?
 
     A) TensorFlow
     B) Apache Spark
@@ -707,7 +698,7 @@
 
 **Answer:** A) TensorFlow
 
-> Q17. Which type of sensor is used for measuring physical touch and pressure?
+> Q16. Which type of sensor is used for measuring physical touch and pressure?
 
     A) Acoustic sensors
     B) Force sensors
@@ -715,6 +706,71 @@
     D) Optical sensors
 
 **Answer:** B) Force sensors
+
+> Q17. Which of the following is NOT a type of sensor used for edge AI inference?
+
+    A) Acoustic
+    B) Visual
+    C) Chemical
+    D) None of the above
+
+**Answer:** C) Chemical
+
+> Q18. Which of the following processors is used for deep learning in edge AI inference?
+
+    A) Microcontrollers 
+    B) Digital signal processors
+    C) FPGAs
+    D) Edge servers
+
+**Answer:** C) FPGAs
+
+> Q19. Which type of sensor is used for measuring environmental factors in edge AI inference?
+   
+    A) Acoustic
+    B) Visual
+    C) Environmental
+    D) Radiation
+
+**Answer:** C) Environmental
+
+> Q20. Which type of processor is designed for low-power consumption and small form factor in edge AI inference?
+
+    A) Microcontrollers
+    B) Digital signal processors
+    C) Edge servers
+    D) FPGAs
+
+**Answer:** A) Microcontrollers
+
+> Q21. Which architecture allows multiple edge devices to work together in edge AI inference?
+   
+    A) System on Chip
+    B) Deep learning accelerators
+    C) Multi-device architectures
+    D) Edge Computing Frameworks
+
+**Answer:** C) Multi-device architectures
+
+> Q22. Which processor is designed for high-performance computing in edge AI inference?
+
+    A) Microcontrollers
+    B) Digital signal processors
+    C) Edge servers
+    D) FPGAs
+
+**Answer:** D) FPGAs
+
+> Q23. What is the main advantage of using edge servers for AI inference?
+
+    a) Lower cost compared to other processors
+    b) Higher processing power for complex models
+    c) Lower latency for real-time applications
+    d) Easier integration with other devices
+
+**Answer:** c) Lower latency for real-time applications
+
+
 
 
 
