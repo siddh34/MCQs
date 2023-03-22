@@ -1,8 +1,12 @@
 # EAI
 
+* No CIE was conducted for EAI
+
+* Soul purpose here is **practice**
+
 ## Unit 1
 
-Q1. Which design allows the reuse of the software and the hardware components?
+> Q1. Which design allows the reuse of the software and the hardware components?
 
     A.Memory Design
     B.Input design
@@ -11,7 +15,7 @@ Q1. Which design allows the reuse of the software and the hardware components?
 
 Answer: C
 
-Q2. hich process can be used in analyzing the set of possible designs?
+> Q2. hich process can be used in analyzing the set of possible designs?
 
     A.Scheduling
     B.Design space exploration
@@ -20,7 +24,7 @@ Q2. hich process can be used in analyzing the set of possible designs?
 
 Answer: B
 
-Q3. What is CTL?
+> Q3. What is CTL?
 
     A.code tree logic
     B.CPU tree logic
@@ -29,7 +33,7 @@ Q3. What is CTL?
 
 Answer: C
 
-Q4. An embedded system is a combination of _______.
+> Q4. An embedded system is a combination of _______.
 
     A.Software
     B.Hardware
@@ -38,7 +42,7 @@ Q4. An embedded system is a combination of _______.
 
 Answer: C
 
-Q5. Which of the following are the embedded components of plug in based card?
+> Q5. Which of the following are the embedded components of plug in based card?
 
     A.Memory
     B.Power supply
@@ -47,7 +51,7 @@ Q5. Which of the following are the embedded components of plug in based card?
 
 Answer: D
 
-Q6. Which of the following designed system factors are minimized for an embedded application?
+> Q6. Which of the following designed system factors are minimized for an embedded application?
 
     A.Cost
     B.Size
@@ -56,7 +60,7 @@ Q6. Which of the following designed system factors are minimized for an embedded
 
 Answer: D
 
-Q7. What is IoT?
+> Q7. What is IoT?
 
     a) network of physical objects embedded with sensors
     b) network of virtual objects
@@ -65,7 +69,7 @@ Q7. What is IoT?
 
 Answer: a
 
-Q8. Which of the following is not an IoT device?
+> Q8. Which of the following is not an IoT device?
 
     a) Table
     b) Laptop
@@ -74,7 +78,7 @@ Q8. Which of the following is not an IoT device?
 
 Answer: a
 
-Q9. 7. Which of the following is not an IoT platform?
+> Q9. Which of the following is not an IoT platform?
 
     a) Amazon Web Services
     b) Microsoft Azure
@@ -83,7 +87,7 @@ Q9. 7. Which of the following is not an IoT platform?
 
 Answer: a
 
-Q10. Which of the following is not a fundamental component of an IoT system?
+> Q10. Which of the following is not a fundamental component of an IoT system?
 
     a) Sensors
     b) Connectivity and data processing
@@ -92,7 +96,7 @@ Q10. Which of the following is not a fundamental component of an IoT system?
 
 Answer: d
 
-Q11. Which layer is used for wireless connection in IoT devices?
+> Q11. Which layer is used for wireless connection in IoT devices?
     a) Application layer
     b) Network layer
     c) Data link layer
@@ -100,7 +104,7 @@ Q11. Which layer is used for wireless connection in IoT devices?
 
 Answer: d
 
-Q12. Which of the following is used to capture data from the physical world in IoT devices?
+> Q12. Which of the following is used to capture data from the physical world in IoT devices?
 
     a) Sensors
     b) Actuators
@@ -109,7 +113,7 @@ Q12. Which of the following is used to capture data from the physical world in I
 
 Answer: a
 
-Q13. Which of the following is not a sensor in IoT?
+> Q13. Which of the following is not a sensor in IoT?
 
     a) BMP280
     b) DHT11
@@ -118,7 +122,7 @@ Q13. Which of the following is not a sensor in IoT?
 
 Answer: d
 
-Q14. What type of computing technology refers to services and applications that typically run on a distributed network through virtualized resources?
+> Q14. What type of computing technology refers to services and applications that typically run on a distributed network through virtualized resources?
 
     A.Distributed Computing
     B.Cloud Computing
@@ -127,7 +131,7 @@ Q14. What type of computing technology refers to services and applications that 
 
 Answer: B
 
-Q15. Which of the following has many features of that is now known as cloud computing?
+> Q15. Which of the following has many features of that is now known as cloud computing?
 
     A.Web Service
     B.Softwares
@@ -136,7 +140,7 @@ Q15. Which of the following has many features of that is now known as cloud comp
 
 Answer: D
 
-Q16. Which one of the following statements is not true?
+> Q16. Which one of the following statements is not true?
 
     A.The popularization of the Internet actually enabled most cloud computing systems.
     B.Cloud computing makes the long-held dream of utility as a payment possible for you, with an infinitely scalable, universally available system, pay what you use.
@@ -145,7 +149,7 @@ Q16. Which one of the following statements is not true?
 
 Answer: C
 
-Q17. Which of the following is not a type of cloud server?
+> Q17. Which of the following is not a type of cloud server?
 
     a) Public Cloud Servers
     b) Private Cloud Servers
@@ -154,7 +158,7 @@ Q17. Which of the following is not a type of cloud server?
 
 Answer: d
 
-Q18. Which of the following are the features of cloud computing?
+> Q18. Which of the following are the features of cloud computing?
 
     a) Security
     b) Availability
@@ -163,7 +167,7 @@ Q18. Which of the following are the features of cloud computing?
 
 Answer: d
 
-Q19. Which of the following is a type of cloud computing service?
+> Q19. Which of the following is a type of cloud computing service?
 
     a) Service-as-a-Software (SaaS)
     b) Software-and-a-Server (SaaS)
@@ -172,7 +176,7 @@ Q19. Which of the following is a type of cloud computing service?
 
 Answer: d
 
-Q20. Which of the following is the application of cloud computing?
+> Q20. Which of the following is the application of cloud computing?
 
     a) Adobe
     b) Paypal
@@ -181,7 +185,7 @@ Q20. Which of the following is the application of cloud computing?
 
 Answer: d
 
-Q21. Which of the following is the correct statement about cloud computing?
+> Q21. Which of the following is the correct statement about cloud computing?
 
     a) Cloud computing abstracts systems by pooling and sharing resources
     b) Cloud computing is nothing more than the Internet
@@ -190,14 +194,14 @@ Q21. Which of the following is the correct statement about cloud computing?
 
 Answer: a
 
-Q22. Fog computing is also known as fogging.
+> Q22. Fog computing is also known as fogging.
 
     a) False
     b) True
 
 Answer: b
 
-Q23. Fog computing has ____________ and ____________ plane.
+> Q23. Fog computing has ____________ and ____________ plane.
 
     a) Control and data
     b) Control and Barcode
@@ -206,7 +210,7 @@ Q23. Fog computing has ____________ and ____________ plane.
 
 Answer: a
 
-Q24. Which of the following computing emphasizes proximity to end user?
+> Q24. Which of the following computing emphasizes proximity to end user?
 
     a) Mist computing
     b) Cloud computing
@@ -215,7 +219,7 @@ Q24. Which of the following computing emphasizes proximity to end user?
 
 Answer: d
 
-Q25. QoS stands for ____________
+> Q25. QoS stands for ____________
 
     a) Quality of storage
     b) Quality of service
@@ -224,7 +228,7 @@ Q25. QoS stands for ____________
 
 Answer: b
 
-Q26. ___________ practice of using a network of remote servers hosted on the Internet of store.
+> Q26. ___________ practice of using a network of remote servers hosted on the Internet of store.
 
     a) Mist Computing
     b) Fog computing
@@ -233,7 +237,7 @@ Q26. ___________ practice of using a network of remote servers hosted on the Int
 
 Answer: c
 
-Q27. OpenFog Consortium defines and extends the application of _______ computing.
+> Q27. OpenFog Consortium defines and extends the application of _______ computing.
 
     a) Mist computing
     b) Edge computing
@@ -242,7 +246,7 @@ Q27. OpenFog Consortium defines and extends the application of _______ computing
 
 Answer: b
 
-Q28. Fog computing works well in cloud based _______ panel
+> Q28. Fog computing works well in cloud based _______ panel
 
     a) Cloud
     b) Data
@@ -251,7 +255,7 @@ Q28. Fog computing works well in cloud based _______ panel
 
 Answer: c
 
-Q29. What is edge computing?
+> Q29. What is edge computing?
 
     a.It is a blockchain technology
     b.It is a type of computing
@@ -260,7 +264,7 @@ Q29. What is edge computing?
 
 Answer: c
 
-Q30. What are the benefits of edge computing?
+> Q30. What are the benefits of edge computing?
 
     A.Autonomy
     B.Edge security
@@ -269,14 +273,14 @@ Q30. What are the benefits of edge computing?
 
 Answer: D
 
-Q31. Edge computing is the use of any type of computer program that delivers low latency nearer to the requests.
+> Q31. Edge computing is the use of any type of computer program that delivers low latency nearer to the requests.
 
     A.True
     B.False
 
 Answer: A
 
-Q32. What does MQTT stands for?
+> Q32. What does MQTT stands for?
 
     A.Message Queue Telemetry Things
     B.Message Queue Transport Things
