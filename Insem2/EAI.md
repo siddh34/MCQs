@@ -644,16 +644,7 @@
 
 **Answer:** c) To process data
 
-> Q10. Which type of sensor is commonly used to collect force and tactile data?
-
-    a) Environmental
-    b) Biological
-    c) Chemical
-    d) Force and tactile
-
-**Answer:** d) Force and tactile
-
-> Q11. Which of the following types of sensors is used for detecting the presence and location of objects?
+> Q10. Which of the following types of sensors is used for detecting the presence and location of objects?
 
     A) Acoustic sensors
     B) Visual sensors
@@ -662,7 +653,7 @@
 
 **Answer:** C) Motion sensors
 
-> Q12. What is the primary source of data for visual and scene sensors?
+> Q11. What is the primary source of data for visual and scene sensors?
 
     A) Sound
     B) Light
@@ -671,7 +662,7 @@
 
 **Answer:** B) Light
 
-> Q13. Which type of sensor is used to measure the intensity and direction of electromagnetic waves?
+> Q12. Which type of sensor is used to measure the intensity and direction of electromagnetic waves?
 
     A) Acoustic sensors
     B) Optical sensors
@@ -680,7 +671,7 @@
 
 **Answer:** D) Radiation sensors
 
-> Q14. Which type of processor is commonly used for edge AI in low-power and resource-constrained devices?
+> Q13. Which type of processor is commonly used for edge AI in low-power and resource-constrained devices?
 
     A) Deep learning accelerators
     B) Edge servers
@@ -689,7 +680,7 @@
 
 **Answer:** C) Microcontrollers and digital signal processors
 
-> Q15. Which type of architecture involves the use of multiple devices for edge AI processing?
+> Q14. Which type of architecture involves the use of multiple devices for edge AI processing?
 
     A) Multi-device architectures
     B) Edge servers
@@ -698,7 +689,7 @@
 
 **Answer:** A) Multi-device architectures
 
-> Q16. Which of the following frameworks is commonly used for edge computing?
+> Q15. Which of the following frameworks is commonly used for edge computing?
 
     A) TensorFlow
     B) Apache Spark
@@ -707,7 +698,7 @@
 
 **Answer:** A) TensorFlow
 
-> Q17. Which type of sensor is used for measuring physical touch and pressure?
+> Q16. Which type of sensor is used for measuring physical touch and pressure?
 
     A) Acoustic sensors
     B) Force sensors
@@ -716,5 +707,140 @@
 
 **Answer:** B) Force sensors
 
+> Q17. Which of the following is NOT a type of sensor used for edge AI inference?
+
+    A) Acoustic
+    B) Visual
+    C) Chemical
+    D) None of the above
+
+**Answer:** C) Chemical
+
+> Q18. Which of the following processors is used for deep learning in edge AI inference?
+
+    A) Microcontrollers 
+    B) Digital signal processors
+    C) FPGAs
+    D) Edge servers
+
+**Answer:** C) FPGAs
+
+> Q19. Which type of sensor is used for measuring environmental factors in edge AI inference?
+   
+    A) Acoustic
+    B) Visual
+    C) Environmental
+    D) Radiation
+
+**Answer:** C) Environmental
+
+> Q20. Which type of processor is designed for low-power consumption and small form factor in edge AI inference?
+
+    A) Microcontrollers
+    B) Digital signal processors
+    C) Edge servers
+    D) FPGAs
+
+**Answer:** A) Microcontrollers
+
+> Q21. Which architecture allows multiple edge devices to work together in edge AI inference?
+   
+    A) System on Chip
+    B) Deep learning accelerators
+    C) Multi-device architectures
+    D) Edge Computing Frameworks
+
+**Answer:** C) Multi-device architectures
+
+> Q22. What is the main advantage of using edge servers for AI inference?
+
+    a) Lower cost compared to other processors
+    b) Higher processing power for complex models
+    c) Lower latency for real-time applications
+    d) Easier integration with other devices
+
+**Answer:** c) Lower latency for real-time applications
+
+
+> Q23. What is one benefit of inferencing at the edge? 
+
+    a) It reduces latency and bandwidth requirements for real-time services 
+    b) It increases accuracy and performance of large-scale AI models 
+    c) It simplifies training and deployment of AI models on cloud servers 
+    d) It enhances data safety and privacy protection for important data sources 
+
+Answer: d
+
+> Q24. What is one challenge of optimizing AI models for edge nodes? 
+
+    a) How to ensure that there is no significant loss in model accuracy after being optimized 
+    b) How to increase the depth and width of AI models with nearly constant computation overhead 
+    c) How to leverage model redundancies to make model optimization possible 
+    d) How to transform or re-design AI models to fit in edge devices 
+
+Answer: a
+
+> Q26. What is one general method for model optimization for edge nodes with relatively sufficient resources? 
+
+    a) Model pruning and compression 
+    b) Model quantization and binarization 
+    c) Model distillation and knowledge transfer 
+    d) Model inception and deep residual networks 
+
+Answer: d
+
+> Q27. What is one fine-grained method for model optimization for end devices with tight resource budgets? 
+
+    a) Model pruning and compression 
+    b) Model quantization and binarization 
+    c) Model distillation and knowledge transfer 
+    d) Model inception and deep residual networks 
+
+Answer: b)4
+
+> Q28. What is one type of processor for edge AI that can be customized for specific applications? 
+
+    a) Microcontrollers and digital signal processors 
+    b) System on Chip 
+    c) Deep learning accelerators 
+    d) FPGAs and ASICs 
+
+Answer: d
+
+> Q29. What is one type of processor for edge AI that can run multiple neural networks simultaneously? 
+
+    a) Microcontrollers and digital signal processors 
+    b) System on Chip 
+    c) Deep learning accelerators 
+    d) FPGAs and ASICs 
+
+Answer: c
+
+> Q30. What is one type of multi-device architecture for edge AI that can distribute computation across different devices? 
+
+    a Device collaboration 
+    b Device federation 
+    c Device orchestration 
+    d Device synchronization 
+
+Answer: a
+
+> Q31. What is one example of an edge computing framework that can support heterogeneous hardware platforms? 
+
+    a TensorFlow Lite 
+    b PyTorch Mobile 
+    c OpenVINO Toolkit 
+    d Edge TPU Runtime
+
+Answer: c
+
+> Q32. What is one example of an early exit opportunity inference (EEoI), which enables fast inference using shallow portions of AI models at edge devices?
+
+    a Confidence-based EEoI
+    b Accuracy-based EEoI
+    c Latency-based EEoI
+    d Resource-based EEoI
+
+Answer: a
 
 
