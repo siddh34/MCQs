@@ -1,5 +1,11 @@
 # SDA MCQ's
 
+* Sole purpose here is practice
+
+* Very Important to visit the drive link first
+
+    [SDA Link](https://drive.google.com/drive/folders/1jfc8rhQnRRFx8idStr8fu84RcLZSEE7T)
+
 ## UNIT 1 MCQ's
 
 >Q1. Which of these truly defines Software design?
