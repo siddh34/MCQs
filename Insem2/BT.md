@@ -1,5 +1,7 @@
 # BT
 
+* The sole purpose of this md file is practice
+
 ## Unit 1
 
 Q1. Blockchain is a peer-to-peer _____________ distributed ledger technology that makes the records of any digital asset transparent and unchangeable.
