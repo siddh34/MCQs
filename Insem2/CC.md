@@ -591,8 +591,8 @@ Q41. A company recently deployed an Amazon RDS instance in its VPC. The company 
 Which AWS service or feature should the company use to limit network traffic directly to its RDS instance?
 
     A. Network ACLs
-    B. Security groups
-    C. AWS WAF
+    B. AWS WAF
+    C. Security groups
     D. Amazon GuardDuty
 
 Answer: C
